@@ -3,24 +3,67 @@
     
     <head>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    
+		<style>
+* {
+  box-sizing: border-box;
+}
 
-	</head>
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 70%; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+		
+</style>
+		
+</head>
     <body>
-				<div class="header" id="myHeader">
-              
-                    <h2 style="text-align:center": 40px; top: 300px"> 
-						
-						
-						Results, information extraction for ACCEPT model
-                     
+<img src="{{url_for('static', filename='Header.png')}}" width="100%" height="8%" alt=""/>
+<div class="row">
+  <div class="column" style="background-color:#E8E2E2;">
+    <h5>&nbsp;&nbsp;Submitted text</h5>
+    <div>
+<div>
+  
+	<p>&nbsp;&nbsp;<textarea  rows="10" width='100%' style="font-size: 14pt; line-height: 200% ; width:90%;" >{{ text['body']['text'] }}</textarea></p>
+</div>
+		<div>
 
-					 </h2>					
-                </div>   
-				  
-				  
-				  <div class="container" width='50%'>
-				   <p style="margin-left: 40px"> 
+<p> 
+			 &nbsp;&nbsp;       '-1' represents that the user has mentioned the absence of a feature for the particular patient.
+		  </p>
+		  <p> 
+					&nbsp; &nbsp;        '0' represents that the feature is not been addressed by user and might be asked again to be filled.
+		  </p>
+			
+          &nbsp;&nbsp; <p class="text-uppercase">&nbsp;&nbsp;&nbsp;</p>
+          <p class="text-uppercase">&nbsp;</p>
+                    <p class="text-uppercase">&nbsp;&nbsp; <strong>&nbsp;&nbsp; <a href="javascript:javascript:history.go(-1)" style="text-align:center">&nbsp;&nbsp; Go back to the submission form</a></strong></p>
+        </div>
+		
+		
+		
+		
+ 
+</blockquote>
+ 
+    </div>
+	  
+	  
+  </div>
+  <div class="column" style="background-color:; height:50%">
+	  				  <div class="container" width='50%' height='80%'>
+				   <p style="margin-left: 40px">
+					   <h3> Results;&nbsp; Extracted information</h3>
 				   
 				   <table class="table table-striped">
 					  <thead>
@@ -50,16 +93,12 @@
 								  <td>{{ text['body']['smoker'][1] }}</td>
 								  
 								</tr>
-							
-						
 							<tr>	
 								 <th scope="row">BMI </th>
 								  <td>{{ text['body']['BMI'][0] }}</td>
 								  <td>{{ text['body']['BMI'][1] }}</td>
 								  
 								</tr>	
-								
-								
 								 <th scope="row">FEV1 </th>
 								  <td>{{ text['body']['FEV1'][0] }}</td>
 								  <td>{{ text['body']['FEV1'][1] }}</td>
@@ -124,35 +163,22 @@
 																
 					  </tbody>
 					</table>
-					</div>
-									  
-				  </p>
-				  
-
-                 <div>
-				    <p style="text-align:center">
-	
-					<A HREF="javascript:javascript:history.go(-1)" style="text-align:center">Go back to the submission form</A>
-                        
-
-                    </p>  
-					<div>
-					<p> 
-					 -     '-1' represents that the user has mentioned the absence of a feature for the particular patient.
-					</p>
-					<p> 
-					-      '0' represents that the feature is not been addressed by user and might be asked again to be filled.
-					</p>
 					
-     
-                  </div
-                 
-                 
-                 
-                 
-                 
+					</div>
     
-    </body>
+	  
+	  
+	  </p>
+  </div>
+</div>
+          
+
+        
+    
+    
+</body>
 
 
 
+
+</html>

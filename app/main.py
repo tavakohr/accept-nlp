@@ -52,18 +52,18 @@ Oxygen_list = ['oxygen therapy', 'o2', 'oxygen', 'o2 therapy']
 
 text = '''
 patient is a 78 years old female , she is smoker. 
-has 5 severe exacerbation last year.
-He had 2 moderate exacerbation last year.
+had 5 severe exacerbation last year.
+She had 2 moderate exacerbation last year.
 she is under treatment with budesonide and umeclidinium . 
-she never used any statin. last year. 
+she never used any statins last year. 
 she doesn't use Oxygen therapy.
 CAT score is  23 and her BMI is 31.
-she do not use  LABA. 
+she does not use LABA. 
 she hasn't used LABA. Never used LABA . 
 She doesn't use long acting anticholinergic.
-FEV1 percetage is 25%.
+FEV1 percentage is 25%.
 Dr J sent his suggestions for treatment ,
-she is not on Oxygen therapy.
+she is not on oxygen therapy.
 SGRQ was 23'''
 doc_reloaded = nlp_reloaded(text)
 

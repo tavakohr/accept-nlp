@@ -3,33 +3,93 @@
     
     <head>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    </head>
+		<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 90%; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+textarea
+ 		
+			
+</style>
+		
+</head>
     <body>
-        <h3>
-           <p style="margin-left: 40px"> Please respond to the ACCEPT questionair</p> 
-        </h3>
-        <form method="POST" action="/send">
+<img src="{{url_for('static', filename='Header.png')}}" width="100%" height="8%" alt=""/>
+<div class="row">
+  <div class="column" style="background-color:#E8E2E2;">
+    <h5>&nbsp;&nbsp;Acute COPD Exacerbation Prediction Tool (ACCEPT)&nbsp;</h5>
+    <div>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;Please address following questions on your dictation:&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;1-Age (year)*</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;2-Is the patient currently a smoker?*</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;3- Post-bronchodilator FEV1 (% predicted) *&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;4-St. Georges Respiratory Questionnaire Score (SGRQ)&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;5-If SGRQ is not available, please enter COPD Assessment Test (CAT) Score</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;6-Body mass index (BMI) *&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;7-Has the patient received oxygen therapy within the last year? *&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;8-Is the patient currently on statins? *&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;9-Is the patient currently on LAMAs? *&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;10-Is the patient currently on LABAs? *&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;11-Is the patient currently on inhaled corticosteroids? *&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;12-Number of All Exacerbations within the last 12 months *&nbsp;</strong></p>
+      <p class="text-left text-capitalize col-xl-10 offset-xl-1"><strong>&nbsp;13-Number of Severe Exacerbations within the last 12 months *</strong></p>
+      <blockquote>
+        <p class="text-left col-xl-10 offset-xl-1 text-capitalize"><em>&nbsp; &nbsp; &nbsp; &nbsp; Either SGRQ or CAT score must be entered.</em></p>
+      </blockquote>
+<p class="text-left col-xl-10 offset-xl-1 text-capitalize"><em>&nbsp; &nbsp; &nbsp; &nbsp; You can use any order to answer the questions</em></p>
+<p class="text-left col-xl-10 offset-xl-1 text-capitalize">&nbsp; &nbsp; &nbsp; &nbsp; You can use the brand or generic names of medications</p>
+    </div>
+	  
+	  
+  </div>
+  <div class="column" style="background-color:;">
+    <h5>Please use keyboard or microphone to fill the text then submit the form</h5>
+    <p><img src= "{{url_for('static', filename='keyboard.png')}}"  width="61" height="61" alt=""><img src="{{url_for('static', filename='MIC.png')}}" width="60" height="61" alt="">&nbsp;</p>
+    <p><form method="POST" action="/send">
             
         <div class="form-group">
          <p style="margin-left: 40px"> 
-             <textarea id="text" name="text" rows="10" cols="90" style="font-size: 14pt; line-height: 200%"  >
+           <textarea id="text" name="text" rows="10"   style="font-size: 14pt; line-height: 200%;  width:90%;"  >
 Patient is a 78 years old female , smoker. she doesn't use oxygen therapy. 
 She has seven exacerbations last year and 2 severe exacerbations .
-She is under treatment with budesonide and umeclidinium . She has no history of using statin. 
+She is under treatment with budesonide and umeclidinium . She has no history of using Statin. 
 CAT score is 20 and her BMI is 31. She does not use LABA. Never used SABA. 
-FEV1 percentage  is 25%. Dr J sent his suggestions  for treatment with new medications.SGRQ score is 11.
+FEV1 percentage  is 25%. Dr J sent his suggestions  for treatment with new medications. 
+SGRQ score is 11.
             </textarea>
         </p>
         </div>
         <p style="margin-left: 40px">
             <input class="btn btn-primary" type="submit" value="submit">
-            </p>
+      </p>
         
         </form>
+	  
+	  
+	  </p>
+  </div>
+</div>
+          
+
         
     
     
-    </body>
+</body>
 
 
 
