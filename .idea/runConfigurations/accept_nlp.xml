@@ -1,10 +1,11 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="testapp" type="docker-deploy" factoryName="docker-image" server-name="Docker">
-    <deployment type="docker-image">
+  <configuration default="false" name="accept-nlp" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+    <deployment type="dockerfile">
       <settings>
-        <option name="imageTag" value="testapp:latest" />
+        <option name="imageTag" value="accept-nlp" />
+        <option name="buildCliOptions" value="--no-cache" />
         <option name="command" value="" />
-        <option name="containerName" value="testapp" />
+        <option name="containerName" value="" />
         <option name="entrypoint" value="" />
         <option name="portBindings">
           <list>
@@ -15,6 +16,7 @@
           </list>
         </option>
         <option name="commandLineOptions" value="" />
+        <option name="sourceFilePath" value="app/Dockerfile" />
       </settings>
     </deployment>
     <method v="2" />

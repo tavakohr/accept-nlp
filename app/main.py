@@ -51,19 +51,18 @@ STATIN_list = ['statin', 'atorvastatin', 'fluvastatin ', 'lovastatin', 'pravasta
 Oxygen_list = ['oxygen therapy', 'o2', 'oxygen', 'o2 therapy']
 
 text = '''
-patient is a 78 years old female , she is smoker. 
+patient is a 78 years old female, she is not a smoker. 
 had 5 severe exacerbation last year.
-She had 2 moderate exacerbation last year.
+She had 2 moderate exacerbations last year.
 she is under treatment with budesonide and umeclidinium . 
 she never used any statins last year. 
-she doesn't use Oxygen therapy.
-CAT score is  23 and her BMI is 31.
-she does not use LABA. 
+CAT score is 23 and her BMI is 31.
+she do not use  LABA. 
 she hasn't used LABA. Never used LABA . 
 She doesn't use long acting anticholinergic.
 FEV1 percentage is 25%.
-Dr J sent his suggestions for treatment ,
-she is not on oxygen therapy.
+Dr J sent his suggestions for treatment,
+she is not on Oxygen therapy.
 SGRQ was 23'''
 doc_reloaded = nlp_reloaded(text)
 
@@ -289,6 +288,7 @@ def Gender_recognizer(doc_reloaded):
 def Smoking_recognizer(doc_reloaded):
     doc = doc_reloaded
     sents = [sent for sent in doc.sents]
+
     try:
         out_loop = '0'
         for sent in sents:
@@ -296,7 +296,7 @@ def Smoking_recognizer(doc_reloaded):
 
             negation = [tok for tok in sent if tok.dep_ == 'neg']
 
-            quitted = [tok for tok in sent if tok.lemma_ == 'quit']
+            quitted = [tok for tok in sent if tok.lemma_ == 'quit' or tok.lemma_ == 'no' or tok.lemma_ == 'not']
             # print(sent, any(tok for tok in sent if tok.lemma_ == 'smoke' or tok.lemma_ == 'smoker'or tok.lemma_ == 'smoking'))
             if any(tok for tok in sent if tok.lemma_ == 'smoke' or tok.lemma_ == 'smoker' or tok.lemma_ == 'smoking'):
 
@@ -534,7 +534,7 @@ def BMI_recognizer(AWS_M_entities):
 
 ################################################# SGRQ ################################
 def SGRQ_recognizer(AWS_M_entities):
-    arr = ['respiratory questionnaire score', 'sgrq', 'st george score)']
+    arr = ['respiratory questionnaire score', 'sgrq', 'st george score', "st. george's respiratory questionnaire"]
     SGRQ_loop = '0'
     score = 0
     try:
@@ -653,6 +653,8 @@ def FEV1_recognizer(AWS_M_entities):
 
 
 def lambda_handler(text, event=None, contex=None):
+    originaltext = text
+
     try:
         #############  Part 1: Analyse text with 4 NLP Models
 
@@ -687,6 +689,7 @@ def lambda_handler(text, event=None, contex=None):
             global_dict['ICS'] = Boolean_recognizer(text, doc_reloaded, 'ICS', AWS_M_entities, ICS_list)
             global_dict['Exacerbations'] = Number_Mild_exacerbation(doc_reloaded)
             global_dict['Severe_exacerbation'] = Number_Severe_exacerbation(text, doc_reloaded)
+            global_dict['text'] = originaltext
 
             return {'stausCode': 200, 'body': global_dict}
 
@@ -697,7 +700,8 @@ def lambda_handler(text, event=None, contex=None):
         else:
             print('Warning! incorrect input in lambda_handler')
 
-        # app.py - a minimal flask api using flask_restful
+
+############################### app.py - a minimal flask api using flask_restful
 from flask import Flask, request, jsonify, render_template
 from flask_restful import Resource, Api
 app = Flask(__name__)
