@@ -1,0 +1,1249 @@
+1. Lancet. 2017 May 13;389(10082):1919-1929. doi: 10.1016/S0140-6736(17)30188-5. 
+Epub 2017 Apr 3.
+
+Single inhaler extrafine triple therapy versus long-acting muscarinic antagonist 
+therapy for chronic obstructive pulmonary disease (TRINITY): a double-blind, 
+parallel group, randomised controlled trial.
+
+Vestbo J(1), Papi A(2), Corradi M(3), Blazhko V(4), Montagna I(5), Francisco 
+C(6), Cohuet G(6), Vezzoli S(5), Scuri M(5), Singh D(7).
+
+Author information:
+(1)Division of Infection, Immunity and Respiratory Medicine, University of 
+Manchester, Manchester, UK; University Hospital South Manchester NHS Foundation 
+Trust, Manchester, UK; Medicines Evaluation Unit, Manchester, UK. Electronic 
+address: jorgen.vestbo@manchester.ac.uk.
+(2)Research Centre on Asthma and COPD, University of Ferrara, Ferrara, Italy.
+(3)Department of Clinical and Experimental Medicine, University of Parma, Parma, 
+Italy.
+(4)Pulmonology Department No 2, Kharkiv City Clinical Hospital No 13, Kharkiv, 
+Ukraine.
+(5)Global Clinical Development, Chiesi Farmaceutici SpA, Parma, Italy.
+(6)Global Clinical Development, Chiesi SAS, Courbevoie, France.
+(7)Division of Infection, Immunity and Respiratory Medicine, University of 
+Manchester, Manchester, UK; University Hospital South Manchester NHS Foundation 
+Trust, Manchester, UK; Medicines Evaluation Unit, Manchester, UK.
+
+Comment in
+    Lancet. 2017 May 13;389(10082):1864-1865.
+    Lancet Respir Med. 2017 Jul;5(7):e25.
+    Lancet Respir Med. 2017 Jul;5(7):e26.
+
+BACKGROUND: Limited data are available for the efficacy of triple therapy with 
+two long-acting bronchodilators and an inhaled corticosteroid in chronic 
+obstructive pulmonary disease (COPD). We compared treatment with extrafine 
+beclometasone dipropionate, formoterol fumarate, and glycopyrronium bromide 
+(BDP/FF/GB; fixed triple) with tiotropium, and BDP/FF plus tiotropium (open 
+triple).
+METHODS: For this double-blind, parallel-group, randomised, controlled trial, 
+eligible patients had COPD, post-bronchodilator forced expiratory volume in 1 s 
+(FEV1) of less than 50%, at least one moderate-to-severe COPD exacerbation in 
+the previous 12 months, and a COPD Assessment Test total score of at least 10. 
+After a 2-week run-in period receiving one inhalation per day via single-dose 
+dry-powder inhaler of open-label 18 μg tiotropium, patients were randomised 
+(2:2:1) using a interactive response technology system to 52 weeks treatment 
+with tiotropium, fixed triple, or open triple. Randomisation was stratified by 
+country and severity of airflow limitation. The primary endpoint was 
+moderate-to-severe COPD exacerbation rate. The key secondary endpoint was change 
+from baseline in pre-dose FEV1 at week 52. The trial is registered with 
+ClinicalTrials.gov, number NCT01911364.
+FINDINGS: Between Jan 21, 2014, and March 18, 2016, 2691 patients received fixed 
+triple (n=1078), tiotropium (n=1075), or open triple (n=538). Moderate-to-severe 
+exacerbation rates were 0·46 (95% CI 0·41-0·51) for fixed triple, 0·57 
+(0·52-0·63) for tiotropium, and 0·45 (0·39-0·52) for open triple; fixed triple 
+was superior to tiotropium (rate ratio 0·80 [95% CI 0·69-0·92]; p=0·0025). For 
+week 52 pre-dose FEV1, fixed triple was superior to tiotropium (mean difference 
+0·061 L [0·037 to 0·086]; p<0·0001) and non-inferior to open triple (-0·003L 
+[-0·033 to 0·027]; p=0·85). Adverse events were reported by 594 (55%) patients 
+with fixed triple, 622 (58%) with tiotropium, and 309 (58%) with open triple.
+INTERPRETATION: In our TRINITY study, treatment with extrafine fixed triple 
+therapy had clinical benefits compared with tiotropium in patients with 
+symptomatic COPD, FEV1 of less than 50%, and a history of exacerbations.
+FUNDING: Chiesi Farmaceutici SpA.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(17)30188-5
+PMID: 28385353 [Indexed for MEDLINE]
+
+
+2. Cochrane Database Syst Rev. 2017 Feb 10;2(2):CD012066. doi: 
+10.1002/14651858.CD012066.pub2.
+
+Long-acting muscarinic antagonist (LAMA) plus long-acting beta-agonist (LABA) 
+versus LABA plus inhaled corticosteroid (ICS) for stable chronic obstructive 
+pulmonary disease (COPD).
+
+Horita N(1), Goto A(2), Shibata Y(1), Ota E(3), Nakashima K(1), Nagai K(1), 
+Kaneko T(1).
+
+Author information:
+(1)Department of Respiratory Medicine, Yokohama City University Graduate School 
+of Medicine, Fukuura 3-9, Kanazawa, Yokohama, Japan, 236-0004.
+(2)Metabolic Epidemiology Section, Division of Epidemiology, Center for Public 
+Health Sciences, National Cancer Center, Tokyo, Japan, 5-1-1 Tsukiji, Chuo-ku, 
+Tokyo, Japan, 104-0045.
+(3)Global Health Nursing, St. Luke's International University, Graduate School 
+of Nursing Sciences, 10-1 Akashi-cho, Chuo-Ku, Tokyo, Japan, 104-0044.
+
+Comment in
+    Evid Based Med. 2017 Oct;22(5):183-184.
+
+BACKGROUND: Three classes of inhaler medications are used to manage chronic 
+obstructive pulmonary disease (COPD): long-acting beta-agonists (LABA), 
+long-acting muscarinic antagonists (LAMA), and inhaled corticosteroids (ICS). 
+When two classes of medications are required, LAMA plus LABA (LAMA+LABA) and 
+LABA plus ICS (LABA+ICS) are often selected because these combinations can be 
+administered via a single medication device. The previous Global Initiative for 
+Chronic Obstructive Lung Disease (GOLD) guidance recommended LABA+ICS as the 
+first-line treatment for managing stable COPD in high-risk people of categories 
+C and D. However, the updated GOLD 2017 guidance recommends LAMA+LABA over 
+LABA+ICS.
+OBJECTIVES: To compare the benefits and harms of LAMA+LABA versus LABA+ICS for 
+treatment of people with stable COPD.
+SEARCH METHODS: We performed an electronic search of the Cochrane Airways Group 
+Specialised Register (2 February 2016), ClinicalTrials.gov (4 June 2016), and 
+the World Health Organization Clinical Trials Search Portal (4 June 2016), 
+followed by a handsearch (5 June 2016). Two review authors screened and 
+scrutinised the selected articles.
+SELECTION CRITERIA: We included individual randomised controlled trials, 
+parallel-group trials, and cross-over trials comparing LAMA+LABA and LABA+ICS 
+for stable COPD. The minimum accepted trial duration was one month and trials 
+should have been conducted in an outpatient setting.
+DATA COLLECTION AND ANALYSIS: Two review authors independently extracted data 
+and evaluated risk of bias. We resolved any discrepancies through discussion. We 
+analysed dichotomous data as odds ratios (OR), and continuous data as mean 
+differences (MD), with 95% confidence interval (CI) using Review Manager 5. 
+Exacerbations were measured by counting the number of people experiencing one or 
+more exacerbation.
+MAIN RESULTS: We included 11 studies comprising 9839 participants in our 
+quantitative analysis. Most studies included people with moderate to severe 
+COPD, without recent exacerbations. One pharmaceutical sponsored trial that 
+included only people with recent exacerbations was the largest study and 
+accounted for 37% of participants. All but one study were sponsored by 
+pharmaceutical companies, thus we rated them as having a high risk of 'other 
+bias'. The unsponsored study was at high risk of performance and detection bias, 
+and possible selective reporting.Five studies recruited GOLD Category B 
+participants, one study recruited Category D participants, two studies recruited 
+Category A/B participants, and three studies recruited participants regardless 
+of category. Follow-up ranged from 6 to 52 weeks.Compared to the LABA+ICS arm, 
+the results for the pooled primary outcomes for the LAMA+LABA arm were as 
+follows: exacerbations, OR 0.82 (95% CI 0.70 to 0.96, P = 0.01, I2 = 17%, low 
+quality evidence); serious adverse events (SAE), OR 0.91 (95% CI 0.79 to 1.05, P 
+= 0.18, I2 = 0, moderate quality evidence); St. George's Respiratory 
+Questionnaire (SGRQ) total score change from the baseline, MD -1.22 (95% CI 
+-2.52 to 0.07, P = 0.06, I2 = 71%, low quality evidence); and trough forced 
+expiratory volume in one second (FEV1) change from the baseline, MD 0.08 L (95% 
+CI 0.06 to 0.09, P < 0.0001, I2 = 50%, moderate quality evidence). Compared to 
+the LABA+ICS arm, the results for the pooled secondary outcomes for the 
+LAMA+LABA arm were as follows: pneumonia, OR 0.57 (95% CI 0.42 to 0.79, P = 
+0.0006, I2 = 0%, low quality evidence); all-cause death, OR 1.01 (95% CI 0.61 to 
+1.67, P = 0.88, I2 = 0%, low quality evidence); and SGRQ total score change from 
+the baseline of 4 points or greater (the minimal clinically important difference 
+for the SGRQ is 4 points), OR 1.25 (95% CI 1.09 to 1.44, P = 0.002, I2 = 0%, 
+moderate quality evidence).
+AUTHORS' CONCLUSIONS: For the treatment of COPD, LAMA+LABA has fewer 
+exacerbations, a larger improvement of FEV1, a lower risk of pneumonia, and more 
+frequent improvement in quality of life as measured by an increase over 4 units 
+or more of the SGRQ. These data were supported by low or moderate quality 
+evidence generated from mainly participants with moderate to severe COPD in 
+heterogeneous trials with an observation period of less than one year. Our 
+findings support the recently updated GOLD guidance.
+
+DOI: 10.1002/14651858.CD012066.pub2
+PMCID: PMC6464543
+PMID: 28185242 [Indexed for MEDLINE]
+
+Conflict of interest statement: TK: received grants or lecture fees (or both) 
+from GlaxoSmithKline, Boehringer Ingelheim, Pfizer, Meiji, AstraZeneca, and 
+Novartis from 2013 to 2016. This review was not funded by any pharmaceutical 
+companies. HN, GA, SY, OE, NK, and NK: none known.
+
+
+3. N Engl J Med. 2018 May 3;378(18):1671-1680. doi: 10.1056/NEJMoa1713901. Epub 
+2018 Apr 18.
+
+Once-Daily Single-Inhaler Triple versus Dual Therapy in Patients with COPD.
+
+Lipson DA(1), Barnhart F(1), Brealey N(1), Brooks J(1), Criner GJ(1), Day NC(1), 
+Dransfield MT(1), Halpin DMG(1), Han MK(1), Jones CE(1), Kilbride S(1), Lange 
+P(1), Lomas DA(1), Martinez FJ(1), Singh D(1), Tabberer M(1), Wise RA(1), Pascoe 
+SJ(1); IMPACT Investigators.
+
+Author information:
+(1)From GlaxoSmithKline, Collegeville (D.A. Lipson, J.B., S.J.P.), and the 
+Perelman School of Medicine, University of Pennsylvania (D.A. Lipson), and Lewis 
+Katz School of Medicine at Temple University (G.J.C.), Philadelphia - all in 
+Pennsylvania; GlaxoSmithKline, Research Triangle Park, NC (F.B., C.E.J.); 
+GlaxoSmithKline, Stockley Park West, Uxbridge (N.B., N.C.D., S.K., M.T.), the 
+Department of Respiratory Medicine, Royal Devon and Exeter Hospital, Exeter 
+(D.M.G.H.), UCL Respiratory, University College London, London (D.A. Lomas), and 
+the Centre for Respiratory Medicine and Allergy, Institute of Inflammation and 
+Repair, Manchester Academic Health Science Centre, University of Manchester, 
+Manchester University NHS Foundation Trust, Manchester (D.S.) - all in the 
+United Kingdom; the Division of Pulmonary, Allergy, and Critical Care Medicine, 
+Lung Health Center, University of Alabama at Birmingham, Birmingham (M.T.D.); 
+the Division of Pulmonary and Critical Care Medicine, University of Michigan, 
+Ann Arbor (M.K.H.); the Department of Public Health, University of Copenhagen, 
+Copenhagen (P.L.), and the Medical Department, Pulmonary Section, 
+Herlev-Gentofte Hospital, Herlev (P.L.) - both in Denmark; New York-Presbyterian 
+Hospital/Weill Cornell Medical Center, New York (F.J.M.); and the Division of 
+Pulmonary and Critical Care Medicine, Johns Hopkins University School of 
+Medicine, Baltimore (R.A.W.).
+
+Comment in
+    N Engl J Med. 2018 May 3;378(18):1723-1724.
+    N Engl J Med. 2018 Aug 09;379(6):590-1.
+    N Engl J Med. 2018 Aug 09;379(6):591.
+    N Engl J Med. 2018 Aug 09;379(6):591-2.
+    Ann Intern Med. 2018 Aug 21;169(4):JC16.
+    MMW Fortschr Med. 2018 Oct;160(17):34.
+    Dtsch Med Wochenschr. 2018 Nov;143(23):1668.
+
+BACKGROUND: The benefits of triple therapy for chronic obstructive pulmonary 
+disease (COPD) with an inhaled glucocorticoid, a long-acting muscarinic 
+antagonist (LAMA), and a long-acting β2-agonist (LABA), as compared with dual 
+therapy (either inhaled glucocorticoid-LABA or LAMA-LABA), are uncertain.
+METHODS: In this randomized trial involving 10,355 patients with COPD, we 
+compared 52 weeks of a once-daily combination of fluticasone furoate (an inhaled 
+glucocorticoid) at a dose of 100 μg, umeclidinium (a LAMA) at a dose of 62.5 μg, 
+and vilanterol (a LABA) at a dose of 25 μg (triple therapy) with fluticasone 
+furoate-vilanterol (at doses of 100 μg and 25 μg, respectively) and 
+umeclidinium-vilanterol (at doses of 62.5 μg and 25 μg, respectively). Each 
+regimen was administered in a single Ellipta inhaler. The primary outcome was 
+the annual rate of moderate or severe COPD exacerbations during treatment.
+RESULTS: The rate of moderate or severe exacerbations in the triple-therapy 
+group was 0.91 per year, as compared with 1.07 per year in the fluticasone 
+furoate-vilanterol group (rate ratio with triple therapy, 0.85; 95% confidence 
+interval [CI], 0.80 to 0.90; 15% difference; P<0.001) and 1.21 per year in the 
+umeclidinium-vilanterol group (rate ratio with triple therapy, 0.75; 95% CI, 
+0.70 to 0.81; 25% difference; P<0.001). The annual rate of severe exacerbations 
+resulting in hospitalization in the triple-therapy group was 0.13, as compared 
+with 0.19 in the umeclidinium-vilanterol group (rate ratio, 0.66; 95% CI, 0.56 
+to 0.78; 34% difference; P<0.001). There was a higher incidence of pneumonia in 
+the inhaled-glucocorticoid groups than in the umeclidinium-vilanterol group, and 
+the risk of clinician-diagnosed pneumonia was significantly higher with triple 
+therapy than with umeclidinium-vilanterol, as assessed in a time-to-first-event 
+analysis (hazard ratio, 1.53; 95% CI, 1.22 to 1.92; P<0.001).
+CONCLUSIONS: Triple therapy with fluticasone furoate, umeclidinium, and 
+vilanterol resulted in a lower rate of moderate or severe COPD exacerbations 
+than fluticasone furoate-vilanterol or umeclidinium-vilanterol in this 
+population. Triple therapy also resulted in a lower rate of hospitalization due 
+to COPD than umeclidinium-vilanterol. (Funded by GlaxoSmithKline; IMPACT 
+ClinicalTrials.gov number, NCT02164513 .).
+
+DOI: 10.1056/NEJMoa1713901
+PMID: 29668352 [Indexed for MEDLINE]
+
+
+4. Pulm Pharmacol Ther. 2018 Feb;48:71-79. doi: 10.1016/j.pupt.2017.10.003. Epub 
+2017 Oct 4.
+
+Pharmacodynamics, pharmacokinetics and safety of revefenacin (TD-4208), a 
+long-acting muscarinic antagonist, in patients with chronic obstructive 
+pulmonary disease (COPD): Results of two randomized, double-blind, phase 2 
+studies.
+
+Quinn D(1), Barnes CN(2), Yates W(3), Bourdet DL(4), Moran EJ(5), Potgieter 
+P(6), Nicholls A(7), Haumann B(8), Singh D(9).
+
+Author information:
+(1)P3 Research, 121 Adelaide Road, Mount Cook, Wellington, New Zealand. 
+Electronic address: dean@p3research.co.nz.
+(2)Theravance Biopharma US, Inc., South San Francisco, CA, United States. 
+Electronic address: cbarnes@theravance.com.
+(3)Theravance Biopharma US, Inc., South San Francisco, CA, United States. 
+Electronic address: wyates@theravance.com.
+(4)Theravance Biopharma US, Inc., South San Francisco, CA, United States. 
+Electronic address: dbourdet@theravance.com.
+(5)Theravance Biopharma US, Inc., South San Francisco, CA, United States. 
+Electronic address: emoran@theravance.com.
+(6)Theravance Biopharma UK, Limited, London, United Kingdom. Electronic address: 
+peterpotgieter2@aol.com.
+(7)Pharmaceutical Consulting, Burlingame, CA, United States. Electronic address: 
+andrew.10.nicholls@gmail.com.
+(8)Theravance Biopharma UK, Limited, London, United Kingdom. Electronic address: 
+bhaumann@theravance.com.
+(9)University of Manchester, Medicines Evaluation Unit, University Hospital of 
+South Manchester, NHS Foundation Trust, Manchester, United Kingdom. Electronic 
+address: dsingh@meu.org.uk.
+
+BACKGROUND: Revefenacin (TD-4208) is a potent, lung-selective, long-acting 
+muscarinic antagonist currently in development as a once-daily nebulized therapy 
+for chronic obstructive pulmonary disease (COPD). We evaluated the 
+pharmacodynamics (bronchodilator activity), pharmacokinetics (PK) and safety of 
+single- and multiple-dose administrations of revefenacin in two clinical trials 
+(Study 0059 and Study 0091) in patients with moderate to severe COPD.
+METHODS: In Study 0059, 32 patients were randomized to receive a single dose of 
+revefenacin (350 or 700 μg), active control ipratropium (500 μg) or placebo 
+inhalation solution administered via standard jet nebulizer in a double-blind, 
+crossover fashion. In Study 0091, 59 patients were randomized to receive 
+once-daily inhalations of revefenacin (22, 44, 88, 175, 350 or 700 μg) or 
+placebo for 7 days in a double-blind, incomplete block, five-way crossover 
+design. The primary efficacy endpoint was change from baseline in peak (0-6 h) 
+forced expiratory volume in 1 s (FEV1) in Study 0059, and trough FEV1 after the 
+final dose (Day 7) in Study 0091. In both studies, secondary endpoints included 
+area under the FEV1-time curve (FEV1 AUC) values from time 12-24 h post dose and 
+FEV1 AUC values from time zero to 24 h post dose.
+RESULTS: Revefenacin demonstrated a rapid onset and sustained duration of 
+bronchodilator action in both studies. In Study 0059, mean peak FEV1 was 
+significantly higher (p < 0.001) for revefenacin and ipratropium compared to 
+placebo, with differences of 176.8 mL for 350 μg revefenacin, 162.2 mL for 
+700 μg revefenacin and 190.6 mL for ipratropium. In Study 0091, mean trough FEV1 
+on Day 7 was significantly higher (p < 0.006) for all revefenacin doses compared 
+to placebo, with differences ranging from 53.5 mL (22 μg dose) to 114.2 mL 
+(175 μg dose). The results for the other spirometry endpoints were consistent 
+with the primary endpoint for each study, demonstrating that the bronchodilator 
+effect of revefenacin lasted more than 24 h following nebulized administration. 
+Revefenacin was rapidly absorbed and extensively metabolized, followed by a slow 
+apparent terminal elimination and minimal accumulation with repeated dosing. In 
+both studies, adverse events were generally mild and occurred with similar 
+frequencies in all groups, with no indication of significant systemic 
+anti-muscarinic activity at any dose.
+CONCLUSIONS: Following single or multiple nebulized-dose administration in 
+patients with COPD, revefenacin demonstrates a rapid onset and sustained 
+duration of bronchodilator effect over 24 h following once-daily administration, 
+with a PK profile that is commensurate with low systemic exposure.
+
+Copyright © 2017 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.pupt.2017.10.003
+PMID: 28987804 [Indexed for MEDLINE]
+
+
+5. JAMA. 2017 Jul 18;318(3):279-290. doi: 10.1001/jama.2017.8372.
+
+Diagnosis and Management of Asthma in Adults: A Review.
+
+McCracken JL(1), Veeranki SP(2), Ameredes BT(3), Calhoun WJ(1)(3).
+
+Author information:
+(1)Division of Allergy and Clinical Immunology, University of Texas Medical 
+Branch, Galveston.
+(2)Department of Preventive Medicine and Community Health, University of Texas 
+Medical Branch, Galveston.
+(3)Division of Pulmonary Critical Care and Sleep, Department of Internal 
+Medicine, University of Texas Medical Branch, Galveston.
+
+Erratum in
+    JAMA. 2017 Oct 24;318(16):1615. Dosage error in article text.
+
+IMPORTANCE: Asthma affects about 7.5% of the adult population. Evidence-based 
+diagnosis, monitoring, and treatment can improve functioning and quality of life 
+in adult patients with asthma.
+OBSERVATIONS: Asthma is a heterogeneous clinical syndrome primarily affecting 
+the lower respiratory tract, characterized by episodic or persistent symptoms of 
+wheezing, dyspnea, and cough. The diagnosis of asthma requires these symptoms 
+and demonstration of reversible airway obstruction using spirometry. Identifying 
+clinically important allergen sensitivities is useful. Inhaled short-acting 
+β2-agonists provide rapid relief of acute symptoms, but maintenance with daily 
+inhaled corticosteroids is the standard of care for persistent asthma. 
+Combination therapy, including inhaled corticosteroids and long-acting 
+β2-agonists, is effective in patients for whom inhaled corticosteroids alone are 
+insufficient. The use of inhaled long-acting β2-agonists alone is not 
+appropriate. Other controller approaches include long-acting muscarinic 
+antagonists (eg, tiotropium), and biological agents directed against proteins 
+involved in the pathogenesis of asthma (eg, omalizumab, mepolizumab, 
+reslizumab).
+CONCLUSIONS AND RELEVANCE: Asthma is characterized by variable airway 
+obstruction, airway hyperresponsiveness, and airway inflammation. Management of 
+persistent asthma requires avoidance of aggravating environmental factors, use 
+of short-acting β2-agonists for rapid relief of symptoms, and daily use of 
+inhaled corticosteroids. Other controller medications, such as long-acting 
+bronchodilators and biologics, may be required in moderate and severe asthma. 
+Patients with severe asthma generally benefit from consultation with an asthma 
+specialist for consideration of additional treatment, including injectable 
+biologic agents.
+
+DOI: 10.1001/jama.2017.8372
+PMID: 28719697 [Indexed for MEDLINE]
+
+
+6. Handb Exp Pharmacol. 2017;237:41-62. doi: 10.1007/164_2016_68.
+
+Muscarinic Receptor Antagonists.
+
+Matera MG(1), Cazzola M(2).
+
+Author information:
+(1)Department of Experimental Medicine, Unit of Pharmacology, Second University 
+of Naples, Naples, Italy.
+(2)Division of Respiratory Medicine, University Hospital Tor Vergata, Rome, 
+Italy. mario.cazzola@uniroma2.it.
+
+Parasympathetic activity is increased in patients with chronic obstructive 
+pulmonary disease (COPD) and asthma and appears to be the major reversible 
+component of airway obstruction. Therefore, treatment with muscarinic receptor 
+antagonists is an effective bronchodilator therapy in COPD and also in asthmatic 
+patients. In recent years, the accumulating evidence that the cholinergic system 
+controls not only contraction by airway smooth muscle but also the functions of 
+inflammatory cells and airway epithelial cells has suggested that muscarinic 
+receptor antagonists could exert other effects that may be of clinical relevance 
+when we must treat a patient suffering from COPD or asthma. There are currently 
+six muscarinic receptor antagonists licenced for use in the treatment of COPD, 
+the short-acting muscarinic receptor antagonists (SAMAs) ipratropium bromide and 
+oxitropium bromide and the long-acting muscarinic receptor antagonists (LAMAs) 
+aclidinium bromide, tiotropium bromide, glycopyrronium bromide and umeclidinium 
+bromide. Concerns have been raised about possible associations of muscarinic 
+receptor antagonists with cardiovascular safety, but the most advanced compounds 
+seem to have an improved safety profile. Further beneficial effects of SAMAs and 
+LAMAs are seen when added to existing treatments, including LABAs, inhaled 
+corticosteroids and phosphodiesterase 4 inhibitors. The importance of tiotropium 
+bromide in the maintenance treatment of COPD, and likely in asthma, has spurred 
+further research to identify new LAMAs. There are a number of molecules that are 
+being identified, but only few have reached the clinical development.
+
+DOI: 10.1007/164_2016_68
+PMID: 27787709 [Indexed for MEDLINE]
+
+
+7. Int J Chron Obstruct Pulmon Dis. 2018 Dec 12;13:3971-3981. doi: 
+10.2147/COPD.S185975. eCollection 2018.
+
+Triple therapy (ICS/LABA/LAMA) in COPD: time for a reappraisal.
+
+Vanfleteren L(1)(2)(3), Fabbri LM(1)(4), Papi A(4), Petruzzelli S(5), Celli 
+B(6).
+
+Author information:
+(1)COPD Center, Institute of Medicine, Sahlgrenska University Hospital, 
+University of Gothenburg, Gothenburg, Sweden, lowie.vanfleteren@vgregion.se.
+(2)CIRO, Horn, the Netherlands, lowie.vanfleteren@vgregion.se.
+(3)Department of Respiratory Medicine, Maastricht University Medical Hospital, 
+Maastricht, the Netherlands, lowie.vanfleteren@vgregion.se.
+(4)Section of Cardiorespiratory and Internal Medicine, Department of Medical 
+Sciences, University of Ferrara, Ferrara, Italy.
+(5)Global Clinical Development, Chiesi Farmaceutici SpA, Parma, Italy.
+(6)Division of Pulmonary and Critical Care, Brigham and Women's Hospital, 
+Harvard Medical School, Boston, MA, USA.
+
+Recently, two "fixed triple" single-inhaler combinations of an inhaled 
+corticosteroid (ICS), a long-acting β2-agonist (LABA), and a long-acting 
+muscarinic antagonist (LAMA) have become available for patients with COPD. This 
+review presents the clinical evidence that led to the approval of these triple 
+therapies, discusses the role of ICS in patients with COPD, and presents data on 
+the relative efficacy of "fixed triple" (ICS/LAMA/LABA) therapy vs LAMA, 
+ICS/LABA, and LAMA/LABA combinations, and summarizes studies in which ICS/LABAs 
+were combined with LAMAs to form "open triple" combinations. Of the five main 
+fixed triple studies completed so far, three evaluated the efficacy and safety 
+of an extrafine formulation of beclometasone dipropionate, formoterol fumarate, 
+and glycopyrronium; the other two studies evaluated fluticasone furoate, 
+vilanterol, and umeclidinium. Overall, compared to LAMA, ICS/LABA, or LAMA/LABA, 
+triple therapy decreased the risk of exacerbations and improved lung function 
+and health status, with a favorable benefit-to-harm ratio. Furthermore, triple 
+therapy showed a promising signal in terms of improved survival. The evidence 
+suggests that triple therapy is the most effective treatment in moderate/severe 
+symptomatic patients with COPD at risk of exacerbations, with marginal if any 
+risk of side effects including pneumonia. Ongoing studies are examining the role 
+of triple therapy in less severe symptomatic patients with COPD and asthma-COPD 
+overlap.
+
+DOI: 10.2147/COPD.S185975
+PMCID: PMC6296179
+PMID: 30587953 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure LV reports grants and personal fees 
+from AstraZeneca, grants from Philips, and Fisher and Paykel, and personal fees 
+from Chiesi, GSK, Pulmonx, Menarini, and Boehringer-Ingelheim, all outside the 
+submitted work. LMF reports grants, personal fees, and nonfinancial support from 
+Boehringer-Ingelheim, Chiesi Farmaceutici, GlaxoSmithKline, Merck Sharp & Dohme, 
+Takeda, AstraZeneca, Novartis, Menarini, Laboratori Guidotti, and Almirall, 
+personal fees and nonfinancial support from Pearl Therapeutics, Mundipharma, and 
+Boston Scientific, personal fees from Kyorin, Bayer, and Zambon, and grants from 
+Pfizer, Dompè, Malesci, Alfasigma, and Vree Health Italia, all outside the 
+submitted work. AP reports grants, personal fees, nonfinancial support, advisory 
+board membership and consultancy work from Chiesi, AstraZeneca, GlaxoSmithKline, 
+Boehringer-Ingelheim, Mundipharma, and TEVA, personal fees and nonfinancial 
+support from Menarini, Novartis, and Zambon, and grants from Sanofi, all outside 
+the submitted work. SP is employed by Chiesi, the sponsor of TRILOGY, TRINITY, 
+and TRIBUTE. BC reports grants to the Division of Pulmonary and Critical Care 
+from AstraZeneca, and that he is a consultant for GlaxoSmithKline, 
+Boehringer-Ingelheim, AstraZeneca, Novartis, Pulmonix, Chiesi, and Menarini, all 
+outside the submitted work. The authors report no other conflicts of interest in 
+this work.
+
+
+8. Int J Chron Obstruct Pulmon Dis. 2015 Nov 16;10:2495-517. doi: 
+10.2147/COPD.S92412. eCollection 2015.
+
+Comparative efficacy of long-acting muscarinic antagonist monotherapies in COPD: 
+a systematic review and network meta-analysis.
+
+Ismaila AS(1), Huisman EL(2), Punekar YS(3), Karabis A(2).
+
+Author information:
+(1)Value Evidence and Outcomes, GlaxoSmithKline, Research Triangle Park, NC, USA 
+; Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, ON, 
+Canada.
+(2)Real World Strategy and Analytics, Mapi Group, Houten, the Netherlands.
+(3)Value Evidence and Outcomes, GlaxoSmithKline, Uxbridge, UK.
+
+BACKGROUND: Randomized, controlled trials comparing long-acting muscarinic 
+antagonist (LAMA) efficacy in COPD are limited. This network meta-analysis (NMA) 
+assessed the relative efficacy of tiotropium 18 µg once-daily (OD) and newer 
+agents (aclidinium 400 µg twice-daily, glycopyrronium 50 µg OD, and umeclidinium 
+62.5 µg OD).
+METHODS: A systematic literature review identified randomized, controlled trials 
+of adult COPD patients receiving LAMAs. A NMA within a Bayesian framework 
+examined change from baseline in trough forced expiratory volume in 1 second 
+(FEV1), transitional dyspnea index focal score, St George's Respiratory 
+Questionnaire score, and rescue medication use.
+RESULTS: Twenty-four studies (n=21,311) compared LAMAs with placebo/each other. 
+Aclidinium, glycopyrronium, tiotropium, and umeclidinium, respectively, 
+demonstrated favorable results versus placebo, for change from baseline (95% 
+credible interval) in 12-week trough FEV1 (primary endpoint: 101.40 mL 
+[77.06-125.60]; 117.20 mL [104.50-129.90]; 114.10 mL [103.10-125.20]; 136.70 mL 
+[104.20-169.20]); 24-week trough FEV1 (128.10 mL [84.10-172.00]; 135.80 mL 
+[123.10-148.30]; 106.40 mL [95.45-117.30]; 115.00 mL [74.51-155.30]); 24-week St 
+George's Respiratory Questionnaire score (-4.60 [-6.76 to -2.54]; -3.14 [-3.83 
+to -2.45]; -2.43 [-2.92 to -1.93]; -4.69 [-7.05 to -2.31]); 24-week transitional 
+dyspnea index score (1.00 [0.41-1.59]; 1.01 [0.79-1.22]; 0.82 [0.62-1.02]; 1.00 
+[0.49-1.51]); and 24-week rescue medication use (data not available; -0.41 
+puffs/day [-0.62 to -0.20]; -0.52 puffs/day [-0.74 to -0.30]; -0.30 puffs/day 
+[-0.81 to 0.21]). For 12-week trough FEV1, differences in change from baseline 
+(95% credible interval) were -12.8 mL (-39.39 to 13.93), aclidinium versus 
+tiotropium; 3.08 mL (-7.58 to 13.69), glycopyrronium versus tiotropium; 22.58 mL 
+(-11.58 to 56.97), umeclidinium versus tiotropium; 15.90 mL (-11.60 to 43.15), 
+glycopyrronium versus aclidinium; 35.40 mL (-5.06 to 76.07), umeclidinium versus 
+aclidinium; and 19.50 mL (-15.30 to 54.38), umeclidinium versus glycopyrronium. 
+Limitations included inhaler-related factors and safety; longer-term outcomes 
+were not considered.
+CONCLUSION: The new LAMAs studied had at least comparable efficacy to 
+tiotropium, the established class standard. Choice should depend on physician's 
+and patient's preference.
+
+DOI: 10.2147/COPD.S92412
+PMCID: PMC4655912
+PMID: 26604738 [Indexed for MEDLINE]
+
+
+9. Dtsch Arztebl Int. 2014 Dec 12;111(50):847-55. doi: 10.3238/arztebl.2014.0847.
+
+Severe asthma: definition, diagnosis and treatment.
+
+Lommatzsch M(1), Virchow JC.
+
+Author information:
+(1)Department of Pneumology/Interdisciplinary Intensive Care Unit, University of 
+Rostock.
+
+Comment in
+    Dtsch Arztebl Int. 2015 Aug 31;112(35-36):601.
+    Dtsch Arztebl Int. 2015 Aug 31;112(35-36):601.
+    Dtsch Arztebl Int. 2015 Aug 31;112(35-36):601-2.
+
+BACKGROUND: A minority of patients with asthma have uncontrolled or partially 
+controlled asthma despite intensive treatment. These patients present a special 
+challenge because of the extensive diagnostic evaluation that they need, 
+insufficient evidence regarding personalized treatments, and their high 
+consumption of health-care resources.
+METHODS: The definition, diagnosis, and treatment of severe asthma are presented 
+on the basis of a selective literature review and the authors' clinical 
+experience.
+RESULTS: Severe asthma is present, by definition, when adequate control of 
+asthma cannot be achieved by high-dose treatment with inhaled cortico - steroids 
+and additional controllers (long-acting inhaled beta 2 agonists, montelukast, 
+and/or theophylline) or by oral corticosteroid treatment (for at least six 
+months per year), or is lost when the treatment is reduced. Before any further 
+treatments are evaluated, differential diagnoses of asthma should be ruled out, 
+comorbidities should be treated, persistent triggers should be eliminated, and 
+patient adherence should be optimized. Moreover, pulmonary rehabilitation is 
+recommended in order to stabilize asthma over the long term and reduce absences 
+from school or work. The additional drugs that can be used include tiotropium, 
+omalizumab (for IgE-mediated asthma), and azithromycin (for non-eosinophilic 
+asthma). Antibodies against interleukin-5 or its receptor will probably be 
+approved soon for the treatment of severe eosinophilic asthma.
+CONCLUSION: The diagnosis and treatment of severe asthma is time consuming and 
+requires special experience. There is a need for competent treatment centers, 
+continuing medical education, and research on the prevalence of severe asthma.
+
+DOI: 10.3238/arztebl.2014.0847
+PMCID: PMC4357024
+PMID: 25585581 [Indexed for MEDLINE]
+
+
+10. Chest. 2016 May;149(5):1181-96. doi: 10.1016/j.chest.2016.02.646. Epub 2016 Feb 
+26.
+
+A Systematic Review With Meta-Analysis of Dual Bronchodilation With LAMA/LABA 
+for the Treatment of Stable COPD.
+
+Calzetta L(1), Rogliani P(2), Matera MG(3), Cazzola M(4).
+
+Author information:
+(1)Department of Systems Medicine, Unit of Respiratory Clinical Pharmacology, 
+University of Rome Tor Vergata, Rome, Italy.
+(2)Department of Systems Medicine, Unit of Respiratory Clinical Pharmacology, 
+University of Rome Tor Vergata, Rome, Italy; Department of Systems Medicine, 
+Chair of Respiratory Medicine, University of Rome Tor Vergata, Rome, Italy.
+(3)Department of Experimental Medicine, Unit of Pharmacology, Second University 
+of Naples, Naples, Italy.
+(4)Department of Systems Medicine, Unit of Respiratory Clinical Pharmacology, 
+University of Rome Tor Vergata, Rome, Italy; Department of Systems Medicine, 
+Chair of Respiratory Medicine, University of Rome Tor Vergata, Rome, Italy. 
+Electronic address: mario.cazzola@uniroma2.it.
+
+Comment in
+    Am J Respir Crit Care Med. 2018 Apr 1;197(7):944-946.
+
+BACKGROUND: The wide availability of long-acting muscarinic antagonist 
+(LAMA)/long-acting β2-agonist (LABA) fixed-dose combinations (FDCs) in the 
+absence of head-to-head comparative pragmatic trials makes it difficult to 
+choose which combination should be used. Therefore, we carried out a systematic 
+review with meta-analysis that incorporated the data from trials lasting at 
+least 3 months to evaluate the effectiveness of LAMA/LABA FDCs for COPD 
+treatment.
+METHODS: Randomized controlled trials were identified by searching different 
+databases of published and unpublished trials. We aimed to assess the influence 
+of LAMA/LABA combinations on trough FEV1, transitional dyspnea index, St. 
+George's Respiratory Questionnaire, and cardiac safety vs monocomponents.
+RESULTS: Fourteen papers and one congress abstract with 23,168 patients with 
+COPD (combinations, n = 10,328; monocomponents, n = 12,840) were included in 
+this study. Our results showed that all LAMA/LABA combinations were always more 
+effective than the LAMA or LABA alone in terms of the improvement in trough 
+FEV1. Although there was not significant difference among LAMA/LABA 
+combinations, we identified a gradient of effectiveness among the currently 
+available LAMA/LABA FDCs. LAMA/LABA combinations also improved both transitional 
+dyspnea index and St. George's Respiratory Questionnaire scores, but did not 
+increase the cardiovascular risk when compared with monocomponents.
+CONCLUSIONS: The gradient of effectiveness emerging from this meta-analysis is 
+merely a weak indicator of possible differences between the various LAMA/LABA 
+FDCs. Only direct comparisons will document if a specific LAMA/LABA FDC is 
+better than the other. In the meanwhile, we believe it is only proper to 
+consider that dual bronchodilation is better than a LAMA or a LABA alone, 
+regardless of the drugs used.
+
+Copyright © 2016 American College of Chest Physicians. Published by Elsevier 
+Inc. All rights reserved.
+
+DOI: 10.1016/j.chest.2016.02.646
+PMID: 26923629 [Indexed for MEDLINE]
+
+
+11. BMJ. 2018 Nov 6;363:k4388. doi: 10.1136/bmj.k4388.
+
+Triple therapy in the management of chronic obstructive pulmonary disease: 
+systematic review and meta-analysis.
+
+Zheng Y(1), Zhu J(2), Liu Y(3), Lai W(4), Lin C(4), Qiu K(2), Wu J(2), Yao W(5).
+
+Author information:
+(1)Laboratory of Physiological Sciences and Department of Pharmacy of the 
+Affiliated Hospital of Guangdong Medical University, Guangdong Medical 
+University, Zhanjiang, China.
+(2)Department of Pharmacy, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen 
+University, Guangzhou, China.
+(3)Department of Pharmacology, Guangdong Medical University, Zhanjiang, China.
+(4)Department of Respiratory Medicine, Affiliated Hospital of Guangdong Medical 
+University, Guangdong Medical University, No 57, South of Renmin Avenue, 
+Zhanjiang 524001, China.
+(5)Department of Respiratory Medicine, Affiliated Hospital of Guangdong Medical 
+University, Guangdong Medical University, No 57, South of Renmin Avenue, 
+Zhanjiang 524001, China yaoweimin2014@yeah.net.
+
+OBJECTIVE: To compare the rate of moderate to severe exacerbations between 
+triple therapy and dual therapy or monotherapy in patients with chronic 
+obstructive pulmonary disease (COPD).
+DESIGN: Systematic review and meta-analysis of randomised controlled trials.
+DATA SOURCES: PubMed, Embase, Cochrane databases, and clinical trial registries 
+searched from inception to April 2018.
+ELIGIBILITY CRITERIA: Randomised controlled trials comparing triple therapy with 
+dual therapy or monotherapy in patients with COPD were eligible. Efficacy and 
+safety outcomes of interest were also available.
+DATA EXTRACTION AND SYNTHESIS: Data were collected independently. Meta-analyses 
+were conducted to calculate rate ratios, hazard ratios, risk ratios, and mean 
+differences with 95% confidence intervals. Quality of evidence was summarised in 
+accordance with GRADE methodology (grading of recommendations assessment, 
+development, and evaluation).
+RESULTS: 21 trials (19 publications) were included. Triple therapy consisted of 
+a long acting muscarinic antagonist (LAMA), long acting β agonist (LABA), and 
+inhaled corticosteroid (ICS). Triple therapy was associated with a significantly 
+reduced rate of moderate or severe exacerbations compared with LAMA monotherapy 
+(rate ratio 0.71, 95% confidence interval 0.60 to 0.85), LAMA and LABA (0.78, 
+0.70 to 0.88), and ICS and LABA (0.77, 0.66 to 0.91). Trough forced expiratory 
+volume in 1 second (FEV1) and quality of life were favourable with triple 
+therapy. The overall safety profile of triple therapy is reassuring, but 
+pneumonia was significantly higher with triple therapy than with dual therapy of 
+LAMA and LABA (relative risk 1.53, 95% confidence interval 1.25 to 1.87).
+CONCLUSIONS: Use of triple therapy resulted in a lower rate of moderate or 
+severe exacerbations of COPD, better lung function, and better health related 
+quality of life than dual therapy or monotherapy in patients with advanced COPD.
+STUDY REGISTRATION: Prospero CRD42018077033.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/bmj.k4388
+PMCID: PMC6218838
+PMID: 30401700 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: All authors have completed 
+the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf (available 
+on request from the corresponding author) and declare: no support from any 
+organisation for the submitted work; no financial relationships with any 
+organizations that might have an interest in the submitted work in the previous 
+three years; no other relationships or activities that could appear to have 
+influenced the submitted work.
+
+
+12. Ann Pharmacother. 2017 Aug;51(8):696-705. doi: 10.1177/1060028017705149. Epub 
+2017 Apr 14.
+
+Role of Long-Acting Muscarinic Antagonist/Long-Acting β(2)-Agonist Therapy in 
+Chronic Obstructive Pulmonary Disease.
+
+Petite SE(1).
+
+Author information:
+(1)1 University of Toledo College of Pharmacy and Pharmaceutical Sciences, 
+Toledo, OH, USA.
+
+OBJECTIVE: To compare the available literature regarding the use of long-acting 
+muscarinic antagonist (LAMA)/long-acting β2 agonists (LABA) and inhaled 
+corticosteroid (ICS)/LABA combination inhaler therapy in chronic obstructive 
+pulmonary disease (COPD) maintenance therapy management.
+DATA SOURCES: A MEDLINE literature search from database inception to February 
+2017 was conducted using the search terms chronic obstructive pulmonary disease, 
+adrenergic beta-agonist, muscarinic antagonist, and inhaled corticosteroid. 
+References from extracted sources were further searched for any relevant, missed 
+data sources.
+STUDY SELECTION AND DATA EXTRACTION: All English-language randomized-controlled 
+trials comparing LAMA/LABA and ICS/LABA combination inhaler therapy were 
+evaluated.
+DATA SYNTHESIS: A total of 10 randomized controlled trials have reviewed the use 
+of LAMA/LABA compared with ICS/LABA therapy for COPD maintenance therapy. 
+Results of clinical trials that evaluated LAMA/LABA and ICS/LABA maintenance 
+therapy demonstrated superior improvements in pulmonary function tests via 
+spirometry and improved clinical outcomes with LAMA/LABA therapy, specifically 
+reduction in COPD exacerbation rates. The safety of LAMA/LABA combination 
+therapy also is favorable compared with ICS/LABA combination therapy because of 
+the increased infection risk with ICS therapy.
+CONCLUSIONS: COPD is a disease state with significant morbidity and mortality in 
+the United States and is the third leading cause of death. Long-acting inhalers 
+are recommended for the majority of COPD severities, and combination therapy is 
+typically utilized. LAMA/LABA combination therapy has demonstrated superior 
+improvements in pulmonary function and reduction in COPD exacerbation rates 
+compared with ICS/LABA. LAMA/LABA combination therapy will have a larger future 
+role in COPD maintenance management.
+
+DOI: 10.1177/1060028017705149
+PMID: 28410560 [Indexed for MEDLINE]
+
+
+13. Int J Chron Obstruct Pulmon Dis. 2017 Mar 17;12:907-922. doi: 
+10.2147/COPD.S130482. eCollection 2017.
+
+LABA/LAMA combinations versus LAMA monotherapy or LABA/ICS in COPD: a systematic 
+review and meta-analysis.
+
+Rodrigo GJ(1), Price D(2), Anzueto A(3), Singh D(4), Altman P(5), Bader G(6), 
+Patalano F(6), Fogel R(5), Kostikas K(6).
+
+Author information:
+(1)Departamento de Emergencia, Hospital Central de las Fuerzas Armadas, 
+Montevideo, Uruguay.
+(2)Academic Primary Care, Division of Applied Health Sciences, University of 
+Aberdeen, Aberdeen, Scotland, UK; Observational and Pragmatic Research 
+Institute, Singapore.
+(3)University of Texas Health Science Center; South Texas Veterans Health Care 
+System, San Antonio, TX, USA.
+(4)Medicines Evaluation Unit, National Institute for Health Research Respiratory 
+and Allergy Clinical Research Facility, University Hospital of South Manchester 
+NHS Foundation Trust, University of Manchester, Manchester, England, UK.
+(5)Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA.
+(6)Novartis Pharma AG, Basel, Switzerland.
+
+BACKGROUND: Randomized controlled trials (RCTs) indicate that long-acting 
+bronchodilator combinations, such as β2-agonist (LABA)/muscarinic antagonist 
+(LAMA), have favorable efficacy compared with commonly used COPD treatments. The 
+objective of this analysis was to compare the efficacy and safety of LABA/LAMA 
+with LAMA or LABA/inhaled corticosteroid (ICS) in adults with stable 
+moderate-to-very-severe COPD.
+METHODS: This systematic review and meta-analysis (PubMed/MEDLINE, Embase, 
+Cochrane Library and clinical trial/manufacturer databases) included RCTs 
+comparing ≥12 weeks' LABA/LAMA treatment with LAMA and/or LABA/ICS (approved 
+doses only). Eligible studies were independently selected by two authors using 
+predefined data fields; the Preferred Reporting Items for Systematic Reviews and 
+Meta-Analyses guidelines were followed.
+RESULTS: Eighteen studies (23 trials) were eligible (N=20,185). LABA/LAMA 
+significantly improved trough forced expiratory volume in 1 second (FEV1) from 
+baseline to week 12 versus both LAMA and LABA/ICS (0.07 L and 0.08 L, P<0.0001), 
+with patients more likely to achieve clinically important improvements in FEV1 
+of >100 mL (risk ratio [RR]: 1.33, 95% confidence interval [CI]: [1.20, 1.46] 
+and RR: 1.44, 95% CI: [1.33, 1.56], respectively, the number needed to treat 
+being eight and six, respectively). LABA/LAMA improved transitional dyspnea 
+index and St George's Respiratory Questionnaire scores at week 12 versus LAMA 
+(both P<0.0001), but not versus LABA/ICS, and reduced rescue medication use 
+versus both (P<0.0001 and P=0.001, respectively). LABA/LAMA significantly 
+reduced moderate/severe exacerbation rate compared with LABA/ICS (RR 0.82, 95% 
+CI: [0.75, 0.91]). Adverse event (AE) incidence was no different for LABA/LAMA 
+versus LAMA treatment, but it was lower versus LABA/ICS (RR 0.94, 95% CI: [0.89, 
+0.99]), including a lower pneumonia risk (RR 0.59, 95% CI: [0.43, 0.81]). 
+LABA/LAMA presented a lower risk for withdrawals due to lack of efficacy versus 
+LAMA (RR: 0.66, 95% CI: [0.51, 0.87]) and due to AEs versus LABA/ICS (RR: 0.83, 
+95% CI: [0.69, 0.99]).
+CONCLUSION: The greater efficacy and comparable safety profiles observed with 
+LABA/LAMA combinations versus LAMA or LABA/ICS support their potential role as 
+first-line treatment options in COPD. These findings are of direct relevance to 
+clinical practice because we included all currently available LABA/LAMAs and 
+comparators, only at doses approved for clinical use.
+
+DOI: 10.2147/COPD.S130482
+PMCID: PMC5364009
+PMID: 28360514 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure GJR has participated as a lecturer, 
+speaker and advisor in scientific meetings and courses under the sponsorship of 
+Air Products and Chemicals Inc, Almirall, AstraZeneca, Boehringer Ingelheim, 
+Laboratorios Dr Esteve, GlaxoSmithKline, Merck Sharp & Dome and Novartis. DP has 
+board membership with Aerocrine, Amgen, AstraZeneca, Boehringer Ingelheim, 
+Chiesi, Meda, Mundipharma, Napp, Novartis, and Teva Pharmaceuticals; consultancy 
+agreements with Almirall, Amgen, AstraZeneca, Boehringer Ingelheim, Chiesi, 
+GlaxoSmithKline, Meda, Mundipharma, Napp, Novartis, Pfizer, Teva 
+Pharmaceuticals, and Theravance; grants and unrestricted funding for 
+investigator-initiated studies (conducted through Observational and Pragmatic 
+Research Institute Pte Ltd) from Aerocrine, AKL Ltd, AstraZeneca, Boehringer 
+Ingelheim, British Lung Foundation, Chiesi, Meda, Mundipharma, Napp, Novartis, 
+Pfizer, Respiratory Effectiveness Group, Takeda, Teva Pharmaceuticals, 
+Theravance, UK National Health Service, Zentiva; payment for lectures/speaking 
+engagements from Almirall, AstraZeneca, Boehringer Ingelheim, Chiesi, Cipla, 
+GlaxoSmithKline, Kyorin, Meda, Merck, Mundipharma, Novartis, Pfizer, Skyepharma, 
+Takeda, and Teva Pharmaceuticals; payment for manuscript preparation from 
+Mundipharma and Teva Pharmaceuticals; payment for the development of educational 
+materials from Mundipharma and Novartis; payment for 
+travel/accommodation/meeting expenses from Aerocrine, AstraZeneca, Boehringer 
+Ingelheim, Mundipharma, Napp, Novartis, and Teva Pharmaceuticals; funding for 
+patient enrolment or completion of research from Chiesi, Novartis, Teva 
+Pharmaceuticals, and Zentiva; stock/stock options from AKL Ltd which produces 
+phytopharmaceuticals; owns 74% of the social enterprise Optimum Patient Care 
+Ltd, UK and 74% of Observational and Pragmatic Research Institute Pte Ltd, 
+Singapore; and is peer reviewer for grant committees of the Efficacy and 
+Mechanism Evaluation programme, HTA, and Medical Research Council. AA has acted 
+as a Consultant and has served on advisory boards for Novartis Pharma AG, 
+AstraZeneca, Boehringer Ingelheim, GlaxoSmithKline and Sunnovion. DS has 
+received sponsorship to attend international meetings, honoraria for lecturing 
+or attending advisory boards and research grants from various pharmaceutical 
+companies, including Almirall, AstraZeneca, Boehringer Ingelheim, Chiesi, 
+Genentech, GlaxoSmithKline, Glenmark, Merck, Napp, Novartis, Pfizer, Respivert, 
+Skyepharma, Takeda, Teva, Therevance and Verona. PA, GB, FP, RF and KK are 
+employees and shareholders of Novartis Pharma AG. KK had previously received 
+honoraria for educational activities and lectures from AstraZeneca, Boehringer 
+Ingelheim, Chiesi, Elpen, and Novartis, and participated on advisory boards 
+arranged by AstraZeneca, Chiesi, Elpen, and Novartis. The authors report no 
+other conflicts of interest in this work.
+
+
+14. JAMA. 2018 Apr 10;319(14):1473-1484. doi: 10.1001/jama.2018.2757.
+
+Association of Inhaled Corticosteroids and Long-Acting Muscarinic Antagonists 
+With Asthma Control in Patients With Uncontrolled, Persistent Asthma: A 
+Systematic Review and Meta-analysis.
+
+Sobieraj DM(1), Baker WL(1), Nguyen E(1), Weeda ER(1), Coleman CI(1), White 
+CM(1), Lazarus SC(2), Blake KV(3), Lang JE(4).
+
+Author information:
+(1)Department of Pharmacy Practice, University of Connecticut School of 
+Pharmacy, Storrs.
+(2)Division of Pulmonary and Critical Care Medicine, University of California, 
+San Francisco.
+(3)Center for Pharmacogenomics and Translational Research, Nemours Children's 
+Specialty Care, Jacksonville, Florida.
+(4)Division of Allergy, Immunology, and Pulmonary Medicine, Duke University 
+School of Medicine, Duke Children's Hospital and Health Center, Durham, North 
+Carolina.
+
+Erratum in
+    JAMA. 2018 May 8;319(18):1939.
+
+Comment in
+    JAMA. 2018 Apr 10;319(14 ):1441-1443.
+    Ann Intern Med. 2018 Jul 17;169(2):JC4.
+
+IMPORTANCE: Long-acting muscarinic antagonists (LAMAs) are a potential adjunct 
+therapy to inhaled corticosteroids in the management of persistent asthma.
+OBJECTIVE: To conduct a systematic review and meta-analysis of the effects 
+associated with LAMA vs placebo or vs other controllers as an add-on therapy to 
+inhaled corticosteroids and the use of a LAMA as add-on therapy to inhaled 
+corticosteroids and long-acting β-agonists (LABAs; hereafter referred to as 
+triple therapy) vs inhaled corticosteroids and LABA in patients with 
+uncontrolled, persistent asthma.
+DATA SOURCES: MEDLINE, EMBASE, Cochrane databases, and clinical trial registries 
+(earliest date through November 28, 2017).
+STUDY SELECTION: Two reviewers selected randomized clinical trials or 
+observational studies evaluating a LAMA vs placebo or vs another controller as 
+an add-on therapy to inhaled corticosteroids or triple therapy vs inhaled 
+corticosteroids and LABA in patients with uncontrolled, persistent asthma 
+reporting on an outcome of interest.
+DATA EXTRACTION AND SYNTHESIS: Meta-analyses using a random-effects model was 
+conducted to calculate risk ratios (RRs), risk differences (RDs), and mean 
+differences (MDs) with corresponding 95% CIs. Citation screening, data 
+abstraction, risk assessment, and strength-of-evidence grading were completed by 
+2 independent reviewers.
+MAIN OUTCOMES AND MEASURES: Asthma exacerbations.
+RESULTS: Of 1326 records identified, 15 randomized clinical trials (N = 7122 
+patients) were included. Most trials assessed adding LAMA vs placebo or LAMA vs 
+LABA to inhaled corticosteroids. Adding LAMA vs placebo to inhaled 
+corticosteroids was associated with a significantly reduced risk of exacerbation 
+requiring systemic corticosteroids (RR, 0.67 [95% CI, 0.48 to 0.92]; RD, -0.02 
+[95% CI, -0.04 to 0.00]). Compared with adding LABA, adding LAMA to inhaled 
+corticosteroids was not associated with significant improvements in exacerbation 
+risk (RR, 0.87 [95% CI, 0.53 to 1.42]; RD, 0.00 [95% CI, -0.02 to 0.02]), or any 
+other outcomes of interest. Triple therapy was not significantly associated with 
+improved exacerbation risk vs inhaled corticosteroids and LABA (RR, 0.84 [95% 
+CI, 0.57 to 1.22]; RD, -0.01 [95% CI, -0.08 to 0.07]).
+CONCLUSIONS AND RELEVANCE: In this systematic review and meta-analysis, the use 
+of LAMA compared with placebo as add-on therapy to inhaled corticosteroids was 
+associated with a lower risk of asthma exacerbations; however, the association 
+of LAMA with benefit may not be greater than that with LABA. Triple therapy was 
+not associated with a lower risk of exacerbations.
+
+DOI: 10.1001/jama.2018.2757
+PMCID: PMC5876909
+PMID: 29554174 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: All authors 
+have completed and submitted the ICMJE Form for Disclosure of Potential 
+Conflicts of Interest. Dr Lazarus reported consulting for the University of 
+Connecticut. Dr Blake reported consulting for the University of Connecticut and 
+receiving grant funding from Nemours Children’s Health System. No other 
+disclosures were reported.
+
+
+15. Cochrane Database Syst Rev. 2016 Jan 21;(1):CD011721. doi: 
+10.1002/14651858.CD011721.pub2.
+
+Long-acting muscarinic antagonists (LAMA) added to combination long-acting 
+beta2-agonists and inhaled corticosteroids (LABA/ICS) versus LABA/ICS for adults 
+with asthma.
+
+Kew KM(1), Dahri K.
+
+Author information:
+(1)Population Health Research Institute, St George's, University of London, 
+Cranmer Terrace, London, UK, SW17 0RE.
+
+BACKGROUND: Maintenance treatment with long-acting beta2-agonists and inhaled 
+corticosteroids (LABA/ICS) can relieve asthma symptoms and reduce the frequency 
+of exacerbations, but there are limited treatment options for people who do not 
+gain control on combination LABA/ICS. Long-acting muscarinic antagonists (LAMA) 
+are a class of inhaled drug which have been effective for people with chronic 
+obstructive pulmonary disease and are now becoming available for people with 
+asthma to take alongside their LABA/ICS inhaler.
+OBJECTIVES: To assess the effects of adding a long-acting muscarinic antagonist 
+(LAMA) to combination long-acting beta2-agonists (LABA) and inhaled 
+corticosteroids (ICS) in adults whose asthma is not well controlled by LABA/ICS.
+SEARCH METHODS: We identified trials from the Cochrane Airways Review Group 
+Specialised Register (CAGR) up to January 2016. We also searched 
+ClinicalTrials.gov, the WHO trials portal, and reference lists of other reviews, 
+and we contacted trial authors for additional information.
+SELECTION CRITERIA: We included parallel randomised controlled trials (RCTs) of 
+at least 12 weeks' duration. Studies met the inclusion criteria if they compared 
+LAMA as an add-on to LABA/ICS versus LABA/ICS alone for adults with asthma. We 
+included studies reported as full text, those published as abstract only, and 
+unpublished data. Primary outcomes were exacerbations requiring oral 
+corticosteroids (OCS), validated measures of asthma control, and serious adverse 
+events (including mortality).
+DATA COLLECTION AND ANALYSIS: Two review authors screened searches and 
+independently extracted details on risk of bias and numerical data. We analysed 
+dichotomous data as odds ratios (ORs) and continuous data as mean differences 
+(MD) using a random-effects model. We rated all outcomes using GRADE.
+MAIN RESULTS: We found four double-blind, double-dummy trials comparing LAMA to 
+placebo, including 1197 people with asthma taking combination LABA/ICS. One of 
+the trials was designed to study glycopyrronium bromide but was withdrawn prior 
+to enrolment, and the other three all studied tiotropium bromide (mostly 5 µg 
+once daily via Respimat) over 48 to 52 weeks. People in the trials had a mean 
+forced expiratory volume in one second (FEV1) of 55% of their predicted value, 
+indicating severe asthma.People randomised to take tiotropium add-on had fewer 
+exacerbations requiring oral corticosteroids than those continuing to take 
+LABA/ICS alone, but the confidence intervals did not rule out no difference (OR 
+0.76, 95% CI 0.57 to 1.02; moderate quality evidence). Over 48 weeks, 328 out of 
+1000 people taking their usual LABA/ICS would have to take oral corticosteroids 
+for an exacerbation compared with 271 if they took tiotropium as well (95% CI 
+218 to 333 per 1000). Analyses comparing the number of exacerbations per patient 
+in each group (rate ratio) and the time until first exacerbation (hazard ratio) 
+were in keeping with the main result. Quality of life, as measured by the Asthma 
+Quality of Life Questionnaire (AQLQ) was no better for those taking tiotropium 
+add-on than for those taking LABA/ICS alone when considered in light of the 0.5 
+minimal clinically important difference on the scale (MD 0.09, 95% CI - 0.03 to 
+0.20), and evidence for whether tiotropium increased or decreased serious 
+adverse events in this population was inconsistent (OR 0.60, 95% CI 0.24 to 
+1.47; I(2) = 76%).Within the secondary outcomes, exacerbations requiring 
+hospital admission were too rare to tell whether tiotropium was beneficial over 
+LABA/ICS alone. There was high quality evidence showing benefits to lung 
+function (trough FEV1 and forced vital capacity (FVC)) and potentially small 
+benefits to asthma control. People taking tiotropium add-on were less likely to 
+experience non-serious adverse events.
+AUTHORS' CONCLUSIONS: Tiotropium add-on may have additional benefits over 
+LABA/ICS alone in reducing the need for rescue oral steroids in people with 
+severe asthma. The effect was imprecise, and there was no evidence for other 
+LAMA preparations. Possible benefits on quality of life were negligible, and 
+evidence for the effect on serious adverse events was inconsistent. There are 
+likely to be small added benefits for tiotropium Respimat 5 µg daily on lung 
+function and asthma control over LABA/ICS alone and fewer non-serious adverse 
+events. The benefit of tiotropium add-on on the frequency of hospital admission 
+is still unknown, despite year-long trials.Ongoing and future trials should 
+clearly describe participants' background medications to help clinicians judge 
+how the findings relate to stepwise care. If studies test LAMAs other than 
+tiotropium Respimat for asthma, they should be at least six months long and use 
+accepted and validated outcomes to allow comparisons of the safety and 
+effectiveness between different preparations.
+
+DOI: 10.1002/14651858.CD011721.pub2
+PMID: 26798035 [Indexed for MEDLINE]
+
+
+16. COPD. 2016 Dec;13(6):677-685. doi: 10.3109/15412555.2016.1170799. Epub 2016 May 
+5.
+
+Long-acting Muscarinic Antagonist Versus Inhaled Corticosteroid when Added to 
+Long-acting β-agonist for COPD: A Meta-analysis.
+
+Oba Y(1), Chandran AV(1), Devasahayam JV(1).
+
+Author information:
+(1)a Division of Pulmonary, Critical Care, and Environmental Medicine, School of 
+Medicine, University of Missouri , Columbia , Missouri , USA.
+
+The purpose of this study was to systematically review the efficacy and safety 
+of long-acting β-agonist/long-acting muscarinic antagonist (LABA/LAMA) and 
+LABA/inhaled corticosteroid (ICS) combinations in patients with advanced chronic 
+obstructive pulmonary disease (COPD). Randomized clinical trials of at least 
+12 weeks of duration comparing LABA/LAMA and LABA/ICS combinations were 
+included. We chose forced expiratory volume in 1 second (FEV1), St. George's 
+Respiratory Questionnaire (SGRQ) score, Transitional Dyspnea Index (TDI), COPD 
+Assessment Test (CAT) score, COPD exacerbations, mortality, and other safety 
+parameters as outcome assessment criteria. We included six randomized controlled 
+trials with a total of 4,319 patients. Most patients did not have a history of 
+exacerbation. LABA/LAMA was associated with greater improvement in FEV1 than 
+LABA/ICS (mean difference (MD) 0.09L, 95%confidence interval (CI) 0.07 to 0.11L; 
+high certainty). Two treatments appeared clinically equivalent in improving SGRQ 
+(MD -0.12, 95%CI -1.16 to 0.92; high certainty), TDI (MD 0.15, 95%CI -0.05 to 
+0.35; high certainty), and CAT scores (MD 0.28 95%CI -0.29 to 0.85; moderate 
+certainty). LABA/LAMA was associated with an absolute reduction of approximately 
+8% in the incidence of pneumonia compared with LABA/ICS (risk ratio 0.41, 95%CI 
+0.18 to 0.94; moderate certainty). There was no significant difference in safety 
+and exacerbation outcomes. However, equivalence of two treatments could not be 
+concluded due to imprecision especially for mortality, cardiac serious adverse 
+events, and severe exacerbations. Our findings support the use of dual 
+long-acting bronchodilators for patients with advanced COPD but without frequent 
+exacerbations given the excess risk of pneumonia with LABA/ICS.
+
+DOI: 10.3109/15412555.2016.1170799
+PMID: 27148815 [Indexed for MEDLINE]
+
+
+17. Indian J Pediatr. 2018 Sep;85(9):773-781. doi: 10.1007/s12098-018-2705-1. Epub 
+2018 Jun 9.
+
+What is New in the Management of Childhood Asthma?
+
+Gupta A(1)(2), Bhat G(3), Pianosi P(4)(3).
+
+Author information:
+(1)Department of Pediatric Respiratory Medicine, NHS Foundation Trust, King's 
+College Hospital, Denmark Hill, London, UK. atul.gupta@kcl.ac.uk.
+(2)King's College London, London, UK. atul.gupta@kcl.ac.uk.
+(3)King's College London, London, UK.
+(4)Department of Pediatric Respiratory Medicine, NHS Foundation Trust, King's 
+College Hospital, Denmark Hill, London, UK.
+
+Asthma still causes considerable morbidity and mortality globally and minimal 
+improvement has been seen in key outcomes over the last decade despite 
+increasing treatment costs. This review summarizes recent advances in the 
+management of asthma in children and adolescents. It focuses on the need for 
+personalized treatment plans based on heterogenous asthma pathophysiology, the 
+use of the terminology 'asthma attack' over exacerbation to instill widespread 
+understanding of severity, and the need for every attack to trigger a structured 
+review and focused strategy. The authors discuss difficulties in diagnosing 
+asthma, accuracy and use of Fractional exhaled nitric oxide both as second line 
+test and as a method to monitor treatment adherence or guide the choice of 
+pharmacotherapy. The authors discuss acute and long-term management of asthma. 
+Asthma treatment goals are to minimize symptom burden, prevent attacks and 
+(where possible) reduce risk and impact of progressive pathophysiology and 
+adverse outcomes. The authors discuss pharmacological management; optimal use of 
+short acting β2 agonists, long acting muscarinic antagonist (tiotropium), use of 
+which is relatively new in pediatrics, allergen specific immunotherapy, 
+biological monoclonal antibody treatment, azalide antibiotic azithromycin, and 
+the use of vitamin D. They also discuss electronic monitoring and adherence 
+devices, direct observation of therapy via mobile device, temperature controlled 
+laminar airflow device, and the importance of considering when symptoms may 
+actually result from dysfunctional breathing rather than asthma.
+
+DOI: 10.1007/s12098-018-2705-1
+PMCID: PMC6132827
+PMID: 29948729 [Indexed for MEDLINE]
+
+Conflict of interest statement: None.
+
+
+18. Rev Med Liege. 2019 Jan;74(1):54-60.
+
+[IMPACT study in COPD].
+
+[Article in French; Abstract available in French from the publisher]
+
+Corhay JL(1).
+
+Author information:
+(1)Service de Pneumologie CHU Sart Tilman, Liège, Belgique.
+
+The role of the anti-inflammatory and bronchodilator triple therapy, including a 
+long acting ß2-agonist (LABA), a long-acting muscarinic antagonist (LAMA) and an 
+inhaled corticosteroid (ICS), in the prevention of the exacerbations of chronic 
+obstructive pulmonary disease (COPD) is still not clearly established, and 
+requires comparison with dual therapy (LABA-CSI or LABA-LAMA). IMPACT is a phase 
+3, double-blind randomized study comparing the tritherapy (LABA-LAMA-ICS) in a 
+single inhaler (vilanterol 25 ?g/umeclidinium 62.5 ?g/fluticasone furoate 100 
+?g) with the LABA-ICS association (vilanterol 25 ?g-fluticasone furoate 100 ?g) 
+and the combination LABA-LAMA (vilanterol 25 ?g/umeclidinium 62.5 ?g) on the 
+reduction of the rate of exacerbation as the primary outcome, but also on the 
+pulmonary function, the quality of life, the dyspnea and the mortality.Triple 
+therapy by comparison with dual therapy (LABA-ICS or LABA-LAMA) improves 
+numerous parameters such as the rate of moderate to severe exacerbations, the 
+symptoms, the respiratory function, the quality of life, while being well 
+tolerated. Finally, the IMPACT study gives an "evidence base" for the GOLD 
+guidelines proposing triple therapy in symptomatic COPD patients presenting 
+exacerbations despite dual therapy.
+
+Publisher: La place de la trithérapie bronchodilatatrice et anti-inflammatoire, 
+comprenant un bêta-2 mimétique à longue durée d’action (LABA), un 
+anticholinergique à longue durée d’action (LAMA) et un corticostéroïde inhalé 
+(CSI), dans la prévention des exacerbations de la bronchopneumopathie chronique 
+obstructive (BPCO) n’est pas encore clairement établie, et nécessite une 
+comparaison avec les associations de LABA-CSI ou les combinaisons LABA-LAMA. 
+IMPACT est une étude randomisée en double aveugle de phase 3 comparant la 
+trithérapie (LABA-LAMA-CSI) en un seul inhalateur (vilantérol 25 ?g/ 
+uméclidinium 62,5 ?g/fluticasone furoate 100 ?g) avec une association LABA-CSI 
+(vilantérol 25 ?g-fluticasone furoate 100 ?g) et une combinaison LABA-LAMA 
+(vilantérol 25 ?g/uméclidinium 62,5 ?g) sur la réduction du taux d’exacerbations 
+comme critère de jugement primaire, mais aussi sur la fonction respiratoire, la 
+qualité de vie, la dyspnée et la mortalité. La trithérapie entraîne une 
+diminution significative du taux d’exacerbations modérées ou sévères, améliore 
+la dyspnée, la fonction respiratoire et la qualité de vie par rapport à 
+l’association fluticasone-vilantérol et la bithérapie bronchodilatatrice 
+uméclidinium-vilantérol chez des patients BPCO symptomatiques et présentant des 
+exacerbations, tout en étant bien tolérée. Finalement, l’étude IMPACT apporte 
+une évidence clinique aux directives du GOLD proposant la trithérapie chez des 
+patients BPCO symptomatiques présentant toujours des exacerbations malgré une 
+bithérapie.
+
+PMID: 30680975 [Indexed for MEDLINE]
+
+
+19. Int J Chron Obstruct Pulmon Dis. 2018 Oct 9;13:3203-3231. doi: 
+10.2147/COPD.S173472. eCollection 2018.
+
+Comparative efficacy of inhaled medications (ICS/LABA, LAMA, LAMA/LABA and SAMA) 
+for COPD: a systematic review and network meta-analysis.
+
+Aziz MIA(1), Tan LE(1), Wu DB(1), Pearce F(1), Chua GSW(2), Lin L(1), Tan PT(1), 
+Ng K(1).
+
+Author information:
+(1)Agency for Care Effectiveness, Ministry of Health, Singapore, 
+ng_kwong_hoe@moh.gov.sg.
+(2)Division of Medicine, Ng Teng Fong General Hospital, Singapore.
+
+PURPOSE: To assess the comparative efficacy of short-acting muscarinic 
+antagonists (SAMAs), long-acting muscarinic antagonists (LAMAs), LAMA in 
+combination with long-acting beta-agonists (LABAs; LAMA/LABAs) and inhaled 
+corticosteroids (ICS) in combination with LABA (ICS/LABAs) for the maintenance 
+treatment of COPD.
+MATERIALS AND METHODS: We systematically reviewed 74 randomized controlled 
+trials (74,832 participants) published up to 15 November 2017, which compared 
+any of the interventions (SAMA [ipratropium], LAMA [aclidinium, glycopyrronium, 
+tiotropium, umeclidinium], LAMA/LABA [aclidinium/formoterol, 
+indacaterol/glycopyrronium, tiotropium/olodaterol, umeclidinium/vilanterol] and 
+ICS/LABA [fluticasone/vilanterol, budesonide/formoterol, 
+salmeterol/fluticasone]) with each other or with placebo. A random-effects 
+network meta-analysis combining direct and indirect evidence was conducted to 
+examine the change from baseline in trough FEV1, transition dyspnea index, St 
+George's Respiratory Questionnaire and frequency of adverse events at weeks 12 
+and 24.
+RESULTS: Inconsistency models were not statistically significant for all 
+outcomes. LAMAs, LAMA/LABAs and ICS/LABAs led to a significantly greater 
+improvement in trough FEV1 compared with placebo and SAMA monotherapy at weeks 
+12 and 24. All LAMA/LABAs, except aclidinium/formoterol, were statistically 
+significantly better than LAMA monotherapy and ICS/LABAs in improving trough 
+FEV1. Among the LAMAs, umeclidinium showed statistically significant improvement 
+in trough FEV1 at week 12 compared to tiotropium and glycopyrronium, but the 
+results were not clinically significant. LAMA/LABAs had the highest 
+probabilities of being ranked the best agents in FEV1 improvement. Similar 
+trends were observed for the transition dyspnea index and St George's 
+Respiratory Questionnaire outcomes. There were no significant differences in the 
+incidences of adverse events among all treatment options.
+CONCLUSION: LAMA/LABA showed the greatest improvement in trough FEV1 at weeks 12 
+and 24 compared with the other inhaled drug classes, while SAMA showed the least 
+improvement. There were no significant differences among the LAMAs and 
+LAMA/LABAs within their respective classes.
+
+DOI: 10.2147/COPD.S173472
+PMCID: PMC6186767
+PMID: 30349228 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure The authors report no conflicts of 
+interest in this work.
+
+
+20. Respir Res. 2017 Nov 2;18(1):182. doi: 10.1186/s12931-017-0647-1.
+
+A 28-day, randomized, double-blind, placebo-controlled, parallel group study of 
+nebulized revefenacin in patients with chronic obstructive pulmonary disease.
+
+Pudi KK(1), Barnes CN(2), Moran EJ(2), Haumann B(3), Kerwin E(4).
+
+Author information:
+(1)Upstate Pharmaceutical Research, Greenville, SC, USA.
+(2)Theravance Biopharma US, Inc., South San Francisco, CA, USA.
+(3)Theravance Biopharma UK Limited, London, UK. bhaumann@theravance.com.
+(4)Clinical Research Institute of Southern Oregon, PC, Medford, OR, USA.
+
+BACKGROUND: Revefenacin is a once-daily long-acting muscarinic antagonist (LAMA) 
+in clinical development for the treatment of patients with chronic obstructive 
+pulmonary disease (COPD). In a dose-ranging study, nebulized once-daily 
+revefenacin had a long duration of action in patients after 7 days' 
+administration of doses up to 700 μg. In this multiple-dose study, the 
+bronchodilation efficacy and adverse events profile were characterized in 
+patients administered nebulized revefenacin once daily for 28 days.
+METHODS: A total of 355 COPD patients (mean age 62 years, mean forced expiratory 
+volume in 1 s [FEV1] 44% of predicted) were randomized in a double-blind, 
+placebo-controlled parallel group study. Inhaled corticosteroids as well as 
+short-acting bronchodilators were permitted. Once-daily treatments (44, 88, 175 
+or 350 μg revefenacin or matching placebo) were administered by a standard jet 
+nebulizer, for 28 days. The primary endpoint was change from baseline in D28 
+trough FEV1, and secondary endpoints included weighted mean FEV1 over 0 to 24 h 
+and rescue medication (albuterol) use. Safety evaluations included adverse 
+events, laboratory assessments, electrocardiograms and 24-h Holter profiles.
+RESULTS: Revefenacin (88, 175 and 350 μg) significantly improved D28 trough FEV1 
+over placebo (187.4, 166.6 and 170.6 mL, respectively, all p < 0.001); 44 μg 
+produced a sub-therapeutic response. At doses ≥88 μg, more than 80% of patients 
+achieved at least a 100-mL increase from baseline FEV1 in the first 4 h post 
+dose compared with 33% of placebo patients. For doses ≥88 μg, D28 24 h weighted 
+mean differences from placebo for FEV1 were numerically similar to respective 
+trough FEV1 values, indicating bronchodilation was sustained for 24 h post dose. 
+Doses ≥88 μg reduced the average number of albuterol puffs/day by more than one 
+puff/day. The 350 μg dose did not demonstrate additional efficacy over that 
+observed with 175 μg revefenacin. Revefenacin was generally well tolerated, with 
+minimal reports of systemic anti-cholinergic effects.
+CONCLUSIONS: These data suggest that 88 and 175 μg revefenacin are appropriate 
+doses for use in longer-term safety and efficacy trials. Revefenacin offers the 
+potential for the first once-daily LAMA for nebulization in patients with COPD 
+who require or prefer a nebulized drug delivery option.
+TRIAL REGISTRATION: ClinicalTrials.gov NCT02040792 . Registered January 16, 
+2014.
+
+DOI: 10.1186/s12931-017-0647-1
+PMCID: PMC5667509
+PMID: 29096627 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+protocol and all amendments were approved by local review boards, ethics 
+committees and health authorities at each of the 41 study centers. All patients 
+provided written informed consent. CONSENT FOR PUBLICATION: Not applicable. 
+COMPETING INTERESTS: KP has no disclosures. CB, EM and BH are employees of the 
+Theravance Biopharma group of companies. EK is a consultant for Amphastar, Astra 
+Zeneca, Forest, Mylan, Novartis, Sunovion, Teva and Theravance Biopharma. 
+PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional 
+claims in published maps and institutional affiliations.

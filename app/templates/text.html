@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    
+
+	</head>
+    <body>
+				<div class="header" id="myHeader">
+              
+                    <h2 style="text-align:center": 40px; top: 300px"> 
+						
+						
+						Results, information extraction for ACCEPT model
+                     
+
+					 </h2>					
+                </div>   
+				  
+				  
+				  <div class="container" width='50%'>
+				   <p style="margin-left: 40px"> 
+				   
+				   <table class="table table-striped">
+					  <thead>
+						<tr>
+						  <th scope="col">Variable</th>
+						  <th scope="col">Value</th>
+						  <th scope="col">Probability</th>
+						  
+						</tr>
+					  </thead  class="thead-dark">
+					  <tbody>
+						    <tr>
+								 <th scope="row">Gender </th>
+								  <td>{{ text['body']['Gender'][0] }}</td>
+								  <td>{{ text['body']['Gender'][1] }}</td>
+								  
+								</tr>
+							<tr>	
+								 <th scope="row">Age </th>
+								  <td>{{ text['body']['Age'][0] }}</td>
+								  <td>{{ text['body']['Age'][1] }}</td>
+								  
+								</tr>
+							<tr>	
+								 <th scope="row">Smoker </th>
+								  <td>{{ text['body']['smoker'][0] }}</td>
+								  <td>{{ text['body']['smoker'][1] }}</td>
+								  
+								</tr>
+							
+						
+							<tr>	
+								 <th scope="row">BMI </th>
+								  <td>{{ text['body']['BMI'][0] }}</td>
+								  <td>{{ text['body']['BMI'][1] }}</td>
+								  
+								</tr>	
+								
+								
+								 <th scope="row">FEV1 </th>
+								  <td>{{ text['body']['FEV1'][0] }}</td>
+								  <td>{{ text['body']['FEV1'][1] }}</td>
+								  
+								</tr>
+							<tr>	
+								 <th scope="row">SGRQ </th>
+								  <td>{{ text['body']['SGRQ'][0] }}</td>
+								  <td>{{ text['body']['SGRQ'][1] }}</td>
+								  
+								</tr>
+							<tr>	
+								 <th scope="row">CAT </th>
+								  <td>{{ text['body']['CAT'][0] }}</td>
+								  <td>{{ text['body']['CAT'][1] }}</td>
+								  
+								</tr>
+							<tr>	
+								 <th scope="row">Oxygen Therapy </th>
+								  <td> {{ text['body']['Oxygen_Therapy'][0]}} </td>
+								  <td>{{ text['body']['Oxygen_Therapy'][1] }}</td>
+								  
+								</tr>
+							<tr>	
+								 <th scope="row">Statin </th>
+								  <td>{{ text['body']['Statin'][0]}}  </td>
+								  <td>{{ text['body']['Statin'][1] }}</td>
+								  
+								</tr>
+							<tr>	
+								 <th scope="row">LAMA </th>
+								  <td>{{ text['body']['LAMA'][0]}}   </td>
+								  <td>{{ text['body']['LAMA'][1] }}</td>
+								  
+								</tr>
+								
+							<tr>
+								 <th scope="row">LABA </th>
+								  <td>{{ text['body']['LABA'][0]}}   </td>
+								  <td>{{ text['body']['LABA'][1] }}</td>
+								  
+								</tr>
+							<tr>
+								 <th scope="row">ICS </th>
+								  <td>{{ text['body']['ICS'][0] }}</td>
+								  <td>{{ text['body']['ICS'][1] }}</td>
+								  
+								</tr>
+
+							<tr>
+								 <th scope="row">Exacerbations </th>
+								  <td>{{ text['body']['Exacerbations'][0] }}</td>
+								  <td>{{ text['body']['Exacerbations'][1] }}</td>
+								  
+								</tr>
+							<tr>
+								 <th scope="row">Severe exacerbation </th>
+								  <td>{{ text['body']['Severe_exacerbation'][0] }}</td>
+								  <td>{{ text['body']['Severe_exacerbation'][1] }}</td>
+								  
+								</tr>								
+																
+					  </tbody>
+					</table>
+					</div>
+									  
+				  </p>
+				  
+
+                 <div>
+				    <p style="text-align:center">
+	
+					<A HREF="javascript:javascript:history.go(-1)" style="text-align:center">Go back to the submission form</A>
+                        
+
+                    </p>  
+					<div>
+					<p> 
+					 -     '-1' represents that the user has mentioned the absence of a feature for the particular patient.
+					</p>
+					<p> 
+					-      '0' represents that the feature is not been addressed by user and might be asked again to be filled.
+					</p>
+					
+     
+                  </div
+                 
+                 
+                 
+                 
+                 
+    
+    </body>
+
+
+

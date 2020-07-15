@@ -1,0 +1,1049 @@
+1. Cochrane Database Syst Rev. 2016 Jan 21;(1):CD011721. doi: 
+10.1002/14651858.CD011721.pub2.
+
+Long-acting muscarinic antagonists (LAMA) added to combination long-acting 
+beta2-agonists and inhaled corticosteroids (LABA/ICS) versus LABA/ICS for adults 
+with asthma.
+
+Kew KM(1), Dahri K.
+
+Author information:
+(1)Population Health Research Institute, St George's, University of London, 
+Cranmer Terrace, London, UK, SW17 0RE.
+
+BACKGROUND: Maintenance treatment with long-acting beta2-agonists and inhaled 
+corticosteroids (LABA/ICS) can relieve asthma symptoms and reduce the frequency 
+of exacerbations, but there are limited treatment options for people who do not 
+gain control on combination LABA/ICS. Long-acting muscarinic antagonists (LAMA) 
+are a class of inhaled drug which have been effective for people with chronic 
+obstructive pulmonary disease and are now becoming available for people with 
+asthma to take alongside their LABA/ICS inhaler.
+OBJECTIVES: To assess the effects of adding a long-acting muscarinic antagonist 
+(LAMA) to combination long-acting beta2-agonists (LABA) and inhaled 
+corticosteroids (ICS) in adults whose asthma is not well controlled by LABA/ICS.
+SEARCH METHODS: We identified trials from the Cochrane Airways Review Group 
+Specialised Register (CAGR) up to January 2016. We also searched 
+ClinicalTrials.gov, the WHO trials portal, and reference lists of other reviews, 
+and we contacted trial authors for additional information.
+SELECTION CRITERIA: We included parallel randomised controlled trials (RCTs) of 
+at least 12 weeks' duration. Studies met the inclusion criteria if they compared 
+LAMA as an add-on to LABA/ICS versus LABA/ICS alone for adults with asthma. We 
+included studies reported as full text, those published as abstract only, and 
+unpublished data. Primary outcomes were exacerbations requiring oral 
+corticosteroids (OCS), validated measures of asthma control, and serious adverse 
+events (including mortality).
+DATA COLLECTION AND ANALYSIS: Two review authors screened searches and 
+independently extracted details on risk of bias and numerical data. We analysed 
+dichotomous data as odds ratios (ORs) and continuous data as mean differences 
+(MD) using a random-effects model. We rated all outcomes using GRADE.
+MAIN RESULTS: We found four double-blind, double-dummy trials comparing LAMA to 
+placebo, including 1197 people with asthma taking combination LABA/ICS. One of 
+the trials was designed to study glycopyrronium bromide but was withdrawn prior 
+to enrolment, and the other three all studied tiotropium bromide (mostly 5 µg 
+once daily via Respimat) over 48 to 52 weeks. People in the trials had a mean 
+forced expiratory volume in one second (FEV1) of 55% of their predicted value, 
+indicating severe asthma.People randomised to take tiotropium add-on had fewer 
+exacerbations requiring oral corticosteroids than those continuing to take 
+LABA/ICS alone, but the confidence intervals did not rule out no difference (OR 
+0.76, 95% CI 0.57 to 1.02; moderate quality evidence). Over 48 weeks, 328 out of 
+1000 people taking their usual LABA/ICS would have to take oral corticosteroids 
+for an exacerbation compared with 271 if they took tiotropium as well (95% CI 
+218 to 333 per 1000). Analyses comparing the number of exacerbations per patient 
+in each group (rate ratio) and the time until first exacerbation (hazard ratio) 
+were in keeping with the main result. Quality of life, as measured by the Asthma 
+Quality of Life Questionnaire (AQLQ) was no better for those taking tiotropium 
+add-on than for those taking LABA/ICS alone when considered in light of the 0.5 
+minimal clinically important difference on the scale (MD 0.09, 95% CI - 0.03 to 
+0.20), and evidence for whether tiotropium increased or decreased serious 
+adverse events in this population was inconsistent (OR 0.60, 95% CI 0.24 to 
+1.47; I(2) = 76%).Within the secondary outcomes, exacerbations requiring 
+hospital admission were too rare to tell whether tiotropium was beneficial over 
+LABA/ICS alone. There was high quality evidence showing benefits to lung 
+function (trough FEV1 and forced vital capacity (FVC)) and potentially small 
+benefits to asthma control. People taking tiotropium add-on were less likely to 
+experience non-serious adverse events.
+AUTHORS' CONCLUSIONS: Tiotropium add-on may have additional benefits over 
+LABA/ICS alone in reducing the need for rescue oral steroids in people with 
+severe asthma. The effect was imprecise, and there was no evidence for other 
+LAMA preparations. Possible benefits on quality of life were negligible, and 
+evidence for the effect on serious adverse events was inconsistent. There are 
+likely to be small added benefits for tiotropium Respimat 5 µg daily on lung 
+function and asthma control over LABA/ICS alone and fewer non-serious adverse 
+events. The benefit of tiotropium add-on on the frequency of hospital admission 
+is still unknown, despite year-long trials.Ongoing and future trials should 
+clearly describe participants' background medications to help clinicians judge 
+how the findings relate to stepwise care. If studies test LAMAs other than 
+tiotropium Respimat for asthma, they should be at least six months long and use 
+accepted and validated outcomes to allow comparisons of the safety and 
+effectiveness between different preparations.
+
+DOI: 10.1002/14651858.CD011721.pub2
+PMID: 26798035 [Indexed for MEDLINE]
+
+
+2. Expert Rev Clin Pharmacol. 2015;8(4):479-501. doi: 
+10.1586/17512433.2015.1058154.
+
+Long-acting muscarinic antagonists.
+
+Melani AS(1).
+
+Author information:
+(1)Dipartimento Vasi, Cuore e Torace, Fisiopatologia e Riabilitazione 
+Respiratoria, Policlinico Le Scotte, Azienda Ospedaliera Universitaria Senese, 
+Viale Bracci Siena, Italy.
+
+Chronic obstructive pulmonary disease (COPD) is a major cause of death and 
+disability worldwide. Inhaled bronchodilators are the mainstay of COPD 
+pharmacological treatment. Long-acting muscarinic antagonists (LAMAs) are a 
+major class of inhaled bronchodilators. Some LAMA/device systems with different 
+characteristics and dosing schedules are currently approved for maintenance 
+therapy of COPD and a range of other products are being developed. They improve 
+lung function and patient-reported outcomes and reduce acute bronchial 
+exacerbations with good safety. LAMAs are used either alone or associated with 
+long-acting β₂-agonists, eventually in fixed dose combinations. Long-acting 
+β₂-agonist/LAMA combinations assure additional benefits over the individual 
+components alone. The reader will obtain a view of the safety and efficacy of 
+the different LAMA/device systems in COPD patients.
+
+DOI: 10.1586/17512433.2015.1058154
+PMID: 26109098 [Indexed for MEDLINE]
+
+
+3. Br J Pharmacol. 2018 May;175(10):1731-1743. doi: 10.1111/bph.14187. Epub 2018 
+Apr 14.
+
+Novel long-acting antagonists of muscarinic ACh receptors.
+
+Randáková A(1), Rudajev V(1), Doležal V(1), Boulos J(2), Jakubík J(1).
+
+Author information:
+(1)Department of Neurochemistry, Institute of Physiology, Czech Academy of 
+Sciences, Prague, Czech Republic.
+(2)Department of Physical Sciences, Barry University, Miami Shores, FL, USA.
+
+BACKGROUND AND PURPOSE: The aim of this study was to develop potent and 
+long-acting antagonists of muscarinic ACh receptors. The 4-hexyloxy and 
+4-butyloxy derivatives of 
+1-[2-(4-oxidobenzoyloxy)ethyl]-1,2,3,6-tetrahydropyridin-1-ium were synthesized 
+and tested for biological activity. Antagonists with long-residence time at 
+receptors are therapeutic targets for the treatment of several neurological and 
+psychiatric human diseases. Their long-acting effects allow for reduced daily 
+doses and adverse effects.
+EXPERIMENTAL APPROACH: The binding and antagonism of functional responses to the 
+agonist carbachol mediated by 4-hexyloxy compounds were investigated in CHO 
+cells expressing individual subtypes of muscarinic receptors and compared with 
+4-butyloxy analogues.
+KEY RESULTS: The 4-hexyloxy derivatives were found to bind muscarinic receptors 
+with micromolar affinity and antagonized the functional response to carbachol 
+with a potency ranging from 30 nM at M1 to 4 μM at M3 receptors. Under washing 
+conditions to reverse antagonism, the half-life of their antagonistic action 
+ranged from 1.7 h at M2 to 5 h at M5 receptors.
+CONCLUSIONS AND IMPLICATIONS: The 4-hexyloxy derivatives were found to be potent 
+long-acting M1 -preferring antagonists. In view of current literature, M1 
+-selective antagonists may have therapeutic potential for striatal cholinergic 
+dystonia, delaying epileptic seizure after organophosphate intoxication or 
+relieving depression. These compounds may also serve as a tool for research into 
+cognitive deficits.
+
+© 2018 The Authors. British Journal of Pharmacology published by John Wiley & 
+Sons Ltd on behalf of British Pharmacological Society.
+
+DOI: 10.1111/bph.14187
+PMCID: PMC5913398
+PMID: 29498041 [Indexed for MEDLINE]
+
+
+4. Eur Respir J. 2018 Dec 13;52(6):1801586. doi: 10.1183/13993003.01586-2018. Print 
+2018 Dec.
+
+Triple therapy versus single and dual long-acting bronchodilator therapy 
+in COPD: a systematic review and meta-analysis.
+
+Cazzola M(1), Rogliani P(1), Calzetta L(1), Matera MG(2).
+
+Author information:
+(1)Unit of Respiratory Medicine, Dept of Experimental Medicine, University of 
+Rome "Tor Vergata", Rome, Italy.
+(2)Unit of Pharmacology, Dept of Experimental Medicine, University of Campania 
+"Luigi Vanvitelli", Naples, Italy.
+
+We performed a meta-analysis to compare the impact of triple combination therapy 
+with inhaled corticosteroids (ICS), long-acting β2-agonists (LABAs) and 
+long-acting muscarinic receptor antagonists (LAMAs) versus LABA/LAMA combination 
+therapy or single long-acting bronchodilator therapy in chronic obstructive 
+pulmonary disease. The ICS/LABA/LAMA combination reduced the risk of 
+exacerbation (relative risk 0.70, 95% CI 0.53-0.94) and improved trough forced 
+expiratory volume in 1 s (mean difference in mL +37.94, 95% CI 18.83-53.89) 
+versus LABA/LAMA combination therapy. The protective effect of triple 
+combination therapy versus LABA/LAMA combination therapy against risk of 
+exacerbation was greater in patients with blood eosinophil counts 
+≥300 cells·µL-1 (relative risk 0.57, 95% CI 0.48-0.68). While ∼38 patients had 
+to be treated for 1 year with ICS/LABA/LAMA combination therapy to prevent one 
+exacerbation compared to LABA/LAMA combination therapy, the number needed to 
+treat (NNT) was ∼21 when compared to single long-acting bronchodilator therapy. 
+The person-based NNT per year of ICS/LABA/LAMA combination therapy versus 
+LABA/LAMA combination therapy was significantly (p<0.05) lower in patients with 
+eosinophil counts ≥300 cells·µL-1 (NNT value: 8.58) than in those with counts 
+<300 cells·µL-1 (NNT value: 46.28). The risk of pneumonia did not differ between 
+ICS/LABA/LAMA combination therapy and its comparators. The number needed to harm 
+was ∼195. This meta-analysis suggests that patients on single long-acting 
+bronchodilator therapy or LABA/LAMA combination therapy, who still have 
+exacerbations and have blood eosinophil counts ≥300 cells·µL-1, could benefit 
+from ICS/LABA/LAMA combination therapy.
+
+Copyright ©ERS 2018.
+
+DOI: 10.1183/13993003.01586-2018
+PMID: 30309975 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: M. Cazzola has 
+participated as a faculty member and advisor in scientific meetings and courses 
+under the sponsorship of Almirall, AstraZeneca, Biofutura, Boehringer Ingelheim, 
+Chiesi Farmaceutici, GlaxoSmithKline, Menarini Group, Lallemand, Mundipharma, 
+Novartis, Pfizer, Recipharm, Verona Pharma and Zambon, and is or has been a 
+consultant to ABC Farmaceutici, AstraZeneca, Chiesi Farmaceutici, Recipharm, 
+Lallemand, Novartis, Ockham Biotech, Verona Pharma and Zambon. His department 
+was funded by Almirall, Boehringer Ingelheim, Novartis and Zambon. Conflict of 
+interest: P. Rogliani participated as a lecturer and advisor in scientific 
+meetings and courses under the sponsorship of Almirall, AstraZeneca, Biofutura, 
+Boehringer Ingelheim, Chiesi Farmaceutici, GlaxoSmithKline, Menarini Group, 
+Mundipharma and Novartis. Her department was funded by Almirall, Boehringer 
+Ingelheim, Chiesi Farmaceutici, Novartis and Zambon. Conflict of interest: 
+L. Calzetta has participated as an advisor in scientific meetings under the 
+sponsorship of Boehringer Ingelheim and Novartis, received non-financial support 
+from AstraZeneca, a research grant partially funded by Chiesi Farmaceutici, 
+Boehringer Ingelheim, Novartis and Almirall, and is or has been a consultant to 
+ABC Farmaceutici, Recipharm, Zambon, Verona Pharma and Ockham Biotech. His 
+department was funded by Almirall, Boehringer Ingelheim, Chiesi Farmaceutici, 
+Novartis and Zambon. Conflict of interest: M.G. Matera has participated as a 
+lecturer and advisor in scientific meetings and courses under the sponsorship of 
+Almirall, AstraZeneca, Boehringer Ingelheim, Chiesi Farmaceutici, 
+GlaxoSmithKline and Novartis, and has been a consultant to ABC Farmaceutici and 
+Chiesi Farmaceutici. Her department was funded by Novartis.
+
+
+5. Pulm Pharmacol Ther. 2018 Feb;48:71-79. doi: 10.1016/j.pupt.2017.10.003. Epub 
+2017 Oct 4.
+
+Pharmacodynamics, pharmacokinetics and safety of revefenacin (TD-4208), a 
+long-acting muscarinic antagonist, in patients with chronic obstructive 
+pulmonary disease (COPD): Results of two randomized, double-blind, phase 2 
+studies.
+
+Quinn D(1), Barnes CN(2), Yates W(3), Bourdet DL(4), Moran EJ(5), Potgieter 
+P(6), Nicholls A(7), Haumann B(8), Singh D(9).
+
+Author information:
+(1)P3 Research, 121 Adelaide Road, Mount Cook, Wellington, New Zealand. 
+Electronic address: dean@p3research.co.nz.
+(2)Theravance Biopharma US, Inc., South San Francisco, CA, United States. 
+Electronic address: cbarnes@theravance.com.
+(3)Theravance Biopharma US, Inc., South San Francisco, CA, United States. 
+Electronic address: wyates@theravance.com.
+(4)Theravance Biopharma US, Inc., South San Francisco, CA, United States. 
+Electronic address: dbourdet@theravance.com.
+(5)Theravance Biopharma US, Inc., South San Francisco, CA, United States. 
+Electronic address: emoran@theravance.com.
+(6)Theravance Biopharma UK, Limited, London, United Kingdom. Electronic address: 
+peterpotgieter2@aol.com.
+(7)Pharmaceutical Consulting, Burlingame, CA, United States. Electronic address: 
+andrew.10.nicholls@gmail.com.
+(8)Theravance Biopharma UK, Limited, London, United Kingdom. Electronic address: 
+bhaumann@theravance.com.
+(9)University of Manchester, Medicines Evaluation Unit, University Hospital of 
+South Manchester, NHS Foundation Trust, Manchester, United Kingdom. Electronic 
+address: dsingh@meu.org.uk.
+
+BACKGROUND: Revefenacin (TD-4208) is a potent, lung-selective, long-acting 
+muscarinic antagonist currently in development as a once-daily nebulized therapy 
+for chronic obstructive pulmonary disease (COPD). We evaluated the 
+pharmacodynamics (bronchodilator activity), pharmacokinetics (PK) and safety of 
+single- and multiple-dose administrations of revefenacin in two clinical trials 
+(Study 0059 and Study 0091) in patients with moderate to severe COPD.
+METHODS: In Study 0059, 32 patients were randomized to receive a single dose of 
+revefenacin (350 or 700 μg), active control ipratropium (500 μg) or placebo 
+inhalation solution administered via standard jet nebulizer in a double-blind, 
+crossover fashion. In Study 0091, 59 patients were randomized to receive 
+once-daily inhalations of revefenacin (22, 44, 88, 175, 350 or 700 μg) or 
+placebo for 7 days in a double-blind, incomplete block, five-way crossover 
+design. The primary efficacy endpoint was change from baseline in peak (0-6 h) 
+forced expiratory volume in 1 s (FEV1) in Study 0059, and trough FEV1 after the 
+final dose (Day 7) in Study 0091. In both studies, secondary endpoints included 
+area under the FEV1-time curve (FEV1 AUC) values from time 12-24 h post dose and 
+FEV1 AUC values from time zero to 24 h post dose.
+RESULTS: Revefenacin demonstrated a rapid onset and sustained duration of 
+bronchodilator action in both studies. In Study 0059, mean peak FEV1 was 
+significantly higher (p < 0.001) for revefenacin and ipratropium compared to 
+placebo, with differences of 176.8 mL for 350 μg revefenacin, 162.2 mL for 
+700 μg revefenacin and 190.6 mL for ipratropium. In Study 0091, mean trough FEV1 
+on Day 7 was significantly higher (p < 0.006) for all revefenacin doses compared 
+to placebo, with differences ranging from 53.5 mL (22 μg dose) to 114.2 mL 
+(175 μg dose). The results for the other spirometry endpoints were consistent 
+with the primary endpoint for each study, demonstrating that the bronchodilator 
+effect of revefenacin lasted more than 24 h following nebulized administration. 
+Revefenacin was rapidly absorbed and extensively metabolized, followed by a slow 
+apparent terminal elimination and minimal accumulation with repeated dosing. In 
+both studies, adverse events were generally mild and occurred with similar 
+frequencies in all groups, with no indication of significant systemic 
+anti-muscarinic activity at any dose.
+CONCLUSIONS: Following single or multiple nebulized-dose administration in 
+patients with COPD, revefenacin demonstrates a rapid onset and sustained 
+duration of bronchodilator effect over 24 h following once-daily administration, 
+with a PK profile that is commensurate with low systemic exposure.
+
+Copyright © 2017 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.pupt.2017.10.003
+PMID: 28987804 [Indexed for MEDLINE]
+
+
+6. Am J Respir Crit Care Med. 2017 Jul 15;196(2):139-149. doi: 
+10.1164/rccm.201609-1794CI.
+
+How Do Dual Long-Acting Bronchodilators Prevent Exacerbations of Chronic 
+Obstructive Pulmonary Disease?
+
+Beeh KM(1), Burgel PR(2), Franssen FME(3), Lopez-Campos JL(4)(5), Loukides S(6), 
+Hurst JR(7), Fležar M(8), Ulrik CS(9), Di Marco F(10), Stolz D(11), Valipour 
+A(12), Casserly B(13)(14), Ställberg B(15), Kostikas K(16), Wedzicha JA(17).
+
+Author information:
+(1)1 insaf Respiratory Research Institute, Wiesbaden, Germany.
+(2)2 Department of Respiratory Diseases and Adult Cystic Fibrosis Centre, 
+Hôpital Cochin, AP-HP and Paris Descartes University, Paris, France.
+(3)3 Department of Research and Education, Centre of Expertise for Chronic Organ 
+Failure, Horn, the Netherlands.
+(4)4 Unidad Médico-Quirúrgica de Enfermedades Respiratorias, Instituto de 
+Biomedicina de Sevilla, Hospital Universitario Virgen del Rocío, Sevilla, Spain.
+(5)5 Centro de Investigación Biomédica en Red de Enfermedades Respiratorias, 
+Instituto de Salud Carlos III, Madrid, Spain.
+(6)6 2nd Respiratory Medicine Department, National and Kapodistrian University 
+of Athens Medical School, Attiko University Hospital, Athens, Greece.
+(7)7 University College London Respiratory, University College London, London, 
+United Kingdom.
+(8)8 University Clinic of Respiratory and Allergic Diseases, Golnik, Slovenia.
+(9)9 Department of Pulmonary Medicine, Hvidovre Hospital, Copenhagen, Denmark.
+(10)10 Dipartimento di Scienze della Salute, Università degli Studi di Milano, 
+Ospedale San Paolo, Milan, Italy.
+(11)11 Clinic of Respiratory Medicine and Pulmonary Cell Research, University 
+Hospital Basel, Basel, Switzerland.
+(12)12 Ludwig-Boltzmann-Institute for Chronic Obstructive Pulmonary Disease and 
+Respiratory Epidemiology, Otto-Wagner-Spital, Vienna, Austria.
+(13)13 University Hospital, Limerick, Ireland.
+(14)14 Graduate Entry Medical School, University of Limerick, Limerick, Ireland.
+(15)15 Department of Public Health and Caring Science, Family Medicine and 
+Preventive Medicine, Uppsala University, Uppsala, Sweden.
+(16)16 Novartis, Basel, Switzerland; and.
+(17)17 Airways Disease Section, National Heart and Lung Institute, Imperial 
+College London, London, United Kingdom.
+
+Decreasing the frequency and severity of exacerbations is one of the main goals 
+of treatment for patients with chronic obstructive pulmonary disease. Several 
+studies have documented that long-acting bronchodilators can reduce exacerbation 
+rate and/or severity, and others have shown that combinations of long-acting 
+β2-adrenergic agonists (LABAs) and long-acting muscarinic antagonists (LAMAs) 
+provide greater reductions in exacerbation frequency than either their 
+monocomponents or LABA/inhaled corticosteroid combinations in patients at low 
+and high risk for these events. In this review, small groups of experts 
+critically evaluated mechanisms potentially responsible for the increased 
+benefit of LABA/LAMA combinations over single long-acting bronchodilators or 
+LABA/inhaled corticosteroids in decreasing exacerbation. These included effects 
+on lung hyperinflation and mechanical stress, inflammation, excessive mucus 
+production with impaired mucociliary clearance, and symptom severity. The data 
+assembled and analyzed by each group were reviewed by all authors and combined 
+into this manuscript. Available clinical results support the possibility that 
+effects of LABA/LAMA combinations on hyperinflation, mucociliary clearance, and 
+symptom severity may all contribute to decreasing exacerbations. Although 
+preclinical studies suggest LABAs and LAMAs have antiinflammatory effects, such 
+effects have not been demonstrated yet in patients with chronic obstructive 
+pulmonary disease.
+
+DOI: 10.1164/rccm.201609-1794CI
+PMID: 27922741 [Indexed for MEDLINE]
+
+
+7. Drugs. 2016 Jul;76(10):999-1013. doi: 10.1007/s40265-016-0599-7.
+
+Long-Acting Muscarinic Antagonists for Difficult-to-Treat Asthma: Emerging 
+Evidence and Future Directions.
+
+Bulkhi A(1)(2), Tabatabaian F(1), Casale TB(3).
+
+Author information:
+(1)Division of Allergy and Immunology, Department of Internal Medicine, 
+University of South Florida, 12901 Bruce B. Downs Blvd., MDC 19, Tampa, FL, 
+33612, USA.
+(2)Department of Internal Medicine, College of Medicine, Umm Al-Qura University, 
+Makkah, Saudi Arabia.
+(3)Division of Allergy and Immunology, Department of Internal Medicine, 
+University of South Florida, 12901 Bruce B. Downs Blvd., MDC 19, Tampa, FL, 
+33612, USA. tbcasale@health.usf.edu.
+
+Asthma is a complex disease where many patients remain symptomatic despite 
+guideline-directed therapy. This suggests an unmet need for alternative 
+treatment approaches. Understanding the physiological role of muscarinic 
+receptors and the parasympathetic nervous system in the respiratory tract will 
+provide a foundation of alternative therapeutics in asthma. Currently, several 
+long-acting muscarinic antagonists (LAMAs) are on the market for the treatment 
+of respiratory diseases. Many studies have shown the effectiveness of 
+tiotropium, a LAMA, as add-on therapy in uncontrolled asthma. These studies led 
+to FDA approval for tiotropium use in asthma. In this review, we discuss how the 
+neurotransmitter acetylcholine itself contributes to inflammation, 
+bronchoconstriction, and remodeling in asthma. We further describe the current 
+clinical studies evaluating LAMAs in adult and adolescent patients with asthma, 
+providing a comprehensive review of the current known physiological benefits of 
+LAMAs in respiratory disease.
+
+DOI: 10.1007/s40265-016-0599-7
+PMID: 27289376 [Indexed for MEDLINE]
+
+
+8. Postgrad Med. 2017 Jun;129(5):500-512. doi: 10.1080/00325481.2017.1317575. Epub 
+2017 Apr 20.
+
+Safety of inhaled long-acting anti-muscarinic agents in COPD.
+
+Hanania NA(1), Lareau SC(2), Yawn BP(3).
+
+Author information:
+(1)a Section of Pulmonary and Critical Care Medicine , Baylor College of 
+Medicine , Houston , TX , USA.
+(2)b College of Nursing , University of Colorado Denver , Aurora , CO , USA.
+(3)c Department of Family and Community Health , University of Minnesota , 
+Minneapolis , MN , USA.
+
+Evidence-based guidelines recommend inhaled long-acting anti-muscarinic agents 
+(LAMAs) as first-line maintenance therapy for symptomatic patients with COPD. 
+Several LAMAs are now available for use either as monotherapy or in combination 
+with other COPD medications, including long-acting β2-agonists (LABAs) or 
+inhaled corticosteroids (ICS). The efficacy and long-term safety of these 
+medications have been evaluated in multiple clinical trials and real-life 
+studies. This review evaluates the evidence available on the safety of existing 
+LAMAs alone or in combination with LABAs and ICS in patients with COPD.
+
+DOI: 10.1080/00325481.2017.1317575
+PMID: 28395575 [Indexed for MEDLINE]
+
+
+9. Int J Chron Obstruct Pulmon Dis. 2018 Oct 8;13:3141-3147. doi: 
+10.2147/COPD.S179285. eCollection 2018.
+
+Effects of a single long-acting muscarinic antagonist agent and a long-acting 
+muscarinic antagonist/long-acting β2-adrenoceptor agonist combination on lung 
+function and symptoms in untreated COPD patients in Japan.
+
+Yamada H(1)(2), Hida N(2), Hizawa N(1).
+
+Author information:
+(1)Department of Pulmonology, Graduate School of Comprehensive Human Sciences, 
+University of Tsukuba, Tsukuba, Ibaraki, Japan, h.yamada@md.tsukuba.ac.jp.
+(2)Department of Respiratory Medicine, Hitachinaka General Hospital, Hitachi 
+Ltd, Hitachinaka, Ibaraki, Japan, h.yamada@md.tsukuba.ac.jp.
+
+BACKGROUND: A large body of evidence suggests that long-acting β2-adrenoceptor 
+agonist (LABA)/long-acting muscarinic antagonist (LAMA) combinations induce a 
+strong synergistic bronchodilatory effect in human isolated airways. Moreover, a 
+recent post hoc analysis demonstrated clinical synergism between LABAs and 
+LAMAs, which induces a synergistic improvement not only in lung function but 
+also in dyspnea in COPD patients.
+AIM: The aim of this study is to examine the baseline factors related to 
+improvement in lung function or clinical symptoms that results from the 
+administration of LAMA or LAMA/LABA and to compare the differences in 
+improvement in lung function or clinical symptoms between LAMA and LAMA/LABA.
+METHODS: Among 829 patients with COPD who were treated with LAMA or LAMA/LABA in 
+our hospital, 112 patients (aged 40-89 years) matched the criteria. Of these 112 
+patients, 71 received LAMA (LAMA group) and 41 received LAMA/LABA (LAMA/LABA 
+group) as the initial treatment. Various examination results such as lung 
+function test values, symptom change, and frequency of exacerbations were 
+compared between the two groups.
+RESULTS: Compared with the monotherapy, the combination therapy significantly 
+improved the FEV1, inspiratory capacity (IC), and total COPD assessment test 
+(CAT) scores. Comparing the improvement in each domain of the CAT produced by 
+the combination therapy with that of the monotherapy, larger improvements were 
+found for the domains of going out and sleeping. The frequency of exacerbations 
+during the 24 weeks was significantly lower in the combination therapy group 
+than in the LAMA monotherapy group (P=0.034). Although no relationship was found 
+between improvement in FEV1 and any pretreatment factors in the LAMA/LABA group, 
+the improvement in the CAT score was strongly related to the baseline CAT score, 
+smoking index, and air trapping index (P-value <1×10-4).
+CONCLUSION: In this study of clinical practice, we found that LAMA/LABA 
+combination therapy improved the clinical symptoms of COPD and IC and that the 
+effects of the combination therapy were consistent with those observed in 
+previous clinical trials.
+
+DOI: 10.2147/COPD.S179285
+PMCID: PMC6183692
+PMID: 30349222 [Indexed for MEDLINE]
+
+Conflict of interest statement: Disclosure HY has received lecture fees from 
+Boehringer Ingelheim. NHiz has received lecture fees from AstraZeneca, Astellas 
+Pharma, and Boehringer Ingelheim. NHid has no conflicts of interest in this 
+work.
+
+
+10. Cochrane Database Syst Rev. 2017 Dec 19;12(12):CD012102. doi: 
+10.1002/14651858.CD012102.pub2.
+
+Long-acting inhaled bronchodilators for cystic fibrosis.
+
+Smith S(1), Edwards CT.
+
+Author information:
+(1)Division of Child Health, Obstetrics & Gynaecology, School of Medicine, The 
+University of Nottingham, 1701 E Floor, East Block Queens Medical Centre, 
+Nottingham, NG7 2UH, UK.
+
+Update of
+    doi: 10.1002/14651858.CD012102.
+
+BACKGROUND: Cystic fibrosis is a life-limiting inherited condition which affects 
+one in 2500 newborns in the UK and 70,000 children and adults worldwide. The 
+condition is multifaceted and affects many systems in the body. The respiratory 
+system is particularly affected due to a build up of thickened secretions and a 
+predisposition to infection. Inhaled bronchodilators are prescribed for 80% of 
+people with cystic fibrosis in order to widen the airways and alleviate 
+symptoms. Both short- and long-acting inhaled bronchodilators are used to 
+improve respiratory symptoms. Short-acting inhaled bronchodilators take effect 
+in minutes and typically last for four to eight hours (muscarinic antagonists). 
+Long-acting inhaled bronchodilators also take effect within minutes but 
+typically last for around 12 hours and sometimes longer. This review is one of 
+two which are replacing a previously published review of both long- and 
+short-acting inhaled bronchodilators.
+OBJECTIVES: This review aims to evaluate long-acting inhaled bronchodilators in 
+children and adults with cystic fibrosis in terms of clinical outcomes and 
+safety. If possible, we aimed to assess the optimal drug and dosage regimen.
+SEARCH METHODS: We searched the Cochrane Cystic Fibrosis Trials Register, 
+compiled from electronic database searches and handsearching of journals and 
+conference abstract books.Date of last search: 10 October 2017.We also carried 
+out a separate search of Embase and the reference lists of included trials. We 
+searched clinical trials registries for any ongoing trials and made contact with 
+pharmaceutical companies for any further trials.Date of Embase search: 11 
+October 2017.
+SELECTION CRITERIA: Randomised or quasi-randomised parallel trials comparing 
+long-acting inhaled bronchodilators (beta-2 agonists and muscarinic antagonists) 
+with placebo, no treatment or a different long-acting inhaled bronchodilator in 
+adults and children with cystic fibrosis.
+DATA COLLECTION AND ANALYSIS: Both authors independently assessed trials for 
+inclusion (based on title, abstract and full text). The authors independently 
+assessed the included trials for quality and risk of bias and extracted data. 
+Discrepancies were resolved by a third party.
+MAIN RESULTS: The searches identified 195 unique references, of which 155 were 
+excluded on title and abstract. We assessed the full texts of the remaining 
+references, excluded 16 trials (28 references) and included four trials (12 
+references) in the review with 1082 participants.One trial (n = 16) measuring 
+the effect of beta-2 agonists reported an improvement in forced expiratory 
+volume at one second (FEV1) after treatment (at one month), but the trial was 
+small with an unclear risk of bias so we judged the evidence to be very low 
+quality. The trial did not report on participant-reported outcomes, quality of 
+life or adverse events.Three trials (n = 1066) looked at the effects of the 
+muscarinic antagonist tiotropium at doses of 2.5 µg and 5.0 µg in both the short 
+term (up to 28 days) and the longer term (up to three months). Only one of the 
+trials reported the change in FEV1 (L) after 28 days treatment and showed no 
+significant difference between groups; with 2.5 µg tiotropium, mean difference 
+(MD) -0.02 (95% confidence interval (CI) -0.13 to 0.09), or 5.0 µg tiotropium, 
+MD 0.00 (95% CI -0.10 to 0.10) (moderate-quality evidence). All three trials of 
+muscarinic antagonists provided data on adverse events which were found to 
+differ little from placebo at doses of 2.5 µg, risk ratio (RR) 1.01 (95% CI 0.92 
+to 1.11) or 5.0 µg, RR 0.98 (95% CI 0.90 to 1.06). Very little 
+participant-reported outcome data or quality of life data were available for 
+analysis. Two of the trials were at low risk of bias overall whilst the 
+remaining trial was at an unclear risk overall.
+AUTHORS' CONCLUSIONS: Neither long-acting beta-2 agonists nor long-acting 
+muscarinic antagonist bronchodilators demonstrate improvement in our primary 
+outcome of FEV1. No difference was observed between intervention and placebo in 
+terms of quality of life or adverse events. The quality of evidence for the use 
+of beta-2 agonists was very low. The use of a long-acting inhaled bronchodilator 
+may help to reduce the burden of treatment for people with cystic fibrosis as it 
+is taken less often than a short-acting inhaled bronchodilator, but future 
+trials would benefit from looking at the effects on our primary outcomes 
+(spirometric changes from baseline, quality of life and adverse effects) in the 
+longer term.
+
+DOI: 10.1002/14651858.CD012102.pub2
+PMCID: PMC6486268
+PMID: 29253920 [Indexed for MEDLINE]
+
+Conflict of interest statement: Sherie Smith declares no known potential 
+conflict of interest. Dr Christopher Edwards declares no known potential 
+conflict of interest.
+
+
+11. Respirology. 2017 Oct;22(7):1313-1319. doi: 10.1111/resp.13100. Epub 2017 Jun 
+27.
+
+Long-acting beta2-agonists versus long-acting muscarinic antagonists in patients 
+with stable COPD: A systematic review and meta-analysis of randomized controlled 
+trials.
+
+Chen WC(1), Huang CH(2)(3), Sheu CC(4)(5)(6), Chong IW(4)(6)(7), Chu KA(8), Chen 
+YC(9), Tsai JR(4)(6)(10), Lee CH(11), Wei YF(12)(13).
+
+Author information:
+(1)Department of Pharmacy, E-Da Hospital, I-Shou University, Kaohsiung, Taiwan.
+(2)Department of Family Medicine, E-Da Hospital, I-Shou University, Kaohsiung, 
+Taiwan.
+(3)Center for Evidence-Based Medicine and Center for Meta-Analysis Research, 
+E-Da Hospital, I-Shou University, Kaohsiung, Taiwan.
+(4)Division of Pulmonary and Critical Care Medicine, Department of Internal 
+Medicine, Kaohsiung Medical University Hospital, Kaohsiung, Taiwan.
+(5)Department of Internal Medicine, College of Medicine, Kaohsiung Medical 
+University, Kaohsiung, Taiwan.
+(6)Research Center for Environmental Medicine, Kaohsiung Medical University, 
+Kaohsiung, Taiwan.
+(7)Department of Respiratory Therapy and Graduate Institute of Medicine, College 
+of Medicine, Kaohsiung Medical University, Kaohsiung, Taiwan.
+(8)Division of Chest Medicine, Department of Internal Medicine, 
+Kaohsiung-Veterans General Hospital, Kaohsiung, Taiwan.
+(9)Division of Pulmonary and Critical Care Medicine, Kaohsiung Chang Gung 
+Memorial Hospital and Chang Gung University College of Medicine, Kaohsiung, 
+Taiwan.
+(10)Department of Respiratory Therapy, College of Medicine, Kaohsiung Medical 
+University, Kaohsiung, Taiwan.
+(11)Division of Chest Medicine, Department of Internal Medicine, National Cheng 
+Kung University Hospital, Tainan, Taiwan.
+(12)Institute of Biotechnology and Chemical Engineering, I-Shou University, 
+Kaohsiung, Taiwan.
+(13)Division of Pulmonary Medicine, Department of Internal Medicine, E-Da 
+Hospital, I-Shou University, Kaohsiung, Taiwan.
+
+Comment in
+    Respirology. 2017 Oct;22(7):1239-1240.
+
+Several long-acting bronchodilators have been developed and are widely used as 
+first-line treatment in patients with stable chronic obstructive pulmonary 
+disease (COPD). However, the initial choice of therapy is still uncertain. The 
+aim of this study was to examine the clinical efficacy and safety of long-acting 
+muscarinic antagonist (LAMA) and long-acting beta2-agonist (LABA) in patients 
+with stable COPD. We searched several databases and manufacturers' websites to 
+identify relevant randomized clinical trials for meta-analysis. Outcomes of 
+interest were trough forced expiratory volume in 1 s (FEV1 ), acute 
+exacerbations, transitional dyspnoea index (TDI) score, St George's Respiratory 
+Questionnaire (SGRQ) score and adverse events. Sixteen trials with a total of 
+22 872 patients were included in this study. Compared with LABA, LAMA were 
+associated with a greater reduction in acute exacerbations (OR: 0.84, 95% CI: 
+0.74-0.94, P = 0.003) and fewer adverse events (OR: 0.92, 95% CI: 0.86-0.97, 
+P = 0.005). There were no significant differences in trough FEV1 , TDI and SGRQ 
+scores. In patients with stable COPD, LAMA were associated with a greater 
+reduction in acute exacerbations and fewer adverse effects compared with LABA.
+
+© 2017 Asian Pacific Society of Respirology.
+
+DOI: 10.1111/resp.13100
+PMID: 28654201 [Indexed for MEDLINE]
+
+
+12. Eur Respir Rev. 2016 Mar;25(139):54-64. doi: 10.1183/16000617.0052-2015.
+
+Long-acting muscarinic antagonists: a potential add-on therapy in the treatment 
+of asthma?
+
+Busse WW(1), Dahl R(2), Jenkins C(3), Cruz AA(4).
+
+Author information:
+(1)University of Wisconsin School of Medicine and Public Health, Madison, WI, 
+USA wwb@medicine.wisc.edu.
+(2)Allergy Centre, Odense University Hospital, Odense, Denmark.
+(3)The George Institute for Global Health, Sydney, Australia.
+(4)ProAR - Universidade Federal da Bahia, Bahia, Brazil.
+
+Asthma is a chronic inflammatory disorder of the airways that is a major global 
+burden on both individuals and healthcare systems. Despite guideline-directed 
+treatment, a significant proportion of patients with asthma do not achieve 
+control. This review focuses on the potential use of long-acting 
+anticholinergics as bronchodilators in the treatment of asthma, with results 
+published from clinical trials of glycopyrrolate, umeclidinium and tiotropium. 
+The tiotropium clinical trial programme is the most advanced, with data 
+available from a number of phase II and III studies of tiotropium as an add-on 
+to inhaled corticosteroid maintenance therapy, with or without a long-acting 
+β2-agonist, in patients across asthma severities. Recent studies using the 
+Respimat Soft Mist inhaler have identified 5 µg once daily as the preferred 
+dosing regimen, which has shown promising results in adults, adolescents and 
+children with asthma. Tiotropium Respimat has recently been incorporated into 
+the Global Initiative for Asthma 2015 treatment strategy as a recommended 
+alternative therapy at steps 4 and 5 in adult patients with a history of 
+exacerbations. The increasing availability of evidence from ongoing and future 
+clinical trials will be beneficial in determining where long-acting 
+anticholinergic agents fit in future treatment guidelines across a variety of 
+patient populations and disease severities.
+
+Copyright ©ERS 2016.
+
+DOI: 10.1183/16000617.0052-2015
+PMID: 26929422 [Indexed for MEDLINE]
+
+
+13. J Bras Pneumol. 2017 Jul-Aug;43(4):302-312. doi: 
+10.1590/S1806-37562016000000287.
+
+Long-acting muscarinic antagonists vs. long-acting β 2 agonists in COPD 
+exacerbations: a systematic review and meta-analysis.
+
+Maia IS(1), Pincelli MP(1), Leite VF(2), Amadera J(3), Buehler AM(4).
+
+Author information:
+(1). Departamento de Clínica Médica, Centro de Ciências da Saúde, Universidade 
+Federal de Santa Catarina, Florianópolis (SC) Brasil.
+(2). Instituto de Medicina Física e Reabilitação, Hospital das Clínicas, 
+Faculdade de Medicina, Universidade de São Paulo, São Paulo (SP) Brasil.
+(3). Hospital das Clínicas, Faculdade de Medicina, Universidade de São Paulo, 
+São Paulo (SP) Brasil.
+(4). Instituto de Educação em Saúde e Ciências, Hospital Alemão Oswaldo Cruz, 
+São Paulo (SP) Brasil.
+
+OBJECTIVE: To determine whether long-acting muscarinic antagonists (LAMAs) 
+provide superior therapeutic effects over long-acting β2 agonists (LABAs) for 
+preventing COPD exacerbations.
+METHODS: This was a systematic review and meta-analysis of randomized clinical 
+trials involving patients with stable, moderate to severe COPD according to the 
+Global Initiative for Chronic Obstructive Lung Disease criteria, treated with a 
+LAMA (i.e., tiotropium bromide, aclidinium, or glycopyrronium), followed for at 
+least 12 weeks and compared with controls using a LABA in isolation or in 
+combination with a corticosteroid.
+RESULTS: A total of 2,622 studies were analyzed for possible inclusion on the 
+basis of their title and abstract; 9 studies (17,120 participants) were included 
+in the analysis. In comparison with LABAs, LAMAs led to a greater decrease in 
+the exacerbation rate ratio (relative risk [RR] = 0.88; 95% CI: 0.84-0.93]; a 
+lower proportion of patients who experienced at least one exacerbation (RR = 
+0.90; 95% CI: 0.87-0.94; p < 0.00001); a lower risk of exacerbation-related 
+hospitalizations (RR = 0.78; 95% CI: 0.69-0.87; p < 0.0001); and a lower number 
+of serious adverse events (RR = 0.81; 95% CI: 0.67-0.96; p = 0.0002). The 
+overall quality of evidence was moderate for all outcomes.
+CONCLUSIONS: The major findings of this systematic review and meta-analysis were 
+that LAMAs significantly reduced the exacerbation rate (exacerbation 
+episodes/year), as well as the number of exacerbation episodes, of 
+hospitalizations, and of serious adverse events.
+
+OBJETIVO: Determinar se long-acting muscarinic antagonists (LAMAs, antagonistas 
+muscarínicos de longa duração) são superiores a long-acting β2 agonists (LABAs, 
+β2-agonistas de longa duração) na prevenção de exacerbações da DPOC.
+MÉTODOS: Revisão sistemática e meta-análise de ensaios clínicos controlados 
+aleatórios com pacientes com DPOC estável, de moderada a grave, conforme os 
+critérios da Global Initiative for Chronic Obstructive Lung Disease, tratados 
+com LAMA (brometo de tiotrópio, aclidínio ou glicopirrônio), acompanhados 
+durante pelo menos 12 semanas e comparados a controles que usaram LABA 
+isoladamente ou com um corticosteroide.
+RESULTADOS: Foram analisados 2.622 estudos para possível inclusão com base em 
+seu título e resumo; 9 estudos (17.120 participantes) foram incluídos na 
+análise. Em comparação com LABAs, LAMAs resultaram em maior diminuição da razão 
+da taxa de exacerbações [risco relativo (RR) = 0,88; IC95%: 0,84-0,93]; menor 
+proporção de pacientes que apresentaram pelo menos uma exacerbação (RR = 0,90; 
+IC95%: 0,87-0,94; p < 0,00001); menor risco de hospitalizações em virtude de 
+exacerbação da doença (RR = 0,78; IC95%: 0,69-0,87; p < 0,0001) e menor número 
+de eventos adversos sérios (RR = 0,81; IC95%: 0,67-0,96; p = 0,0002). A 
+qualidade geral das evidências foi moderada para todos os desfechos.
+CONCLUSÕES: O principal achado desta revisão sistemática e meta-análise foi que 
+LAMAs reduziram significativamente a taxa de exacerbações (episódios de 
+exacerbação/ano), os episódios de exacerbação, as hospitalizações e os eventos 
+adversos sérios.
+
+DOI: 10.1590/S1806-37562016000000287
+PMCID: PMC5687968
+PMID: 28767773 [Indexed for MEDLINE]
+
+
+14. BMJ Open. 2015 Oct 26;5(10):e009183. doi: 10.1136/bmjopen-2015-009183.
+
+Comparative safety and effectiveness of long-acting inhaled agents for treating 
+chronic obstructive pulmonary disease: a systematic review and network 
+meta-analysis.
+
+Tricco AC(1), Strifler L(2), Veroniki AA(2), Yazdi F(3), Khan PA(2), Scott A(2), 
+Ng C(2), Antony J(2), Mrklas K(4), D'Souza J(2), Cardoso R(2), Straus SE(5).
+
+Author information:
+(1)Knowledge Translation Program, Li Ka Shing Knowledge Institute, St. Michael's 
+Hospital, Toronto, Ontario, Canada Epidemiology Division, Dalla Lana School of 
+Public Health, University of Toronto, Toronto, Ontario, Canada.
+(2)Knowledge Translation Program, Li Ka Shing Knowledge Institute, St. Michael's 
+Hospital, Toronto, Ontario, Canada.
+(3)Ottawa Hospital Research Institute, Center for Practice Changing Research 
+Building, The Ottawa Hospital-General Campus, Ottawa, Ontario, Canada.
+(4)Knowledge Translation Program, Li Ka Shing Knowledge Institute, St. Michael's 
+Hospital, Toronto, Ontario, Canada Alberta Health Services, Edmonton, Alberta, 
+Canada.
+(5)Knowledge Translation Program, Li Ka Shing Knowledge Institute, St. Michael's 
+Hospital, Toronto, Ontario, Canada Department of Geriatric Medicine, University 
+of Toronto, 27 Kings College Circle, Toronto, Ontario, Canada.
+
+Erratum in
+    BMJ Open. 2019 May 1;9(4):e009183corr1.
+
+OBJECTIVE: To compare the safety and effectiveness of long-acting β-antagonists 
+(LABA), long-acting antimuscarinic agents (LAMA) and inhaled corticosteroids 
+(ICS) for managing chronic obstructive pulmonary disease (COPD).
+SETTING: Systematic review and network meta-analysis (NMA).
+PARTICIPANTS: 208 randomised clinical trials (RCTs) including 134,692 adults 
+with COPD.
+INTERVENTIONS: LABA, LAMA and/or ICS, alone or in combination, versus each other 
+or placebo.
+PRIMARY AND SECONDARY OUTCOMES: The proportion of patients with 
+moderate-to-severe exacerbations. The number of patients experiencing mortality, 
+pneumonia, serious arrhythmia and cardiovascular-related mortality (CVM) were 
+secondary outcomes.
+RESULTS: NMA was conducted including 20 RCTs for moderate-to-severe 
+exacerbations for 26,141 patients with an exacerbation in the past year. 32 
+treatments were effective versus placebo including: tiotropium, 
+budesonide/formoterol, salmeterol, indacaterol, fluticasone/salmeterol, 
+indacaterol/glycopyrronium, tiotropium/fluticasone/salmeterol and 
+tiotropium/budesonide/formoterol. Tiotropium/budesonide/formoterol was most 
+effective (99.2% probability of being the most effective according to the 
+Surface Under the Cumulative RAnking (SUCRA) curve). NMA was conducted on 
+mortality (88 RCTs, 97 526 patients); fluticasone/salmeterol was more effective 
+in reducing mortality than placebo, formoterol and fluticasone alone, and was 
+the most effective (SUCRA=71%). NMA was conducted on CVM (37 RCTs, 55,156 
+patients) and the following were safest: salmeterol versus each OF placebo, 
+tiotropium and tiotropium (Soft Mist Inhaler (SMR)); fluticasone versus 
+tiotropium (SMR); and salmeterol/fluticasone versus tiotropium and tiotropium 
+(SMR). Triamcinolone acetonide was the most harmful (SUCRA=81%). NMA was 
+conducted on pneumonia occurrence (54 RCTs, 61 551 patients). 24 treatments were 
+more harmful, including 2 that increased risk of pneumonia versus placebo; 
+fluticasone and fluticasone/salmeterol. The most harmful agent was 
+fluticasone/salmeterol (SUCRA=89%). NMA was conducted for arrhythmia; no 
+statistically significant differences between agents were identified.
+CONCLUSIONS: Many inhaled agents are available for COPD, some are safer and more 
+effective than others. Our results can be used by patients and physicians to 
+tailor administration of these agents.
+PROTOCOL REGISTRATION NUMBER: PROSPERO # CRD42013006725.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not 
+already granted under a licence) please go to 
+http://www.bmj.com/company/products-services/rights-and-licensing/
+
+DOI: 10.1136/bmjopen-2015-009183
+PMCID: PMC4636655
+PMID: 26503392 [Indexed for MEDLINE]
+
+
+15. Handb Exp Pharmacol. 2017;237:41-62. doi: 10.1007/164_2016_68.
+
+Muscarinic Receptor Antagonists.
+
+Matera MG(1), Cazzola M(2).
+
+Author information:
+(1)Department of Experimental Medicine, Unit of Pharmacology, Second University 
+of Naples, Naples, Italy.
+(2)Division of Respiratory Medicine, University Hospital Tor Vergata, Rome, 
+Italy. mario.cazzola@uniroma2.it.
+
+Parasympathetic activity is increased in patients with chronic obstructive 
+pulmonary disease (COPD) and asthma and appears to be the major reversible 
+component of airway obstruction. Therefore, treatment with muscarinic receptor 
+antagonists is an effective bronchodilator therapy in COPD and also in asthmatic 
+patients. In recent years, the accumulating evidence that the cholinergic system 
+controls not only contraction by airway smooth muscle but also the functions of 
+inflammatory cells and airway epithelial cells has suggested that muscarinic 
+receptor antagonists could exert other effects that may be of clinical relevance 
+when we must treat a patient suffering from COPD or asthma. There are currently 
+six muscarinic receptor antagonists licenced for use in the treatment of COPD, 
+the short-acting muscarinic receptor antagonists (SAMAs) ipratropium bromide and 
+oxitropium bromide and the long-acting muscarinic receptor antagonists (LAMAs) 
+aclidinium bromide, tiotropium bromide, glycopyrronium bromide and umeclidinium 
+bromide. Concerns have been raised about possible associations of muscarinic 
+receptor antagonists with cardiovascular safety, but the most advanced compounds 
+seem to have an improved safety profile. Further beneficial effects of SAMAs and 
+LAMAs are seen when added to existing treatments, including LABAs, inhaled 
+corticosteroids and phosphodiesterase 4 inhibitors. The importance of tiotropium 
+bromide in the maintenance treatment of COPD, and likely in asthma, has spurred 
+further research to identify new LAMAs. There are a number of molecules that are 
+being identified, but only few have reached the clinical development.
+
+DOI: 10.1007/164_2016_68
+PMID: 27787709 [Indexed for MEDLINE]
+
+
+16. COPD. 2016 Dec;13(6):677-685. doi: 10.3109/15412555.2016.1170799. Epub 2016 May 
+5.
+
+Long-acting Muscarinic Antagonist Versus Inhaled Corticosteroid when Added to 
+Long-acting β-agonist for COPD: A Meta-analysis.
+
+Oba Y(1), Chandran AV(1), Devasahayam JV(1).
+
+Author information:
+(1)a Division of Pulmonary, Critical Care, and Environmental Medicine, School of 
+Medicine, University of Missouri , Columbia , Missouri , USA.
+
+The purpose of this study was to systematically review the efficacy and safety 
+of long-acting β-agonist/long-acting muscarinic antagonist (LABA/LAMA) and 
+LABA/inhaled corticosteroid (ICS) combinations in patients with advanced chronic 
+obstructive pulmonary disease (COPD). Randomized clinical trials of at least 
+12 weeks of duration comparing LABA/LAMA and LABA/ICS combinations were 
+included. We chose forced expiratory volume in 1 second (FEV1), St. George's 
+Respiratory Questionnaire (SGRQ) score, Transitional Dyspnea Index (TDI), COPD 
+Assessment Test (CAT) score, COPD exacerbations, mortality, and other safety 
+parameters as outcome assessment criteria. We included six randomized controlled 
+trials with a total of 4,319 patients. Most patients did not have a history of 
+exacerbation. LABA/LAMA was associated with greater improvement in FEV1 than 
+LABA/ICS (mean difference (MD) 0.09L, 95%confidence interval (CI) 0.07 to 0.11L; 
+high certainty). Two treatments appeared clinically equivalent in improving SGRQ 
+(MD -0.12, 95%CI -1.16 to 0.92; high certainty), TDI (MD 0.15, 95%CI -0.05 to 
+0.35; high certainty), and CAT scores (MD 0.28 95%CI -0.29 to 0.85; moderate 
+certainty). LABA/LAMA was associated with an absolute reduction of approximately 
+8% in the incidence of pneumonia compared with LABA/ICS (risk ratio 0.41, 95%CI 
+0.18 to 0.94; moderate certainty). There was no significant difference in safety 
+and exacerbation outcomes. However, equivalence of two treatments could not be 
+concluded due to imprecision especially for mortality, cardiac serious adverse 
+events, and severe exacerbations. Our findings support the use of dual 
+long-acting bronchodilators for patients with advanced COPD but without frequent 
+exacerbations given the excess risk of pneumonia with LABA/ICS.
+
+DOI: 10.3109/15412555.2016.1170799
+PMID: 27148815 [Indexed for MEDLINE]
+
+
+17. Ther Adv Respir Dis. 2015 Jun;9(3):84-96. doi: 10.1177/1753465815576471. Epub 
+2015 Mar 22.
+
+Long-acting muscarinic antagonists for the prevention of exacerbations of 
+chronic obstructive pulmonary disease.
+
+Jones PW(1).
+
+Author information:
+(1)St George's, University of London, Cranmer Terrace, London SW17 0RE, UK 
+pjones@sgul.ac.uk.
+
+Exacerbations of chronic obstructive pulmonary disease (COPD) have important 
+consequences for lung function, health status and mortality. Furthermore, they 
+are associated with high economic costs, predominantly related to 
+hospitalization. They are managed acutely with short-acting bronchodilators, 
+systemic corticosteroids or antibiotics; however, a large proportion of COPD 
+exacerbations are unreported and therefore untreated or self-managed. There is 
+evidence to suggest that these unreported exacerbations also have important 
+consequences for health status; therefore, reducing exacerbation risk is an 
+important goal in the management of COPD. Current guidelines recommend 
+long-acting muscarinic antagonists (LAMAs) as first-line bronchodilator therapy 
+in patients with stable COPD who have a high risk of exacerbation or increased 
+symptoms. To date, three LAMAs, tiotropium bromide, aclidinium bromide and 
+glycopyrronium bromide, have been approved as maintenance bronchodilator 
+treatments for stable COPD. These all provide clinically significant 
+improvements in lung function, reduce symptoms and improve health status 
+compared with placebo in patients with COPD. This paper reviews evidence from 
+randomized, controlled clinical trials demonstrating that tiotropium, aclidinium 
+and glycopyrronium reduce exacerbation risk in patients with COPD. Reductions 
+were seen irrespective of the exacerbation measure used, whether time to first 
+event or annualized exacerbation rate. Furthermore, studies with aclidinium 
+suggest LAMAs can reduce exacerbation risk irrespective of whether exacerbation 
+events are assessed, using an event-based approach or a symptom-based method 
+which includes unreported events. Together these results demonstrate that LAMAs 
+have the potential to provide clinical benefit in the management of 
+exacerbations in patients with stable COPD.
+
+© The Author(s), 2015.
+
+DOI: 10.1177/1753465815576471
+PMID: 25801643 [Indexed for MEDLINE]
+
+
+18. Expert Opin Investig Drugs. 2017 Feb;26(2):161-174. doi: 
+10.1080/13543784.2017.1276167. Epub 2017 Jan 9.
+
+Long acting muscarinic antagonists for the treatment of chronic obstructive 
+pulmonary disease: a review of current and developing drugs.
+
+Mastrodicasa MA(1)(2), Droege CA(3), Mulhall AM(1)(2), Ernst NE(3), Panos 
+RJ(1)(2), Zafar MA(1).
+
+Author information:
+(1)a Division of Pulmonary and Critical Care Medicine , University of Cincinnati 
+Medical Center , Cincinnati , OH , USA.
+(2)c Department of Medicine , Cincinnati Veterans Affairs Medical Center , 
+Cincinnati , OH , USA.
+(3)b Department of Pharmacy Services , University of Cincinnati Medical Center , 
+Cincinnati , OH , USA.
+
+Long acting muscarinic receptor antagonists (LAMA) reverse airflow obstruction 
+by antagonizing para-sympathetic bronchoconstricting effects within the airways. 
+For years, tiotropium, has been the cornerstone LAMA for chronic obstructive 
+pulmonary disease (COPD) management. Recently, new agents, aclidinium bromide, 
+glycopyrronium bromide, and umeclidinium bromide, have been developed and 
+introduced into clinical practice. Areas covered: This article reviews the 
+clinical efficacy and adverse effects of currently available LAMAs in COPD 
+treatment as well as developing LAMAs in early clinical trials and preclinical 
+studies (V0162, TD-4208, CHF 5407, AZD9164, AZD8683, bencycloquidium). In 
+addition, a new class of molecule that combines muscarinic antagonist and 
+β2-adrenergic properties (MABA) is described and current developmental progress 
+discussed (GSK-961081, THRX-200495). Expert opinion: Future key areas for 
+developing drugs for the management of COPD include prolonged duration of 
+action, optimal delivery systems, synergistic combinations with other drugs, 
+maximization of benefits and minimization of adverse effects. The development of 
+new LAMA and MABA molecules provides exciting progress towards simpler and more 
+effective COPD management.
+
+DOI: 10.1080/13543784.2017.1276167
+PMID: 28004591 [Indexed for MEDLINE]
+
+
+19. JAMA. 2019 Feb 26;321(8):786-797. doi: 10.1001/jama.2019.0131.
+
+Diagnosis and Outpatient Management of Chronic Obstructive Pulmonary Disease: A 
+Review.
+
+Riley CM(1), Sciurba FC(1).
+
+Author information:
+(1)Division of Pulmonary, Department of Medicine, Allergy and Critical Care 
+Medicine, University of Pittsburgh, Pittsburgh, Pennsylvania.
+
+IMPORTANCE: There are 30 million adults (12%) in the United States who have 
+chronic obstructive pulmonary disease (COPD). Chronic obstructive pulmonary 
+disease accounts for 3.2% of all physician office visits annually and is the 
+fourth leading cause of death (126 000 deaths per year). Most patients are 
+diagnosed by their primary care clinicians who must address the highly variable 
+clinical features and responses to therapy. The diagnosis and treatment of COPD 
+is rapidly changing, so understanding recent advances is important for the 
+delivery of optimal patient care.
+OBSERVATIONS: Chronic obstructive pulmonary disease is characterized by 
+incompletely reversible expiratory airflow limitation. Spirometry is the 
+reference standard for diagnosing and assessing the severity of COPD. All 
+patients should be counseled about and receive preventive measures such as 
+smoking cessation and vaccination. Treatment should be guided by the severity of 
+lung impairment, symptoms such as dyspnea, the amount of cough and sputum 
+production, and how often a patient experiences an exacerbation. When dyspnea 
+limits activity or quality of life, COPD should be treated with once- or 
+twice-daily maintenance long-acting anticholinergic and β-agonist 
+bronchodilators. Patients with acute exacerbations may benefit from the addition 
+of inhaled corticosteroids, particularly those with elevated peripheral 
+eosinophil levels. Pulmonary rehabilitation, which includes strength and 
+endurance training and educational, nutritional, and psychosocial support, 
+improves symptoms and exercise tolerance but is underutilized. Supplemental 
+oxygen for patients with resting hypoxemia (defined as Spo2 <89%) improves 
+survival.
+CONCLUSIONS AND RELEVANCE: Chronic obstructive pulmonary disease is a 
+complicated disease requiring intensive treatment. Appropriate use of 
+long-acting maintenance bronchodilators, inhaled corticosteroids, and pulmonary 
+rehabilitation decreases symptoms, optimizes functional performance, and reduces 
+exacerbation frequency. Supplemental oxygen in patients with resting hypoxemia 
+prolongs life, and other advanced treatments are available based on specific 
+patient characteristics.
+
+DOI: 10.1001/jama.2019.0131
+PMID: 30806700 [Indexed for MEDLINE]
+
+
+20. JAMA. 2017 Oct 3;318(13):1274-1275. doi: 10.1001/jama.2017.11903.
+
+Long-Acting β-Agonists (LABA) Combined With Long-Acting Muscarinic Antagonists 
+or LABA Combined With Inhaled Corticosteroids for Patients With Stable COPD.
+
+Horita N(1), Nagashima A(1), Kaneko T(1).
+
+Author information:
+(1)Department of Pulmonology, Yokohama City University Graduate School of 
+Medicine, Yokohama, Japan.
+
+CLINICAL QUESTION: Are inhaled long-acting muscarinic antagonists (LAMA) 
+combined with long-acting β-agonists (LABA) associated with differences in the 
+incidence of chronic obstructive pulmonary disease (COPD) exacerbation and 
+serious adverse events and with differences in quality of life and forced 
+expiratory volume in the first second of expiration (FEV1) vs inhaled LABA plus 
+inhaled corticosteroids therapy for the treatment of stable COPD?
+BOTTOM LINE: Compared with inhaled LABA combined with corticosteroids, inhaled 
+LAMA combined with LABA may be associated with a lower risk of COPD exacerbation 
+and with greater improvement in FEV1 without differences in the incidence of 
+serious severe adverse events or quality of life.
+
+DOI: 10.1001/jama.2017.11903
+PMID: 28973232 [Indexed for MEDLINE]

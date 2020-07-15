@@ -1,0 +1,1039 @@
+1. Drug Saf. 2018 May;41(5):441-449. doi: 10.1007/s40264-017-0631-1.
+
+Long-Acting β2-Agonists in Asthma: Enantioselective Safety Studies are Needed.
+
+Jacobson GA(1), Raidal S(2), Hostrup M(3)(4), Calzetta L(5), Wood-Baker R(6), 
+Farber MO(7), Page CP(8), Walters EH(6).
+
+Author information:
+(1)School of Medicine, University of Tasmania, Private Bag 26, Hobart, TAS, 
+7001, Australia. glenn.jacobson@utas.edu.au.
+(2)School of Animal and Veterinary Sciences, Charles Sturt University, Wagga 
+Wagga, NSW, Australia.
+(3)Department of Respiratory Medicine, Bispebjerg University Hospital, 
+Copenhagen, Denmark.
+(4)Department of Nutrition, Exercise and Sports, University of Copenhagen, 
+Copenhagen, Denmark.
+(5)Department of Systems Medicine, University of Rome "Tor Vergata", Rome, 
+Italy.
+(6)School of Medicine, University of Tasmania, Private Bag 26, Hobart, TAS, 
+7001, Australia.
+(7)Indiana University School of Medicine, Indianapolis, IN, USA.
+(8)Sackler Institute of Pulmonary Pharmacology, Kings College London, London, 
+UK.
+
+Long-acting β2-agonists (LABAs) such as formoterol and salmeterol are used for 
+prolonged bronchodilatation in asthma, usually in combination with inhaled 
+corticosteroids (ICSs). Unexplained paradoxical asthma exacerbations and deaths 
+have been associated with LABAs, particularly when used without ICS. LABAs 
+clearly demonstrate effective bronchodilatation and steroid-sparing activity, 
+but long-term treatment can lead to tolerance of their bronchodilator effects. 
+There are also concerns with regard to the effects of LABAs on bronchial 
+hyperresponsiveness (BHR), where long-term use is associated with increased BHR 
+and loss of bronchoprotection. A complicating factor is that formoterol and 
+salmeterol are both chiral compounds, usually administered as 50:50 racemic 
+(rac-) mixtures of two enantiomers. The chiral nature of these compounds has 
+been largely forgotten in the debate regarding LABA safety and effects on BHR, 
+particularly that (S)-enantiomers of β2-agonists may be deleterious to asthma 
+control. LABAs display enantioselective pharmacokinetics and pharmacodynamics. 
+Biological plausibility of the deleterious effects of β2-agonists 
+(S)-enantiomers is provided by in vitro and in vivo studies from the 
+short-acting β2-agonist (SABA) salbutamol. Supportive clinical findings include 
+the fact that patients in emergency departments who demonstrate a blunted 
+response to salbutamol are more likely to benefit from (R)-salbutamol than 
+rac-salbutamol, and resistance to salbutamol appears to be a contributory 
+mechanism in rapid asthma deaths. More effort should therefore be applied to 
+investigating potential enantiospecific effects of LABAs on safety, specifically 
+bronchoprotection. Safety studies directly assessing the effects of LABA 
+(S)-enantiomers on BHR are long overdue.
+
+DOI: 10.1007/s40264-017-0631-1
+PMID: 29332144 [Indexed for MEDLINE]
+
+
+2. J Allergy Clin Immunol Pract. 2018 Mar-Apr;6(2):633-643.e1. doi: 
+10.1016/j.jaip.2017.07.030. Epub 2017 Sep 30.
+
+Step-Down Therapy for Asthma Well Controlled on Inhaled Corticosteroid and 
+Long-Acting Beta-Agonist: A Randomized Clinical Trial.
+
+Rogers L(1), Sugar EA(2), Blake K(3), Castro M(4), Dimango E(5), Hanania NA(6), 
+Happel KI(7), Peters SP(8), Reibman J(9), Saams J(2), Teague WG(10), Wise 
+RA(11), Holbrook JT(2); American Lung Association Airways Clinical Research 
+Centers.
+
+Author information:
+(1)Icahn School of Medicine at Mt Sinai, New York, NY.
+(2)Johns Hopkins Bloomberg School of Public Health, Baltimore, Md.
+(3)Nemours Children's Health System, Jacksonville, Fla.
+(4)Washington University School of Medicine, St Louis, Mo.
+(5)Columbia University College of Physicians and Surgeons, New York, NY.
+(6)Baylor College of Medicine, Houston, Texas.
+(7)Louisiana State University School of Medicine, New Orleans, La.
+(8)Wake Forest University School of Medicine, Winston-Salem, NC.
+(9)New York University School of Medicine, New York, NY.
+(10)University of Virginia School of Medicine, Charlottesville, Va.
+(11)Johns Hopkins University School of Medicine, Baltimore, Md. Electronic 
+address: rwise@jhmi.edu.
+
+Comment in
+    J Allergy Clin Immunol Pract. 2018 Mar - Apr;6(2):644-645.
+
+BACKGROUND: Stepping down therapy when asthma is well controlled on combination 
+inhaled corticosteroids (ICSs) and long acting beta agonists (LABAs) is 
+recommended, but it is not known whether lowering the ICS dose or stopping LABA 
+is superior.
+OBJECTIVE: To evaluate whether step-down therapy with LABA is superior to one 
+without; and, secondarily, to evaluate whether reducing the ICS dose while 
+maintaining LABA is noninferior to remaining on stable-ICS/LABA.
+METHODS: The study was a randomized, double-masked 3-arm parallel group trial in 
+participants aged 12 years or older. Following an 8-week run-in, 459 
+participants were randomly assigned to continue medium-dose ICS/LABA, 
+reduced-dose ICS/LABA, or ICS alone (LABA-step-off) and followed for 48 weeks. 
+The primary outcome was time to treatment failure, a composite of health care 
+utilization, systemic corticosteroid use, increase in rescue therapy, decline in 
+lung function, or participant or physician decision.
+RESULTS: Time to treatment failure did not differ significantly between reduced- 
+ICS/LABA and LABA-step-off (hazard ratio, 1.07; 95.3% CI, 0.69-1.65, P = .76). 
+Nor was there a difference between stable-ICS/LABA and reduced-ICS/LABA (hazard 
+ratio, 1.11; 95% CI, 0.70-1.76; P = .67), but the 10% noninferiority margin was 
+exceeded. Lung function declines and hospitalization rates were significantly 
+greater in the LABA-step-off group.
+CONCLUSIONS: The 2 step-down regimens did not differ in terms of treatment 
+failure, although stopping LABA was associated with a decline in lung function 
+and more hospitalizations. There was no evidence to support the noninferiority 
+of reduced-ICS/LABA as compared with stable-ICS/LABA.
+
+Copyright © 2017 American Academy of Allergy, Asthma & Immunology. Published by 
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jaip.2017.07.030
+PMID: 28974349 [Indexed for MEDLINE]
+
+
+3. Handb Exp Pharmacol. 2017;237:23-40. doi: 10.1007/164_2016_64.
+
+β(2) Agonists.
+
+Billington CK(1), Penn RB(2), Hall IP(3).
+
+Author information:
+(1)Division of Respiratory Medicine, University of Nottingham, Nottingham, NG7 
+2RD, UK.
+(2)Department of Medicine, Division of Pulmonary and Critical Care Medicine, 
+Center for Translational Medicine, Jane and Leonard Korman Lung Center, Thomas 
+Jefferson University, Philadelphia, PA, USA.
+(3)Division of Respiratory Medicine, University of Nottingham, Nottingham, NG7 
+2RD, UK. Ian.hall@nottingham.ac.uk.
+
+History suggests β agonists, the cognate ligand of the β2 adrenoceptor, have 
+been used as bronchodilators for around 5,000 years, and β agonists remain today 
+the frontline treatment for asthma and chronic obstructive pulmonary disease 
+(COPD). The β agonists used clinically today are the products of significant 
+expenditure and over 100 year's intensive research aimed at minimizing side 
+effects and enhancing therapeutic usefulness. The respiratory physician now has 
+a therapeutic toolbox of long acting β agonists to prophylactically manage 
+bronchoconstriction, and short acting β agonists to relieve acute exacerbations. 
+Despite constituting the cornerstone of asthma and COPD therapy, these drugs are 
+not perfect; significant safety issues have led to a black box warning advising 
+that long acting β agonists should not be used alone in patients with asthma. In 
+addition there are a significant proportion of patients whose asthma remains 
+uncontrolled. In this chapter we discuss the evolution of β agonist use and how 
+the understanding of β agonist actions on their principal target tissue, airway 
+smooth muscle, has led to greater understanding of how these drugs can be 
+further modified and improved in the future. Research into the genetics of the 
+β2 adrenoceptor will also be discussed, as will the implications of individual 
+DNA profiles on the clinical outcomes of β agonist use (pharmacogenetics). 
+Finally we comment on what the future may hold for the use of β agonists in 
+respiratory disease.
+
+DOI: 10.1007/164_2016_64
+PMCID: PMC5480238
+PMID: 27878470 [Indexed for MEDLINE]
+
+
+4. Respirology. 2015 Nov;20(8):1153-9. doi: 10.1111/resp.12603. Epub 2015 Aug 3.
+
+Long-acting muscarinic antagonist + long-acting beta agonist versus long-acting 
+beta agonist + inhaled corticosteroid for COPD: A systematic review and 
+meta-analysis.
+
+Horita N(1)(2), Miyazawa N(1), Tomaru K(1), Inoue M(1), Kaneko T(2).
+
+Author information:
+(1)Department of Respiratory Medicine, Saiseikai Yokohamashi Nanbu Hospital, 
+Yokohama, Japan.
+(2)Department of Pulmonology, Yokohama City University Graduate School of 
+Medicine, Yokohama, Japan.
+
+Some trials have been conducted to compare long-acting muscarinic antagonist 
+(LAMA) + long-acting beta agonist (LABA) versus LABA + inhaled corticosteroids 
+(ICS) for chronic obstructive pulmonary disease (COPD), but no meta-analysis 
+were reported. Two investigators independently searched for eligible articles 
+using the PubMed, Web of Science and Cochrane databases. Articles in authors' 
+reference files were also regarded as candidates. The eligibility criteria for 
+the current meta-analysis were original trials written in English comparing the 
+impact of LAMA + LABA and LABA + ICS for COPD patients. A pooled value for the 
+continuous value was calculated using the genetic inverse variance method for 
+mean difference. Incidence of events was evaluated using the odds ratio (OR). 
+Minimal clinically important difference were 50 mL for forced expiratory volume 
+in 1 s (FEV1 ), four points for St George Respiratory Questionnaire (SGRQ) and 
+one point for transition dyspnoea index (TDI). We included seven randomized 
+controlled trials and one cross-over trial with follow-up period of 6-26 weeks. 
+Compared with LABA + ICS, LAMA + LABA led to significantly greater improvements 
+of trough FEV1 by 71 (95% CI: 48-95) mL, TDI by 0.38 points (95% CI: 0.17-0.58), 
+less exacerbations with an OR of 0.77 (95% CI: 0.62-0.96) and less pneumonia 
+with an OR of 0.28 (95% CI: 0.12-0.68). Frequencies of any adverse event, 
+serious adverse event, adverse event leading to discontinuation, all-cause death 
+and change of total score of SGRQ were not different in both arms. LAMA + LABA 
+might be a better option for treating COPD than LABA + ICS.
+
+© 2015 Asian Pacific Society of Respirology.
+
+DOI: 10.1111/resp.12603
+PMID: 26235837 [Indexed for MEDLINE]
+
+
+5. Cochrane Database Syst Rev. 2012 Apr 18;4(4):CD008989. doi: 
+10.1002/14651858.CD008989.pub2.
+
+Long-acting beta(2)-agonist in addition to tiotropium versus either tiotropium 
+or long-acting beta(2)-agonist alone for chronic obstructive pulmonary disease.
+
+Karner C(1), Cates CJ.
+
+Author information:
+(1)Population Health Sciences and Education, St George’s, University of London, 
+London, UK. ckarner@sgul.ac.uk.
+
+Update in
+    Cochrane Database Syst Rev. 2015;(10):CD008989.
+
+BACKGROUND: Long-acting bronchodilators comprising long-acting beta(2)-agonists 
+and the anticholinergic agent tiotropium are commonly used for managing 
+persistent symptoms of chronic obstructive pulmonary disease. Combining these 
+treatments, which have different mechanisms of action, may be more effective 
+than the individual components. However, the benefits and risks of combining 
+tiotropium and long-acting beta(2)-agonists for the treatment of chronic 
+obstructive pulmonary (COPD) disease are unclear.
+OBJECTIVES: To assess the relative effects of treatment with tiotropium in 
+addition to long-acting beta(2)-agonist compared to tiotropium or long-acting 
+beta(2)-agonist alone in patients with chronic obstructive pulmonary disease.
+SEARCH METHODS: We searched the Cochrane Airways Group Specialised Register of 
+trials and clinicaltrials.gov up to January 2012.
+SELECTION CRITERIA: We included parallel group, randomised controlled trials of 
+three months or longer comparing treatment with tiotropium in addition to 
+long-acting beta(2)-agonist against tiotropium or long-acting beta(2)-agonist 
+alone for patients with chronic obstructive pulmonary disease.
+DATA COLLECTION AND ANALYSIS: Two review authors independently assessed trials 
+for inclusion and then extracted data on trial quality and the outcome results. 
+We contacted study authors for additional information. We collected information 
+on adverse effects from the trials.
+MAIN RESULTS: Five trials were included in this review, mostly recruiting 
+participants with moderate or severe chronic obstructive pulmonary disease. All 
+of them compared tiotropium in addition to long-acting beta(2)-agonist to 
+tiotropium alone, but only one trial additionally compared a combination of the 
+two types of bronchodilator with long-acting beta(2)-agonist (formoterol) alone. 
+Two studies used the long-acting beta(2)-agonist indacaterol, two used 
+formoterol and one used salmeterol.Compared to tiotropium alone (3263 patients), 
+treatment with tiotropium plus long-acting beta(2)-agonist resulted in a 
+slightly larger improvement in the mean health-related quality of life (St 
+George's Respiratory Questionnaire (SGRQ) MD -1.61; 95% CI -2.93 to -0.29). In 
+the control arm, tiotropium alone, the SGRQ improved by falling 4.5 units from 
+baseline and with both treatments the improvement was a fall of 6.1 units from 
+baseline (on average). High withdrawal rates in the trials increased the 
+uncertainty in this result, and the GRADE assessment for this outcome was 
+therefore moderate. There were no significant differences in the other primary 
+outcomes (hospital admission or mortality).The secondary outcome of 
+pre-bronchodilator FEV(1) showed a small mean increase with the addition of 
+long-acting beta(2)-agonist (MD 0.07 L; 95% CI 0.05 to 0.09) over the control 
+arm, which showed a change from baseline ranging from 0.03 L to 0.13 L on 
+tiotropium alone. None of the other secondary outcomes (exacerbations, symptom 
+scores, serious adverse events, and withdrawals) showed any statistically 
+significant differences between the groups. There were wide confidence intervals 
+around these outcomes and moderate heterogeneity for both exacerbations and 
+withdrawals.The results from the one trial comparing the combination of 
+tiotropium and long-acting beta(2)-agonist to long-acting beta(2)-agonist alone 
+(417 participants) were insufficient to draw firm conclusions for this 
+comparison.
+AUTHORS' CONCLUSIONS: The results from this review indicate a small mean 
+improvement in health-related quality of life for patients on a combination of 
+tiotropium and long-acting beta(2)-agonist compared to tiotropium alone, but it 
+is not clear how clinically important this mean difference may be. Hospital 
+admission and mortality have not been shown to be altered by adding long-acting 
+beta(2)-agonists to tiotropium. There were not enough data to determine the 
+relative efficacy and safety of tiotropium plus long-acting beta(2)-agonist 
+compared to long-acting beta(2)-agonist alone. There were insufficient data to 
+make comparisons between the different long-acting beta(2)-agonists when used in 
+addition to tiotropium.
+
+DOI: 10.1002/14651858.CD008989.pub2
+PMCID: PMC4164463
+PMID: 22513969 [Indexed for MEDLINE]
+
+
+6. Cochrane Database Syst Rev. 2007 Oct 17;(4):CD006829. doi: 
+10.1002/14651858.CD006829.
+
+Combined corticosteroid and long-acting beta-agonist in one inhaler versus 
+long acting beta agonists for chronic obstructive pulmonary disease.
+
+Nannini LJ(1), Cates CJ, Lasserson TJ, Poole P.
+
+Author information:
+(1)Hospital G. Baigorria, Pulmonary Section, Ruta 11 Y Jm Estrada, G. Baigorria, 
+Santa Fe - Rosario, Argentina, 2152. nanninilj@cimero.org.ar
+
+Update in
+    Cochrane Database Syst Rev. 2012;9:CD006829.
+
+Comment in
+    ACP J Club. 2008 Mar-Apr;148(2):48-9.
+    Evid Based Med. 2008 Apr;13(2):56-7.
+
+BACKGROUND: The co-administration of inhaled corticosteroids and long-acting 
+beta-agonists in a combined inhaler is intended to facilitate adherence to 
+medication regimens, and to improve efficacy in COPD. In this review they are 
+compared with mono component long acting beta agonists.
+OBJECTIVES: To assess the efficacy of combined inhaled corticosteroids and 
+long acting beta agonists preparations with mono component long-acting 
+beta-agonists in adults with chronic obstructive pulmonary disease.
+SEARCH STRATEGY: We searched the Cochrane Airways Group Specialised Register of 
+trials. The date of the most recent search is April 2007.
+SELECTION CRITERIA: Studies were included if they were randomised and 
+double-blind. Studies could compare a combined inhaled corticosteroids and 
+long-acting beta-agonist preparation with component long-acting beta-agonist 
+preparation.
+DATA COLLECTION AND ANALYSIS: Two reviewers independently assessed trial quality 
+and extracted data. The primary outcomes were exacerbations, mortality and 
+pneumonia, with health-related quality of life (measured by validated scales), 
+lung function and side-effects as secondary outcomes. Dichotomous data were 
+analysed as fixed effect odds ratios (OR), and continuous data as mean 
+differences and 95% confidence intervals (CI). Sensitivity analysis was 
+performed by combining data with a random effects model.
+MAIN RESULTS: Ten studies of good methodological quality met the inclusion 
+criteria, randomising 7598 participants with severe chronic obstructive 
+pulmonary disease. Eight studies assessed fluticasone/salmeterol, and two 
+studies budesonide/formoterol. The exacerbation rates with combined inhalers 
+were reduced in comparison to long acting beta agonists alone (Rate Ratio 0.82, 
+95% CI 0.78 to 0.88). There was no significant difference in mortality between 
+combined inhalers and long acting beta agonists alone. Pneumonia occurred more 
+commonly with combined inhalers (OR 1.62; 95% CI 1.35 to 1.94). There was no 
+significant difference in terms of hospitalisations, although the two studies 
+contributing data to this outcome may have been drawn from differing 
+populations. Combination was more effective than LABA in improving quality of 
+life measured by the St George Respiratory Questionnaire, and the Chronic 
+Respiratory Questionnaire, and predose and post dose FEV1.
+AUTHORS' CONCLUSIONS: Combination therapy was more effective than long-acting 
+beta-agonists in reducing exacerbation rates, although the evidence for the 
+effects on hospitalisations was mixed, and requires further exploration. No 
+significant impact on mortality was found even with additional information from 
+the TORCH trial. The superiority of combination inhalers should be viewed 
+against the increased risk of side-effects, particularly pneumonia. Additional 
+studies on BDF are required and more information would be useful of the relative 
+benefits and adverse event rates with different doses of inhaled 
+corticosteroids.
+
+DOI: 10.1002/14651858.CD006829
+PMID: 17943918 [Indexed for MEDLINE]
+
+
+7. Ann Pharmacother. 2017 Aug;51(8):696-705. doi: 10.1177/1060028017705149. Epub 
+2017 Apr 14.
+
+Role of Long-Acting Muscarinic Antagonist/Long-Acting β(2)-Agonist Therapy in 
+Chronic Obstructive Pulmonary Disease.
+
+Petite SE(1).
+
+Author information:
+(1)1 University of Toledo College of Pharmacy and Pharmaceutical Sciences, 
+Toledo, OH, USA.
+
+OBJECTIVE: To compare the available literature regarding the use of long-acting 
+muscarinic antagonist (LAMA)/long-acting β2 agonists (LABA) and inhaled 
+corticosteroid (ICS)/LABA combination inhaler therapy in chronic obstructive 
+pulmonary disease (COPD) maintenance therapy management.
+DATA SOURCES: A MEDLINE literature search from database inception to February 
+2017 was conducted using the search terms chronic obstructive pulmonary disease, 
+adrenergic beta-agonist, muscarinic antagonist, and inhaled corticosteroid. 
+References from extracted sources were further searched for any relevant, missed 
+data sources.
+STUDY SELECTION AND DATA EXTRACTION: All English-language randomized-controlled 
+trials comparing LAMA/LABA and ICS/LABA combination inhaler therapy were 
+evaluated.
+DATA SYNTHESIS: A total of 10 randomized controlled trials have reviewed the use 
+of LAMA/LABA compared with ICS/LABA therapy for COPD maintenance therapy. 
+Results of clinical trials that evaluated LAMA/LABA and ICS/LABA maintenance 
+therapy demonstrated superior improvements in pulmonary function tests via 
+spirometry and improved clinical outcomes with LAMA/LABA therapy, specifically 
+reduction in COPD exacerbation rates. The safety of LAMA/LABA combination 
+therapy also is favorable compared with ICS/LABA combination therapy because of 
+the increased infection risk with ICS therapy.
+CONCLUSIONS: COPD is a disease state with significant morbidity and mortality in 
+the United States and is the third leading cause of death. Long-acting inhalers 
+are recommended for the majority of COPD severities, and combination therapy is 
+typically utilized. LAMA/LABA combination therapy has demonstrated superior 
+improvements in pulmonary function and reduction in COPD exacerbation rates 
+compared with ICS/LABA. LAMA/LABA combination therapy will have a larger future 
+role in COPD maintenance management.
+
+DOI: 10.1177/1060028017705149
+PMID: 28410560 [Indexed for MEDLINE]
+
+
+8. Expert Opin Emerg Drugs. 2017 Sep;22(3):285-299. doi: 
+10.1080/14728214.2017.1367382. Epub 2017 Sep 3.
+
+Emerging inhaled long-acting beta-2 adrenoceptor agonists for the treatment of 
+COPD.
+
+Monaco TJ(1), Hanania NA(1).
+
+Author information:
+(1)a Baylor College of Medicine , Section of Pulmonary and Critical Care 
+Medicine , Houston , TX , USA.
+
+Chronic obstructive pulmonary disease (COPD), characterized by persistent and 
+partially reversible airflow obstruction, is a leading cause of morbidity and 
+mortality worldwide. Long-acting inhaled bronchodilators form the backbone for 
+the maintenance therapy for this disease. The ultra-long-acting β2-agonists 
+(ultra-LABAs) represent novel pharmacologic agents with interesting potential 
+benefits as stand-alone therapy or in combination with other therapies for the 
+treatment of COPD. Areas covered: In this review, we will focus newly developed 
+ultra-LABAs, describing currently available evidence of their clinical effect 
+and safety, their comparison relative to older long-acting β2-agonists, and 
+their potential niche in the maintenance treatment of COPD. We also provide an 
+overview of the current landscape of available LABAs, and discuss the present 
+understanding of the disease, and suggest possible future directions for COPD 
+therapy. Expert opinion: Ultra-LABAs are pivotal bronchodilators in the 
+maintenance therapy of COPD as monotherapy or in combination with other agents. 
+Their long-acting effect permits once daily dosing and their improved delivery 
+using novel devices and their safety profile represent an important advancement 
+in management of this disease.
+
+DOI: 10.1080/14728214.2017.1367382
+PMID: 28868931 [Indexed for MEDLINE]
+
+
+9. Expert Rev Respir Med. 2018 Mar;12(3):191-202. doi: 
+10.1080/17476348.2018.1429921. Epub 2018 Feb 5.
+
+Symbicort® Maintenance and Reliever Therapy (SMART) and the evolution of asthma 
+management within the GINA guidelines.
+
+Lin J(1), Zhou X(2), Wang C(3), Liu C(4), Cai S(5), Huang M(6).
+
+Author information:
+(1)a Department of Pulmonary and Critical Care Medicine , China-Japan Friendship 
+Hospital , Beijing , China.
+(2)b Department of Respiratory Medicine , Shanghai General Hospital , Shanghai , 
+China.
+(3)c Department of Respiratory Medicine , Xinqiao Hospital, Third Military 
+Medical University , Chongqing , China.
+(4)d Department of Respiratory Medicine , West China Hospital, West China School 
+of Medicine , Chengdu , China.
+(5)e Department of Respiratory Medicine , Nanfang Hospital, Southern Medical 
+University , Guangzhou , China.
+(6)f Department of Respiratory Medicine , Jiangsu Province Hospital , Nanjing , 
+China.
+
+The Global Initiative for Asthma (GINA) annual report summarizes the latest 
+evidence for asthma management. GINA recommends stepwise pharmacological 
+treatment, advocating inhaled corticosteroids (ICS) plus rapid, long-acting 
+β2-agonists (LABA) delivered in a single inhaler for maintenance and relief at 
+Steps 3 (moderate persistent asthma requiring 1-2 controllers plus as-needed 
+reliever), 4 (severe persistent asthma requiring ≥2 controllers plus as-needed 
+reliever), and 5 (higher level care and/or add-on treatment). Areas covered: 
+Randomized controlled trials and real-world evidence demonstrate that flexibly 
+dosed budesonide/formoterol for maintenance and relief (Symbicort® Maintenance 
+And Reliever Therapy [SMART]) is associated with reductions in severe 
+exacerbations, prolongs time to first exacerbation, and provides fast symptom 
+relief. Expert commentary: SMART provides greater or equal levels of sustained 
+asthma control than similar or higher fixed doses of ICS/LABA plus short-acting 
+β2-agonist (SABA) as needed or higher ICS plus SABA as needed, with lower 
+overall ICS doses and cost. The simplified dosing strategy may improve adherence 
+and overall asthma control but relies on patient education. 
+Budesonide/formoterol as needed in mild asthma (patients qualifying for regular 
+low-dose ICS) is currently under investigation in two double-blind randomized 
+studies, SYGMA1/2 (NCT02149199/NCT02224157), comparing budesonide/formoterol as 
+needed with budesonide plus SABA and SABA alone.
+
+DOI: 10.1080/17476348.2018.1429921
+PMID: 29400090 [Indexed for MEDLINE]
+
+
+10. Pharmacotherapy. 2017 Apr;37(4):447-455. doi: 10.1002/phar.1913.
+
+Comparative Effectiveness of Long-Acting Beta(2) -Agonist Combined with a 
+Long-Acting Muscarinic Antagonist or Inhaled Corticosteroid in Chronic 
+Obstructive Pulmonary Disease.
+
+Samp JC(1), Joo MJ(1)(2)(3), Schumock GT(1)(2), Calip GS(1)(2), Pickard 
+AS(1)(2), Lee TA(1)(2).
+
+Author information:
+(1)Department of Pharmacy Systems, Outcomes and Policy, University of Illinois 
+at Chicago, Chicago, Illinois.
+(2)Center for Pharmacoepidemiology and Pharmacoeconomic Research, University of 
+Illinois at Chicago, Chicago, Illinois.
+(3)Division of Pulmonary, Critical Care, Sleep and Allergy Medicine, Department 
+of Medicine, University of Illinois at Chicago, Chicago, Illinois.
+
+INTRODUCTION: Several dual bronchodilator fixed-dose inhaler medications were 
+recently approved for the treatment of chronic obstructive pulmonary disease 
+(COPD). These products combine a long-acting β2 -agonist (LABA) and long-acting 
+muscarinic antagonist (LAMA). In clinical trials, the separate mechanisms of the 
+bronchodilators resulted in improved lung function. COPD treatment guidelines 
+currently recommend combination LABA/LAMA as alternative therapy to combination 
+LABA/inhaled corticosteroid (ICS). Evidence is limited on the comparative 
+effectiveness of LABA/LAMA and LABA/ICS in COPD. The objective of this study was 
+to compare real-world COPD exacerbation rates among patients treated with 
+LABA/LAMA with those treated with LABA/ICS.
+METHODS: This was a retrospective observational study of COPD patients in the 
+United States treated with LABA/LAMA or LABA/ICS combination. Insurance claims 
+from January 1, 2004, through December 31, 2014, were used as the data source. 
+Patients were required to have greater than one prescription filled for the 
+combination medications, and they were followed from 30 days after drug 
+initiation. Individuals were censored if they discontinued a study medication, 
+initiated medication from the opposite cohort (LAMA or ICS), lost enrollment 
+eligibility, or at the study period end. Exacerbation rates were compared using 
+Poisson regression.
+RESULTS: There were 5384 patients in the LABA/LAMA cohort and 473,388 patients 
+in the LABA/ICS cohort. The LABA/LAMA cohort was older, had more comorbidities, 
+and more severe COPD. Unadjusted annual exacerbation rates were 2.87 events per 
+person-year (standard deviation [SD] 5.14) in the LABA/LAMA cohort and 1.68 (SD 
+9.82) in the LABA/ICS cohort. The adjusted incidence rate ratio was 0.98 (95% 
+confidence interval 0.95-1.01) for LABA/LAMA compared with LABA/ICS.
+CONCLUSIONS: The LABA/LAMA combination had similar effectiveness to LABA/ICS as 
+measured by exacerbation rates in COPD patients. As a result, characteristics 
+other than effectiveness, such as symptom control, cost, patient preferences, 
+and adverse events, may be important in selecting between the two regimens.
+
+© 2017 Pharmacotherapy Publications, Inc.
+
+DOI: 10.1002/phar.1913
+PMID: 28226405 [Indexed for MEDLINE]
+
+
+11. Am J Respir Crit Care Med. 2017 May 1;195(9):1189-1197. doi: 
+10.1164/rccm.201701-0193OC.
+
+Blood Eosinophils and Response to Maintenance Chronic Obstructive Pulmonary 
+Disease Treatment. Data from the FLAME Trial.
+
+Roche N(1), Chapman KR(2), Vogelmeier CF(3), Herth FJF(4), Thach C(5), Fogel 
+R(5), Olsson P(6), Patalano F(7), Banerji D(5), Wedzicha JA(8).
+
+Author information:
+(1)1 Service de Pneumologie AP-HP, University Paris Descartes (EA2511), Paris, 
+France.
+(2)2 Asthma and Airway Centre, University Health Network and University of 
+Toronto, Toronto, Ontario, Canada.
+(3)3 Department of Medicine, Pulmonary and Critical Care Medicine, University 
+Medical Center Giessen and Marburg, Philipps-Universität Marburg, Marburg, 
+Germany.
+(4)4 Department of Pneumology and Critical Care Medicine, Thoraxklinik, 
+University of Heidelberg and Translational Lung Research Center Heidelberg, 
+German Center for Lung Research, Heidelberg, Germany.
+(5)5 Novartis Pharmaceuticals Corporation, East Hanover, New Jersey.
+(6)6 Novartis Sverige AB, Täby, Sweden.
+(7)7 Novartis Pharma AG, Basel, Switzerland; and.
+(8)8 National Heart and Lung Institute, Imperial College London, London, United 
+Kingdom.
+
+Comment in
+    Am J Respir Crit Care Med. 2017 May 1;195(9):1125-1127.
+    Am J Respir Crit Care Med. 2017 Nov 1;196 (9):1229-1230.
+    Am J Respir Crit Care Med. 2017 Nov 1;196 (9):1230-1231.
+    Am J Respir Crit Care Med. 2018 Apr 1;197(7):967-968.
+    Am J Respir Crit Care Med. 2018 Apr 1;197(7):968-969.
+
+RATIONALE: Post hoc analyses suggest that blood eosinophils have potential as a 
+predictive biomarker of inhaled corticosteroid efficacy in the management of 
+chronic obstructive pulmonary disease (COPD).
+OBJECTIVES: We prospectively investigated the value of blood eosinophils as a 
+predictor of responsiveness to an inhaled corticosteroid/long-acting β2-agonist 
+combination versus a long-acting β2-agonist/long-acting muscarinic antagonist 
+combination for exacerbation prevention.
+METHODS: We conducted prespecified analyses of data from the FLAME (Effect of 
+Indacaterol Glycopyronium vs Fluticasone Salmeterol on COPD Exacerbations) 
+study, which compared once-daily long-acting β2-agonist/long-acting muscarinic 
+antagonist indacaterol/glycopyrronium 110/50 μg with twice-daily long-acting 
+β2-agonist/inhaled corticosteroid salmeterol/fluticasone combination 50/500 μg 
+in patients with one or more exacerbations in the preceding year. Subsequent 
+post hoc analyses were conducted to address further cutoffs and endpoints.
+MEASUREMENTS AND MAIN RESULTS: We compared treatment efficacy according to blood 
+eosinophil percentage (<2% and ≥2%, <3% and ≥3%, and <5% and ≥5%) and absolute 
+blood eosinophil count (<150 cells/μl, 150 to <300 cells/μl, and ≥300 cells/μl). 
+Indacaterol/glycopyrronium was significantly superior to salmeterol/fluticasone 
+for the prevention of exacerbations (all severities, or moderate or severe) in 
+the <2%, ≥2%, <3%, <5%, and <150 cells/μl subgroups, and at no cutoff was 
+salmeterol/fluticasone superior to indacaterol/glycopyrronium. Furthermore, the 
+rate of moderate or severe exacerbations did not increase with increasing blood 
+eosinophils. The incidence of pneumonia was higher in patients receiving 
+salmeterol/fluticasone than indacaterol/glycopyrronium in both the <2% and ≥2% 
+subgroups.
+CONCLUSIONS: Our prospective analyses indicate that indacaterol/glycopyrronium 
+provides superior or similar benefits over salmeterol/fluticasone regardless of 
+blood eosinophil levels in patients with COPD. Clinical trial registered with 
+www.clinicaltrials.gov (NCT01782326).
+
+DOI: 10.1164/rccm.201701-0193OC
+PMID: 28278391 [Indexed for MEDLINE]
+
+
+12. Prescrire Int. 2011 Sep;20(119):201-5.
+
+Indacaterol. A long-acting beta-2 agonist, no advantages in COPD.
+
+[No authors listed]
+
+In patients with chronic obstructive pulmonary disease (COPD), bronchodilator 
+drugs have only modest symptomatic efficacy. There is no evidence that they slow 
+disease progression. A short-acting beta-2 agonist such as salbutamol is the 
+first-choice treatment, used either on demand or on a regular basis. Long-acting 
+beta2 agonists are an option for patients with nocturnal symptoms. Indacaterol 
+is a long-acting beta-2 agonist that is inhaled once a day. Indacaterol has not 
+been compared with a short-acting beta-2 agonist. Clinical evaluation is based 
+on 4 double-blind randomised placebo-controlled trials, 3 of which also included 
+a group treated with another long-acting bronchodilator (formoterol, salmeterol 
+or tiotropium. The symptomatic efficacy of indacaterol was only modest, and 
+similar to that of other long-acting bronchodilators. Indacaterol has the known 
+adverse effect profile of beta-2 agonists. Some adverse effects seem to be more 
+frequent than with other long-acting bronchodilators, including post-inhalation 
+cough, hyperglycaemia, respiratory tract infections, and possibly cardiac 
+disorders. There is no evidence that once-daily inhalation has any advantages 
+over twice-daily inhalation, even in terms of convenience. In addition, as 
+efficacy is limited, there is a risk that patients will use the drug more 
+frequently, resulting in additional adverse effects. The nebulizer used to 
+inhale the powder in the capsules is similar to the one provided with Foradil 
+(formoterol. In practice, indacaterol offers no therapeutic advantage over 
+existing treatments for patients with COPD. It is better to use the 
+best-documented drugs and, if necessary, to add non-drug measures. Eliminating 
+exposure to toxic agents, especially tobacco smoke, remains the only treatment 
+with a proven benefit on the course of COPD.
+
+PMID: 21954512 [Indexed for MEDLINE]
+
+
+13. Cochrane Database Syst Rev. 2011 Mar 16;(3):CD008532. doi: 
+10.1002/14651858.CD008532.pub2.
+
+Combination inhaled steroid and long-acting beta(2)-agonist in addition to 
+tiotropium versus tiotropium or combination alone for chronic obstructive 
+pulmonary disease.
+
+Karner C(1), Cates CJ.
+
+Author information:
+(1)Population Health Sciences and Education, St George's, University of London, 
+London, UK.
+
+Update in
+    Cochrane Database Syst Rev. 2016;(6):CD008532.
+
+Comment in
+    Evid Based Med. 2012 Jun;17(3):93-5.
+
+BACKGROUND: The long-acting bronchodilator tiotropium and single inhaler 
+combination therapy of inhaled corticosteroids and long-acting beta(2)-agonists 
+are both commonly used for maintenance treatment of chronic obstructive 
+pulmonary disease. Combining these treatments, which have different mechanisms 
+of action, may be more effective than the individual components. However, the 
+benefits and risks of using tiotropium and combination therapy together for the 
+treatment of chronic obstructive pulmonary disease are unclear.
+OBJECTIVES: To assess the relative effects of inhaled corticosteroid and 
+long-acting beta(2)-agonist combination therapy in addition to tiotropium 
+compared to tiotropium or combination therapy alone in patients with chronic 
+obstructive pulmonary disease.
+SEARCH STRATEGY: We searched the Cochrane Airways Group Specialised Register of 
+trials (July 2010) and reference lists of articles.
+SELECTION CRITERIA: We included parallel, randomised controlled trials of three 
+months or longer, comparing inhaled corticosteroid and long-acting 
+beta(2)-agonists combination therapy in addition to inhaled tiotropium against 
+tiotropium alone or combination therapy alone.
+DATA COLLECTION AND ANALYSIS: We independently assessed trials for inclusion and 
+then extracted data on trial quality and outcome results. We contacted study 
+authors for additional information. We collected information on adverse effects 
+from the trials.
+MAIN RESULTS: Three trials (1021 patients) were included comparing tiotropium in 
+addition to inhaled corticosteroid and long-acting beta(2)-agonist combination 
+therapy to tiotropium alone. The duration, type of combination treatment and 
+definition of outcomes varied. The limited data led to wide confidence intervals 
+and there was no significant statistical difference in mortality, participants 
+with one or more hospitalisations, episodes of pneumonia or adverse events. The 
+results on exacerbations were heterogeneous and were not combined. The mean 
+health-related quality of life and lung function were significantly different 
+when combination therapy was added to tiotropium, although the size of the 
+average benefits of additional combination therapy were small, St George's 
+Respiratory Questionnaire (MD -2.49; 95% CI -4.04 to -0.94) and forced 
+expiratory volume in one second (MD 0.06 L; 95% CI 0.04 to 0.08).One trial (60 
+patients) compared tiotropium plus combination therapy to combination therapy 
+alone. The results from the trial were insufficient to draw firm conclusions for 
+this comparison.
+AUTHORS' CONCLUSIONS: To date there is uncertainty regarding the long-term 
+benefits and risks of treatment with tiotropium in addition to inhaled 
+corticosteroid and long-acting beta(2)-agonist combination therapy on mortality, 
+hospitalisation, exacerbations of COPD and pneumonia. The addition of 
+combination treatment to tiotropium has shown improvements in average 
+health-related quality of life and lung function.
+
+DOI: 10.1002/14651858.CD008532.pub2
+PMCID: PMC4170905
+PMID: 21412920 [Indexed for MEDLINE]
+
+
+14. Cochrane Database Syst Rev. 2004;(3):CD003794. doi: 
+10.1002/14651858.CD003794.pub2.
+
+Combined corticosteroid and long acting beta agonist in one inhaler for chronic 
+obstructive pulmonary disease.
+
+Nannini L(1), Cates CJ, Lasserson TJ, Poole P.
+
+Author information:
+(1)Pulmonary Section, Hospital G. Baigorria, Ruta 11 Y Jm Estrada, G. Baigorria, 
+Santa Fe - Rosario, Argentina, 2152. nanninilj@cimero.org.ar
+
+Update in
+    Cochrane Database Syst Rev. 2007;(4):CD003794.
+
+Update of
+    Cochrane Database Syst Rev. 2003;(4):CD003794.
+
+BACKGROUND: long acting beta agonists and inhaled corticosteroids have both been 
+recommended in guidelines for the treatment of chronic obstructive pulmonary 
+disease. Their co-administration in a combined inhaler is intended to facilitate 
+adherence to medication regimens, and to improve efficacy.
+OBJECTIVES: To assess the efficacy of combined inhaled corticosteroid and 
+long-acting beta-agonist preparations, compared to placebo or the individual 
+components, in the treatment of adults with chronic obstructive pulmonary 
+disease.
+SEARCH STRATEGY: We searched the Cochrane Airways Group chronic obstructive 
+pulmonary disease (COPD) trials register. Date of last search April 2004.
+SELECTION CRITERIA: Studies were included if they were randomised and 
+double-blind. Studies could compare a combined inhaled corticosteroids and 
+long-acting beta-agonist preparation with either component preparation or 
+placebo.
+DATA COLLECTION AND ANALYSIS: Two reviewers independently assessed trial quality 
+and extracted data. The primary outcome was exacerbations.
+MAIN RESULTS: Six randomised trials with 4118 participants were included. Two 
+different combination preparations (fluticasone/salmeterol and 
+budesonide/formoterol) were used. Combination treatment was more effective than 
+placebo for mean exacerbation rates, quality of life and lung function. No 
+trials were found comparing the combination of drugs in a single inhaler with 
+the same drugs both given in separate inhalers. Exacerbations: 
+Fluticasone/salmeterol did not significantly reduce exacerbations compared with 
+either of its component treatments in one large study. There was no significant 
+difference when budesonide/formoterol was compared with budesonide. 
+Budesonide/formoterol was more effective than formoterol in reducing 
+exacerbations (Rate ratio: 0.78 [0.68 to 0.90], two studies). A pooled analysis 
+of both combination therapies indicated that exacerbations were less frequent 
+when compared with either placebo or long-acting beta-agonist (versus placebo 
+Rate ratio: 0.76 [0.68, 0.84], three studies, versus beta-agonist, Rate ratio: 
+0.85 [0.77, 0.95], three studies), but not when compared with steroid. The 
+clinical impact of this effect depends on the frequency of exacerbations 
+experienced by patients. One full exacerbation was prevented for every two to 
+four years of treatment in the type of patients included in the trials. Quality 
+of Life: There were conflicting findings in quality of life and symptoms when 
+fluticasone/salmeterol was compared with inhaled steroids alone (three studies). 
+There was no significant difference between fluticasone/salmeterol and 
+long-acting beta-agonist in quality of life scores (three studies). 
+Budesonide/formoterol improved symptoms when compared with budesonide but not 
+with formoterol. There were conflicting findings in quality of life scores when 
+budesonide/formoterol was compared with component inhaled corticosteroid or 
+beta-agonist. These may be accounted for by different study design. Lung 
+Function: Treatment with either combination led to small, significant 
+differences in lung function compared with component steroid medication. 
+Fluticasone/salmeterol led to small improvements in FEV1 compared with 
+salmeterol, but budesonide/formoterol treatment did not increase FEV1 
+significantly when compared with formoterol.
+REVIEWERS' CONCLUSIONS: Compared with placebo, combination therapy led to 
+clinically meaningful differences in quality of life, symptoms and 
+exacerbations. However, there were conflicting results when the different 
+combination therapies were compared with the mono-components alone. In order to 
+draw firmer conclusions about the effects of combination therapy in a single 
+inhaler more data are necessary, including the assessment of the comparative 
+effects with separate administration of the two drugs in double-dummy trials.
+
+DOI: 10.1002/14651858.CD003794.pub2
+PMID: 15266502 [Indexed for MEDLINE]
+
+
+15. BioDrugs. 2001;15(1):11-24. doi: 10.2165/00063030-200115010-00002.
+
+Long-acting beta-agonist treatment in patients with persistent asthma already 
+receiving inhaled corticosteroids.
+
+Hancox RJ(1), Taylor DR.
+
+Author information:
+(1)Department of Medical and Surgical Sciences, Dunedin School of Medicine, 
+University of Otago, Dunedin, New Zealand.
+
+International guidelines recommend that long acting beta agonists should be 
+considered in patients who are symptomatic despite moderate doses of inhaled 
+corticosteroids. When combined with inhaled corticosteroids they improve asthma 
+symptoms and lung function and reduce exacerbations. The evidence suggests that 
+they are well tolerated. However, they are less effective than inhaled 
+corticosteroids as monotherapy and should not be used alone, although the 
+addition of a long-acting beta-agonist may permit a small reduction in the 
+corticosteroid dose. Both salmeterol and formoterol appear equally effective in 
+improving asthma control. Formoterol, however, has a rapid onset of action and 
+is now being promoted for the relief of acute asthma symptoms. Both drugs 
+provide prolonged protection against exercise-induced bronchospasm. However, 
+this effect rapidly diminishes with continuous therapy and if this is the main 
+aim of treatment, intermittent use may be preferable. When compared with 
+alternative treatments, inhaled long acting beta agonists are more effective in 
+controlling asthma symptoms than either theophylline or antileukotriene agents. 
+Bambuterol, an oral prodrug of terbutaline, appears to be as effective as the 
+inhaled long acting beta agonists and has the advantage of once daily oral 
+administration. However, the inhaled long acting beta agonists are less likely 
+to have systemic adverse effects. There are theoretical concerns that regular 
+beta-agonist treatment may lead to tolerance and a failure to respond to 
+emergency asthma treatment. While there is no doubt that tolerance occurs, there 
+is currently little evidence that this is a clinical problem. Insights into 
+pharmacological as well as therapeutic interactions between inhaled 
+corticosteroids and beta-agonists are providing justification for their use in 
+combination. Guidelines for the management of patients with chronic persistent 
+asthma are likely to require modification to reflect these developments.
+
+DOI: 10.2165/00063030-200115010-00002
+PMID: 11437672 [Indexed for MEDLINE]
+
+
+16. Ann Intern Med. 2006 Nov 7;145(9):692-4. doi: 
+10.7326/0003-4819-145-9-200611070-00012.
+
+Safety and effectiveness of long-acting inhaled beta-agonist bronchodilators 
+when taken with inhaled corticosteroids.
+
+Ernst P(1), McIvor A, Ducharme FM, Boulet LP, FitzGerald M, Chapman KR, Bai T; 
+Canadian Asthma Guideline Group.
+
+Author information:
+(1)McGill University, Montréal, Québec, Canada.
+
+Comment in
+    Ann Intern Med. 2006 Nov 7;145(9):710.
+
+long acting beta agonists are a pillar of therapy for many patients with asthma 
+because they are the preferred add-on therapy to inhaled corticosteroids. 
+However, a recent meta-analysis documented a substantial increase in severe 
+exacerbations requiring hospital admission and life-threatening asthma 
+exacerbations in patients treated with long acting beta agonists. A careful 
+evaluation of this meta-analysis raises several concerns about its applicability 
+to current practice. Pivotal trials evaluating the benefit of adding long-acting 
+beta-agonists to inhaled corticosteroids were not included. The authors of the 
+current paper call for physicians to continue their usual practice of using 
+long acting beta agonists as adjunctive therapy, as well as for an independent 
+meta-analysis of individual patients using inhaled corticosteroids and 
+long acting beta agonists concomitantly.
+
+DOI: 10.7326/0003-4819-145-9-200611070-00012
+PMID: 17088583 [Indexed for MEDLINE]
+
+
+17. Clin Exp Allergy. 2017 Dec;47(12):1534-1545. doi: 10.1111/cea.13015. Epub 2017 
+Sep 26.
+
+Corticosteroid and long-acting ß-agonist therapy reduces epithelial goblet cell 
+metaplasia.
+
+Lachowicz-Scroggins ME(1), Finkbeiner WE(2), Gordon ED(3), Yuan S(4), Zlock 
+L(2), Bhakta NR(3), Woodruff PG(3), Fahy JV(1)(3), Boushey HA(3).
+
+Author information:
+(1)Cardiovascular Research Institute, University of California San Francisco, 
+San Francisco, CA, USA.
+(2)Department of Pathology, San Francisco General Hospital, University of 
+California San Francisco, San Francisco, CA, USA.
+(3)Department of Medicine Division of Pulmonary/Critical Care Medicine 
+University of California San Francisco, San Francisco, CA, USA.
+(4)The David Rockefeller Graduate Program, Laboratory of Mammalian Cell Biology 
+and Development, The Rockefeller University, New York, NY, USA.
+
+BACKGROUND: Bronchial epithelial goblet cell metaplasia (GCM) with hyperplasia 
+is a prominent feature of asthma, but the effects of treatment with 
+corticosteroids alone or in combination with a long-acting β2 -adrenergic 
+receptor agonist (LABA) on GCM in the bronchial epithelium are unknown.
+OBJECTIVES: To determine whether corticosteroid alone or in combination with a 
+LABA alters protein and gene expression pathways associated with IL-13-induced 
+goblet cell metaplasia.
+RESULTS: We evaluated the effects of fluticasone propionate (FP) and of 
+salmeterol (SM), on the response of well-differentiated cultured bronchial 
+epithelial cells to interleukin-13 (IL-13). Outcome measures included gene 
+expression of SPDEF/FOXa2, gene expression and protein production of 
+MUC5AC/MUC5B and morphologic appearance of cultured epithelial cell sheets. We 
+additionally analysed expression of these genes in bronchial epithelial 
+brushings from healthy, steroid-naïve asthmatic and steroid-treated asthmatic 
+subjects. In cultured airway epithelial cells, FP treatment inhibited 
+IL-13-induced suppression of FOXa2 gene expression and up-regulation of SPDEF, 
+alterations in gene and protein measures of MUC5AC and MUC5B and induction of 
+GCM. The addition of SM synergistically modified the effects of FP modestly-only 
+for gel-forming mucin MUC5AC. In bronchial epithelial cells recovered from 
+asthmatic vs healthy human subjects, we found FOXa2 and MUC5B gene expression to 
+be reduced and SPDEF and MUC5AC gene expression to be increased; these 
+alterations were not observed in bronchial epithelial cells recovered after 
+treatment with inhaled corticosteroids.
+CONCLUSION AND CLINICAL RELEVANCE: Corticosteroid treatment inhibits 
+IL-13-induced GCM of the airways in asthma, possibly through its effects on 
+SPDEF and FOXa2 regulation of mucin gene expression. These effects are modestly 
+augmented by the addition of a long-acting ß-agonist. As we found evidence for 
+drug treatment counteracting the effects of IL-13 on the epithelium, we conclude 
+that further exploration into the mechanisms by which corticosteroids and 
+long-acting β2 -adrenergic agonists confer protection against pathologic airway 
+changes is warranted.
+
+© 2017 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cea.13015
+PMID: 28833774 [Indexed for MEDLINE]
+
+
+18. Respir Med. 2016 Jul;116:100-6. doi: 10.1016/j.rmed.2016.05.011. Epub 2016 May 
+12.
+
+Overuse of short-acting beta-agonist bronchodilators in COPD during periods of 
+clinical stability.
+
+Fan VS(1), Gylys-Colwell I(2), Locke E(2), Sumino K(3), Nguyen HQ(4), Thomas 
+RM(2), Magzamen S(5).
+
+Author information:
+(1)VA Puget Sound Health Care System, Seattle, WA, USA; University of 
+Washington, Seattle, WA, USA. Electronic address: vincent.fan@va.gov.
+(2)VA Puget Sound Health Care System, Seattle, WA, USA.
+(3)Saint Louis VA Medical Center, St. Louis, MO, USA; Washington University 
+School of Medicine, St. Louis, MO, USA.
+(4)Department of Research & Evaluation, Kaiser Permanente Southern California, 
+Pasadena, CA, USA.
+(5)Environmental and Radiological Health Sciences, Colorado State University, 
+Fort Collins, CO, USA.
+
+BACKGROUND: Overuse of short-acting beta-agonists (SABA) is described in asthma, 
+but little is known about overuse of SABA in chronic obstructive pulmonary 
+disease (COPD).
+METHODS: Prospective 3-month cohort study of patients with moderate-to-severe 
+COPD who were provided a portable electronic inhaler sensor to monitor daily 
+SABA use. Subjects wore a pedometer for 3 seven-day periods and were asked to 
+complete a daily diary of symptoms and inhaler use. Overuse was defined as >8 
+actuations of their SABA per day while clinically stable.
+RESULTS: Among 32 participants, 15 overused their SABA inhaler at least once 
+(mean 8.6 ± 5.0 puffs/day), and 6 overused their inhaler more than 50% of 
+monitored days. Compared to those with no overuse, overusers had greater dyspnea 
+(modified Medical Research Council Dyspnea Scale: 2.7 vs. 1.9, p = 0.02), were 
+more likely to use home oxygen (67% vs. 29%, p = 0.04), and were more likely to 
+be on maximal inhaled therapy (long-acting beta-agonist, long-acting 
+antimuscarinic agent, and an inhaled steroid: 40% vs. 6%, p = 0.03), and most 
+had completed pulmonary rehabilitation (67% vs. 0%, p < 0.001). However, 27% of 
+overusers of SABA were not on guideline-concordant COPD therapy.
+CONCLUSIONS: Overuse of SABA was common and associated with increased disease 
+severity and symptoms, even though overusers were on more COPD-related inhalers 
+and more had completed pulmonary rehabilitation. More research is needed to 
+understand factors associated with inhaler overuse and how to improve correct 
+inhaler use.
+
+Published by Elsevier Ltd.
+
+DOI: 10.1016/j.rmed.2016.05.011
+PMID: 27296828 [Indexed for MEDLINE]
+
+
+19. Ann Pharmacother. 1993 Dec;27(12):1478-87. doi: 10.1177/106002809302701214.
+
+Salmeterol: a novel, long-acting beta 2-agonist.
+
+Meyer JM(1), Wenzel CL, Kradjan WA.
+
+Author information:
+(1)College of Pharmacy, University of Illinois at Chicago 60680.
+
+OBJECTIVE: The clinical pharmacology, pharmacokinetics, clinical efficacy, and 
+adverse effects of the long-acting beta 2-agonist salmeterol are reviewed.
+DATA SOURCES: A MEDLINE search was performed to identify English-language 
+publications pertaining to salmeterol.
+STUDY SELECTION: Open and controlled trials were reviewed in assessing clinical 
+efficacy. Only the results of controlled, randomized trials were considered in 
+the effectiveness evaluation.
+DATA EXTRACTION: The primary measures of effectiveness in the clinical trials 
+were bronchodilator activity and reduction of hyperresponsiveness that may 
+reflect antiinflammatory activity. Bronchodilator activity was measured as 
+changes in pulmonary function; reduction of hyperresponsiveness was evaluated 
+using respiratory challenge with methacholine, histamine, allergen, or cold air. 
+Secondary measures included symptom scores, need for rescue doses, and patient 
+preference.
+DATA SYNTHESIS: Salmeterol is a selective, beta 2-agonist that has been studied 
+in the treatment of exercise-induced, nocturnal, and allergen-induced asthma. 
+Salmeterol interacts with the traditional beta-receptor in a similar manner as 
+other beta-agonists, and it exhibits potent in vitro antiinflammatory effects as 
+an inhibitor of inflammatory mediator release. Less evidence exists for its in 
+vivo antiinflammatory activity. Salmeterol demonstrates prolonged receptor 
+occupancy, which is thought to contribute to its long duration of action. The 
+recommended dose is 50 micrograms via metered-dose inhaler or dry-powdered 
+inhalation. In the published clinical trials, salmeterol was more effective than 
+albuterol in treating asthma, including exercise and allergen-induced asthma. 
+Salmeterol's major advantage over other inhaled beta-agonists is its long 
+duration of action (12 hours), making it an excellent choice for treatment of 
+nocturnal asthma. A potential disadvantage is delayed onset of action. 
+Tachyphylaxis to salmeterol's bronchodilator effects has not been shown, but 
+tolerance to its protective effects against methacholine-induced 
+bronchoconstriction has occurred. Adverse effects reported have been mild and 
+have included headache, tremor, and palpitations.
+CONCLUSIONS: Salmeterol is an effective beta 2-agonist in the treatment of 
+asthma. However, several issues require further investigation regarding its 
+long-term effects on disease control, significance of antiinflammatory activity, 
+and role as a rescue medication.
+
+DOI: 10.1177/106002809302701214
+PMID: 7905757 [Indexed for MEDLINE]
+
+
+20. Br J Pharmacol. 2015 Jul;172(14):3537-47. doi: 10.1111/bph.13143. Epub 2015 May 
+12.
+
+The long-acting β2 -adrenoceptor agonist olodaterol attenuates pulmonary 
+inflammation.
+
+Wex E(1), Kollak I(1), Duechs MJ(1), Naline E(2), Wollin L(1), Devillier P(2).
+
+Author information:
+(1)Respiratory Diseases Research, Boehringer Ingelheim Pharma GmbH & Co. KG, 
+Biberach, Germany.
+(2)UPRES EA 220 and Clinical Research Department, Foch Hospital, University of 
+Versailles Saint-Quentin, Suresnes, France.
+
+BACKGROUND AND PURPOSE: β2 -adrenoceptor agonists are widely used in the 
+management of obstructive airway diseases. Besides their bronchodilatory effect, 
+several studies suggest inhibitory effects on various aspects of inflammation. 
+The aim of our study was to determine the efficacy of the long-acting β2 
+-adrenoceptor agonist olodaterol to inhibit pulmonary inflammation and to 
+elucidate mechanism(s) underlying its anti-inflammatory actions.
+EXPERIMENTAL APPROACH: Olodaterol was tested in murine and guinea pig models of 
+cigarette smoke- and LPS-induced lung inflammation. Furthermore, effects of 
+olodaterol on the LPS-induced pro-inflammatory mediator release from human 
+parenchymal explants, CD11b adhesion molecule expression on human granulocytes 
+TNF-α release from human whole blood and on the IL-8-induced migration of human 
+peripheral blood neutrophils were investigated.
+KEY RESULTS: Olodaterol dose-dependently attenuated cell influx and 
+pro-inflammatory mediator release in murine and guinea pig models of pulmonary 
+inflammation. These anti-inflammatory effects were observed at doses relevant to 
+their bronchodilatory efficacy. Mechanistically, olodaterol attenuated 
+pro-inflammatory mediator release from human parenchymal explants and whole 
+blood and reduced expression of CD11b adhesion molecules on granulocytes, but 
+without direct effects on IL-8-induced neutrophil transwell migration.
+CONCLUSIONS AND IMPLICATIONS: This is the first evidence for the 
+anti-inflammatory efficacy of a β2 -adrenoceptor agonist in models of lung 
+inflammation induced by cigarette smoke. The long-acting β2 -adrenoceptor 
+agonist olodaterol attenuated pulmonary inflammation through mechanisms that are 
+separate from direct inhibition of bronchoconstriction. Furthermore, the in vivo 
+data suggest that the anti-inflammatory properties of olodaterol are maintained 
+after repeated dosing for 4 days.
+
+© 2015 The Authors. British Journal of Pharmacology published by John Wiley & 
+Sons Ltd on behalf of The British Pharmacological Society.
+
+DOI: 10.1111/bph.13143
+PMCID: PMC4507158
+PMID: 25824824 [Indexed for MEDLINE]

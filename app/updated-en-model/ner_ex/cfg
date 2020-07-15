@@ -1,0 +1,21 @@
+{
+  "beam_width":1,
+  "beam_density":0.0,
+  "beam_update_prob":1.0,
+  "cnn_maxout_pieces":3,
+  "nr_feature_tokens":6,
+  "bilstm_depth":0,
+  "conv_depth":4,
+  "conv_window":1,
+  "deprecation_fixes":{
+    "vectors_name":"spacy_pretrained_vectors"
+  },
+  "embed_size":2000,
+  "hidden_depth":1,
+  "hidden_width":64,
+  "maxout_pieces":2,
+  "nr_class":30,
+  "pretrained_vectors":null,
+  "self_attn_depth":0,
+  "token_vector_width":96
+}
