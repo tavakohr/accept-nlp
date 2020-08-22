@@ -687,8 +687,8 @@ def lambda_handler(text, event=None, contex=None):
             global_dict['LAMA'] = Boolean_recognizer(text, doc_reloaded, 'LAMA', AWS_M_entities, LAMA_list)
             global_dict['LABA'] = Boolean_recognizer(text, doc_reloaded, 'LABA', AWS_M_entities, LABA_list)
             global_dict['ICS'] = Boolean_recognizer(text, doc_reloaded, 'ICS', AWS_M_entities, ICS_list)
-            global_dict['Exacerbations'] = Number_Mild_exacerbation(doc_reloaded)
-            global_dict['Severe_exacerbation'] = Number_Severe_exacerbation(text, doc_reloaded)
+            global_dict['LastYrExacCount'] = Number_Mild_exacerbation(doc_reloaded)
+            global_dict['LastYrSevExacCount'] = Number_Severe_exacerbation(text, doc_reloaded)
             global_dict['text'] = originaltext
 
             return {'stausCode': 200, 'body': global_dict}
