@@ -273,11 +273,11 @@ def Gender_recognizer(doc_reloaded):
         # print(score)
 
         if ind > 0:
-            Gender = "Female"
+            male = 0
         else:
-            Gender = "male"
+            male = 1
 
-        Out_Gender = [Gender, round(score, 3)]
+        Out_Gender = [male, round(score, 3)]
         return (Out_Gender)
     except Exception:
         print('Warning! incorrect input in Gender_recognizer')
@@ -674,14 +674,14 @@ def lambda_handler(text, event=None, contex=None):
 
             ###############  Part 2: Create output dictionary
             global_dict = {}
-            global_dict['Gender'] = Gender_recognizer(doc_reloaded)
+            global_dict['male'] = Gender_recognizer(doc_reloaded)
             global_dict['Age'] = Age_recognizer(AWS_M_entities)
             global_dict['smoker'] = Smoking_recognizer(doc_reloaded)
             global_dict['FEV1'] = FEV1_recognizer(AWS_M_entities)
             global_dict['SGRQ'] = SGRQ_recognizer(AWS_M_entities)
             global_dict['CAT'] = CAT_recognizer(AWS_M_entities)
             global_dict['BMI'] = BMI_recognizer(AWS_M_entities)
-            global_dict['Oxygen_Therapy'] = Boolean_recognizer(text, doc_reloaded, 'OXYGEN', AWS_M_entities,
+            global_dict['oxygen'] = Boolean_recognizer(text, doc_reloaded, 'OXYGEN', AWS_M_entities,
                                                                Oxygen_list)
             global_dict['Statin'] = Boolean_recognizer(text, doc_reloaded, 'STATIN', AWS_M_entities, STATIN_list)
             global_dict['LAMA'] = Boolean_recognizer(text, doc_reloaded, 'LAMA', AWS_M_entities, LAMA_list)
