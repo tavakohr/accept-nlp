@@ -273,9 +273,9 @@ def Gender_recognizer(doc_reloaded):
         # print(score)
 
         if ind > 0:
-            male = 0
+            male = '0'
         else:
-            male = 1
+            male = '1'
 
         Out_Gender = [male, round(score, 3)]
         return (Out_Gender)
@@ -652,7 +652,7 @@ def FEV1_recognizer(AWS_M_entities):
 ###########################################################################################  Part 1 :Add Text
 
 
-def lambda_handler(text, event=None, contex=None):
+def lambda_handler(text, event=None, context=None):
     originaltext = text
 
     try:
@@ -691,7 +691,7 @@ def lambda_handler(text, event=None, contex=None):
             global_dict['LastYrSevExacCount'] = Number_Severe_exacerbation(text, doc_reloaded)
             global_dict['text'] = originaltext
 
-            return {'stausCode': 200, 'body': global_dict}
+            return {'statusCode': 200, 'body': global_dict}
 
 
     except:
