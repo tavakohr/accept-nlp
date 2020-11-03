@@ -1,33 +1,19 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jun 27 17:56:51 2020
+Created on Sun Nov  1 12:10:28 2020
 @author: tavakohr
 """
-
-
-def heyhey():
-    print("hey hey")
-
-
-###########################################################################################  Part 0 :import libraries
-# import json
 import spacy
+from spacy.matcher import Matcher
 from word2number import w2n
-from collections import defaultdict
-import boto3
+from spacy.lemmatizer import Lemmatizer, ADJ, NOUN, VERB
 import os
 
-# import requests
-
-AWS_M_client = boto3.client(service_name='comprehendmedical', region_name='ca-central-1',
-                            aws_access_key_id='AKIA5NP4GPLTCRHVHBHD',
-                            aws_secret_access_key='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')
-# AWS_C_client = boto3.client(service_name='comprehend', region_name='ca-central-1',
-#                        aws_access_key_id='AKIA5NP4GPLTCRHVHBHD',
-#                        aws_secret_access_key='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')
 path = os.getcwd()
 
 nlp_reloaded = spacy.load(f'./updated-en-model')
+nlp = spacy.load("en_core_web_sm")
+lemmatizer = nlp.vocab.morphology.lemmatizer
 
 LAMA_list = ['lama', 'long acting anticholinergic', 'long acting muscarinic agent', 'long acting muscarinic antagonist',
              'long-acting muscarinic antagonist', 'tiotropium', 'aclidinium', 'glycopyrronium'
@@ -48,193 +34,172 @@ STATIN_list = ['statin', 'atorvastatin', 'fluvastatin ', 'lovastatin', 'pravasta
 
 Oxygen_list = ['oxygen therapy', 'o2', 'oxygen', 'o2 therapy']
 
-text = '''
-patient is a 78 years old female, she is not a smoker. 
-She had 20 moderate exacerbations last year.
-she had zero severe exacerbations.
-she is under treatment with budesonide and umeclidinium . 
-she never used any statins last year. 
-CAT score is 56 and her BMI is 31.
-she do not use  LABA. 
-she Never used LABA . 
-She doesn't use long acting anticholinergic.
-FEV1 percentage is 25%.
-Dr J sent his suggestions for treatment,
-SGRQ was 46
-'''
-doc_reloaded = nlp_reloaded(text)
+ExSmoker_list = ['ex smoker', 'ex-smoker', 'former smoker']
 
 
-############################################################################################ part 2: general functions
+#########################################  1-  Convert all word numbers  to digits
 
-# tests if a key exist in a dictionaly or not------------------------------------------------
+def text2int(textnum, numwords={}):
+    if not numwords:
+        units = [
+            "zero", "one", "two", "three", "four", "five", "six", "seven", "eight",
+            "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen",
+            "sixteen", "seventeen", "eighteen", "nineteen",
+        ]
 
+        tens = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]
 
-def checkKey(dict, key):
-    if key in dict.keys():
-        return 1
-    else:
-        return 0
-    #
+        scales = ["hundred", "thousand", "million", "billion", "trillion"]
 
+        numwords["and"] = (1, 0)
+        for idx, word in enumerate(units):  numwords[word] = (1, idx)
+        for idx, word in enumerate(tens):       numwords[word] = (1, idx * 10)
+        for idx, word in enumerate(scales): numwords[word] = (10 ** (idx * 3 or 2), 0)
 
-# converts the test numbers to the digital numerics------------------------------------------
+    ordinal_words = {'first': 1, 'second': 2, 'third': 3, 'fifth': 5, 'eighth': 8, 'ninth': 9, 'twelfth': 12}
+    ordinal_endings = [('ieth', 'y'), ('th', '')]
 
-def is_number_tryexcept(s):
-    """ Returns True is string is a number. """
-    try:
-        float(s)
-        return True
-    except ValueError:
-        return False
+    textnum = textnum.replace('-', ' ')
 
-    # caclulates the probability of each entity within the test----------------------------------
-
-
-def score_calculator(text, entity):
-    try:
-
-        # with nlp_reloaded2.disable_pipes('ner'):
-
-        function_out = 0
-
-        doc_reloaded = nlp_reloaded(text)
-        if entity in [ent.label_ for ent in doc_reloaded.ents]:
-            print(entity, [ent.label_ for ent in doc_reloaded.ents])
-
-            threshold = 0.2
-            beams = nlp_reloaded.entity.beam_parse([doc_reloaded], beam_width=16, beam_density=0.0001)
-
-            entity_scores = defaultdict(float)
-            for beam in beams:
-
-                for score, ents in nlp_reloaded.entity.moves.get_beam_parses(beam):
-
-                    for start, end, label in ents:
-                        # print(start, end, label)
-                        entity_scores[(start, end, label)] += score
-
-            # print ('Entities and scores (detected with beam search)')
-            entitySecors = {}
-            for key in entity_scores:
-                start, end, label = key
-                score = entity_scores[key]
-                if (score > threshold):
-                    entitySecors[label] = score
-
-            function_out = entitySecors[entity]
-
+    current = result = 0
+    curstring = ""
+    onnumber = False
+    for word in textnum.split():
+        if word in ordinal_words:
+            scale, increment = (1, ordinal_words[word])
+            current = current * scale + increment
+            if scale > 100:
+                result += current
+                current = 0
+            onnumber = True
         else:
-            function_out = 0
+            for ending, replacement in ordinal_endings:
+                if word.endswith(ending):
+                    word = "%s%s" % (word[:-len(ending)], replacement)
 
-
-
-    except TypeError:
-        print('Warning! incorrect input in score_calculator', NameError)
-        return (0)
-
-    return (round(function_out, 2))
-
-
-# score_calculator(text ,'LABA')
-
-
-###########################################################################################  Part 3: Boolean variables
-
-
-def Boolean_recognizer(text, doc_reloaded, entity, AWS_M_entities, array):
-    arr = array
-    negation = 0
-    out_spacy = '-1'  # default function output is -1 which means function cannot find any boolean entity
-    out_aws = '-1'
-    score = 0
-    score_list = []
-    is_entity_AWS = 0
-    try:
-
-        # 1- AWS section , look at AWS entities
-        for ent in AWS_M_entities:
-            if any(c in str(ent['Text']).lower() for c in arr):
-                score = ent['Score']
-                score_list.append(score)
-                is_entity_AWS = 1
-
-                if len(ent['Traits']) > 0:
-                    if checkKey(ent['Traits'][0], 'Name') == 1:
-                        negation = 1
-
-                    else:
-                        negation = 0
-
-                if is_entity_AWS == 1 and negation == 1:
-                    out_aws = '0'
-
-                elif is_entity_AWS == 1 and negation == 0:
-                    out_aws = '1'
-                    # print(is_entity_AWS ,ent)
-        if out_aws == '-1':
-            score_list.append(0)
-
-        # 2-1 SpaCy-entity section, look at doc_reloaded entities
-
-        for ent in doc_reloaded.ents:
-            # print(ent)
-            if str(ent).lower() in arr:
-                score_list.append(1)  # score_calculator(text.lower(),entity))
-
-        sents = [sent for sent in doc_reloaded.sents]
-
-        out_loop = '-1'
-        for sent in sents:
-            negation = '0'
-
-            is_entity = entity.lower() in [ent.label_.lower() for ent in sent.ents] or entity.lower() in [
-                ent.text.lower() for ent in sent.ents]
-
-            is_negation = 'neg' in [tok.dep_ for tok in sent if tok.dep_ == 'neg'] or len(
-                [tok for tok in sent if tok.text.lower() == 'no']) > 0
-            # print(is_negation ,is_entity)
-
-            if is_negation == True and is_entity == True:
-                out_loop = '0'
-
-
-            elif is_negation == False and is_entity == True:
-                out_loop = '1'
-
-            if out_loop != '0':
-                out_spacy = out_loop
+            if word not in numwords:
+                if onnumber:
+                    curstring += repr(result + current) + " "
+                curstring += word + " "
+                result = current = 0
+                onnumber = False
             else:
-                out_spacy = '0'
+                scale, increment = numwords[word]
 
-        if out_spacy == '-1':
-            score_list.append(0)
+                current = current * scale + increment
+                if scale > 100:
+                    result += current
+                    current = 0
+                onnumber = True
 
-            # if AWS finds anything but my code didn't , it means I didn't trained for that specific entity, so the AWS results is final
-        # but if I found an entity with negatoin , my code override the AWS ( it means AWS failed to find negation )
-        # otherwise AWS
+    if onnumber:
+        curstring += repr(result + current)
 
-        if out_aws == '1' and out_spacy == '-1':
-            final_output = '1'
-        elif out_spacy == '0':
-            final_output = '0'
-        else:  # when I cannot find anything and retuern -1 then AWS override
-            final_output = out_aws
+    return curstring
 
-        Out_return = [final_output, round(max(score_list), 3)]
-        return (Out_return)
+
+#########################################  2-  This is the internal function for binary finder ( negation)
+def Negative_finder(text, itemlist):
+    NER_negatives = []
+    for item in itemlist:
+        NER_negatives.append(item + ' ' + 'no')
+        NER_negatives.append('no' + ' ' + item)
+
+    neg_result = -1
+    for neg_item in NER_negatives:
+        if text.find(neg_item) > -1:
+            neg_result = 0
+
+    return (neg_result)
+
+
+#########################################  3-  This is the internal function for binary finder
+def positive_finder(text, itemlist):
+    NER_positives = []
+    for item in itemlist:
+        NER_positives.append(item + ' ' + 'yes')
+        NER_positives.append('yes' + ' ' + item)
+
+    pos_result = -1
+    for pos_item in NER_positives:
+        if text.find(pos_item) > -1:
+            pos_result = 1
+
+    return (pos_result)
+
+
+#########################################  4-  in case user forgot to say yes no , but mentioned entity it is assumed that it is positive
+def nutral_finder(text, itemlist):
+    NER_nutr = []
+    for item in itemlist:
+        NER_nutr.append(item)
+
+    nutr_result = -1
+    for nutr_item in NER_nutr:
+        if text.find(nutr_item) > -1:
+            nutr_result = 1
+
+    return (nutr_result)
+
+
+#########################################  5-  This is  the binary finder
+def binary_finder(text, itemlist):
+    try:
+        p = positive_finder(text, itemlist)
+        n = Negative_finder(text, itemlist)
+        nut = nutral_finder(text, itemlist)
+        return_v = -1
+        if p == -1 and n == -1 and nut == -1:
+            return_v = -1
+        elif p == -1 and n == -1 and nut == 1:
+            return_v = 1
+        elif p != -1 and n == -1:
+            return_v = p
+        elif n != -1 and p == -1:
+            return_v = n
+        elif n != -1 and p != -1:
+            return_v = n
+
+        return ([str(return_v), 1])
 
     except Exception as e:
         print(e)
-        return (['-1', 0])
-        print(f'Warning! incorrect input in Boolean_recognizer {entity}')
 
 
-# Boolean_recognizer(text,doc_reloaded,'STATIN',AWS_M_entities,STATIN_list)
-# Boolean_recognizer(text,doc_reloaded,'OXYGEN',AWS_M_entities,Oxygen_list)
-# Boolean_recognizer(text,doc_reloaded,'ICS',AWS_M_entities,ICS_list)
+#########################################  6-  extracts numerical attribute of entities
 
-################################################################################################   Part 4: Gender
+
+def Relation_extractor_num(text, entity):
+    try:
+
+        number = -1
+        pattern = [{'LOWER': entity.lower()},
+                   {'LEMMA': 'be', 'OP': '?'},
+                   {'IS_DIGIT': True}]
+
+        matcher = Matcher(nlp_reloaded.vocab)
+        matcher.add('EntityFinder', None, pattern)
+        doc_m = nlp_reloaded(text.lower())
+        matches = matcher(doc_m)
+        # matches
+        for matchid, start, end in matches:
+            print(matchid)
+
+            span = doc_m[start:end]
+            small_doc = nlp_reloaded(span.text)
+            for token in small_doc:
+
+                if token.pos_ == 'NUM':
+                    number = w2n.word_to_num(token.text)
+                else:
+                    pass
+
+        return ([str(number), 1])
+
+    except Exception as e:
+        print(e)
+
+    #########################################  7-  extracts the gender
 
 
 def Gender_recognizer(doc_reloaded):
@@ -274,7 +239,7 @@ def Gender_recognizer(doc_reloaded):
         else:
             score = abs(ind / denom)
 
-        print(score)
+        # print(score)
         if score == 0.5:
             male = '-1'
 
@@ -283,18 +248,20 @@ def Gender_recognizer(doc_reloaded):
         else:
             male = '1'
 
-        Out_Gender = [male, round(score, 3)]
-        return (Out_Gender)
+        Out_Gender = male
+        return ([Out_Gender, 1])
     except Exception as e:
         print(e)
         return (['-1', 0])
         print('Warning! incorrect input in Gender_recognizer')
 
+    #########################################  8-  extracts the smoking status
 
-################################################################################################   Part 5.1: Smoking history
+
 def Smoking_recognizer(doc_reloaded):
     doc = doc_reloaded
     sents = [sent for sent in doc.sents]
+    smoker = -1
 
     try:
         out_loop = '-1'  # default valu is -1 which means function couldn't find the smocking entity
@@ -303,407 +270,61 @@ def Smoking_recognizer(doc_reloaded):
 
             negation = [tok for tok in sent if tok.dep_ == 'neg']
 
-            quitted = [tok for tok in sent if tok.lemma_ == 'quit' or tok.lemma_ == 'no' or tok.lemma_ == 'not']
+            quitted = [tok for tok in sent if tok.lemma_ == 'quit' or tok.lemma_ == 'no' or tok.lemma_ == 'not'
+                       or tok.lemma_ == 'non' or tok.lemma_ == 'ex']
+
+            for it in ExSmoker_list:
+                if sent.text.find(it) > -1:
+                    smoker = 0
+
             # print(sent, any(tok for tok in sent if tok.lemma_ == 'smoke' or tok.lemma_ == 'smoker'or tok.lemma_ == 'smoking'))
             if any(tok for tok in sent if tok.lemma_ == 'smoke' or tok.lemma_ == 'smoker' or tok.lemma_ == 'smoking'):
 
-                if len(negation) > 0 or len(quitted) > 0:
+                if len(negation) > 0 or len(quitted) > 0 or smoker == 0:
                     out_loop = '0'
                 else:
                     out_loop = '1'
         if out_loop != '-1':
             out = out_loop
-            score = 1
+
         else:
             out = '-1'
-            score = 0
 
         # score=score_calculator(doc_reloaded,"smoke")
-        out_smoking = [out, round(score, 3)]
+        out_smoking = out
 
-        return (out_smoking)
-
-    except Exception as e:
-        print(e)
-        return (['-1', 0])
-        print('Warning! incorrect input in Smoking_recognizer')
-
-
-# Smoking_recognizer(doc_reloaded)
-
-################################################################################################   Part 6: Severe exacerbations
-
-def Number_Severe_exacerbation(text, doc_reloaded):
-    n = '-1'
-    sent_n = -1
-    score = 0
-    zero_finder = 0
-    sents = [sent for sent in doc_reloaded.sents]
-    # sent=sents[2]
-
-    try:
-
-        for sent in sents:
-
-            severe_token_exacerbation = 0
-            sent_entity_exacerbation = 0
-            N_exacerbation = 0
-
-            negation_list = []
-            neg_words_in_sentence = [tok for tok in sent if tok.text.lower() == 'no']
-            neg_token_dependency = [tok for tok in sent if tok.dep_ == 'neg']
-            if len(neg_words_in_sentence) > 0:
-                negation_list.append(neg_words_in_sentence)
-
-            if len(neg_token_dependency) > 0:
-                negation_list.append(neg_token_dependency)
-
-            negation = len(negation_list)
-            # print(negation)
-
-            # following I used both token method and entity emethod to identify severe exacerbation if eiother happentd I count as severe exacerbation
-            for ent in sent.ents:
-
-                if str(ent.label_) == 'SevereExacerbation':
-                    score = 1  # score_calculator(text,'SevereExacerbation')
-                    # print (ent.label_)
-
-                    sent_entity_exacerbation = 1
-
-            for token in sent:
-
-                # print(token, token.dep_)
-                for child in token.children:
-
-                    if child.text.lower() == 'zero' or child.text.lower() == '0':
-                        print(child.text.lower())
-                        zero_finder = 1
-                    # print(f'{token } , {token.dep_ } ----->{child},{child.dep_}')
-
-                    # if (token.text.lower()=='exacerbation' or token.text.lower()=='exacerbations'  ):
-                    # print(f" {str(token.text):<15}   {token.dep_:<10}  {child}","----->" ,child.dep_)
-
-                    if (
-                            token.text.lower() == 'exacerbation' or token.text.lower() == 'exacerbations') and child.dep_ == 'nummod':
-                        N_exacerbation = child
-                        # print(sent_entity_exacerbation,child)
-                    if (
-                            token.text.lower() == 'exacerbation' or token.text.lower() == 'exacerbations') and child.text.lower() == 'severe':
-                        severe_token_exacerbation = 1
-
-                        # print('zero_finder' ,zero_finder)
-
-            # print(sent, severe_token_exacerbation ,N_exacerbation)
-
-            if severe_token_exacerbation == 1:
-                sent_n = w2n.word_to_num(str(N_exacerbation))
-
-                if zero_finder == 1:
-                    sent_n = 0
-
-                if w2n.word_to_num(str(N_exacerbation)) > w2n.word_to_num(str(sent_n)):
-                    sent_n = str(w2n.word_to_num(str(N_exacerbation)))
-                    # print(  N_exacerbation)
-                    # print(sent_n)
-
-            if (severe_token_exacerbation == 1 or sent_entity_exacerbation == 1) and negation == 1:
-                n = '0'
-            elif (severe_token_exacerbation == 1 or sent_entity_exacerbation == 1) and negation == 0:
-                n = sent_n
-
-        out_ = [n, round(score, 3)]
-        return (out_)
+        return ([out_smoking, 1])
 
     except Exception as e:
         print(e)
-        return (['-1', 0])
-        print('Warning! incorrect input , Number_Severe_exacerbation function')
 
 
-# Number_Severe_exacerbation(text,doc_reloaded)
-
-
-################################################################################################   Part 7: Mild exacerbations
-
-
-def Number_Mild_exacerbation(doc_reloaded):
-    n = '-1'
-    sent_n = '-1'
-    zero_finder = 0
-
-    sents = [sent for sent in doc_reloaded.sents]
-
-    # sent = sents[1]
-    try:
-
-        for sent in sents:
-            if 'exacerbation' in sent.text:
-
-                severe_token_exacerbation = 0
-                N_exacerbation = -1
-
-                negation_list = []
-                neg_words_in_sentence = [tok for tok in sent if tok.text.lower() == 'no']
-                neg_token_dependency = [tok for tok in sent if tok.dep_ == 'neg']
-                if len(neg_words_in_sentence) > 0:
-                    negation_list.append(neg_words_in_sentence)
-
-                if len(neg_token_dependency) > 0:
-                    negation_list.append(neg_token_dependency)
-
-                negation = len(negation_list)
-                # print(negation)
-
-                for token in sent:
-
-                    for child in token.children:
-                        if child.text.lower() == 'zero' or child.text.lower() == '0':
-                            print(child.text.lower())
-                            zero_finder = 1
-
-                        # if (token.text.lower()=='exacerbation' or token.text.lower()=='exacerbations'  ):
-                        # print(f" {str(token.text):<15}   {token.dep_:<10}  {child}","----->" ,child.dep_)
-
-                        if (
-                                token.text.lower() == 'exacerbation' or token.text.lower() == 'exacerbations') and child.dep_ == 'nummod':
-                            N_exacerbation = child
-                            # print(child)
-                        if (
-                                token.text.lower() == 'exacerbation' or token.text.lower() == 'exacerbations') and child.text.lower() == 'severe':
-                            severe_token_exacerbation = 1
-
-                # print(severe_token_exacerbation, N_exacerbation)
-
-                if severe_token_exacerbation != 1:
-
-                    if zero_finder == 1:
-                        sent_n = '0'
-
-                    if sent_n == '-1':
-                        if w2n.word_to_num(str(N_exacerbation)) >= 0:
-                            sent_n = str(w2n.word_to_num(str(N_exacerbation)))
-
-
-                    elif w2n.word_to_num(str(N_exacerbation)) > w2n.word_to_num(str(sent_n)):
-                        sent_n = str(w2n.word_to_num(str(N_exacerbation)))
-                        print(sent_n)
-
-                if (severe_token_exacerbation == 0) and negation == 1:
-                    n = '0'
-                    # print(sent)
-                elif (severe_token_exacerbation == 0) and negation == 0:
-                    n = sent_n
-
-            # score=score_calculator(text,'SevereExacerbation')
-            out_ = [n, 1.0]
-        return (out_)
-
-    except Exception as e:
-        print(e)
-        return (['-1', 0])
-
-
-# Number_Mild_exacerbation(doc_reloaded)
-
-################################################################################################   Part 8: Continues Variables
-
-################################################# Age ################################
-def Age_recognizer(AWS_M_entities):
-    score = 0
-    AWS_M_entities = AWS_M_entities
-    Age_loop = '-1'
-    try:
-        for entity in AWS_M_entities:
-            # print('Entity ', i, entity)
-            if entity['Type'] == 'AGE':
-                score = entity['Score']
-                Age_loop = entity['Text']
-        if Age_loop != '-1':
-
-            if is_number_tryexcept(Age_loop) == True:
-                Age = str(Age_loop)
-            else:
-                Age = str(w2n.word_to_num(str(Age_loop)))
-
-        else:
-            Age = '-1'
-
-        Age_return = [Age, round(score, 3)]
-        return (Age_return)
-
-    except Exception as e:
-        print(e)
-        return (['-1', 0])
-        print('Warning! incorrect input in Age_recognizer')
-
-    # Age_recognizer(AWS_M_entities)
-
-
-################################################# BMI ################################
-
-def BMI_recognizer(AWS_M_entities):
-    arr = ['bmi', 'body mass index']
-    BMI_loop = '-1'
-    score = 0
-    try:
-        for entity in AWS_M_entities:
-
-            string = str(entity['Text']).lower()
-            if any(c in string for c in arr):
-                score = entity['Score']
-                # print(entity)
-
-                if checkKey(entity, 'Attributes') == 1:
-
-                    if checkKey(entity['Attributes'][0], 'Text') == 1:
-                        BMI_loop = entity['Attributes'][0]['Text']
-                        # print( entity['Attributes'][0]['Text'])
-
-            if BMI_loop != '-1':
-                BMI = str(w2n.word_to_num(str(BMI_loop)))
-            else:
-                BMI = '-1'
-
-        BMI_return = [BMI, round(score, 3)]
-
-        return (BMI_return)
-
-    except Exception as e:
-        print(e)
-        return (['-1', 0])
-        print('Warning! incorrect input in BMI_recognizer ')
-
-
-# BMI_recognizer(AWS_M_entities)
-
-
-################################################# SGRQ ################################
-def SGRQ_recognizer(AWS_M_entities):
-    arr = ['respiratory questionnaire score', 'sgrq', 'st george score', "st. george's respiratory questionnaire"]
-    SGRQ_loop = '-1'
-    score = 0
-    try:
-        for entity in AWS_M_entities:
-            string = str(entity['Text']).lower()
-            if any(c in string for c in arr):
-                score = entity['Score']
-
-                if checkKey(entity, 'Attributes') == 1:
-
-                    # print( entity['Attributes'][0]['Text'] )
-                    if checkKey(entity['Attributes'][0], 'Text') == 1:
-                        SGRQ_loop = entity['Attributes'][0]['Text']
-
-        if SGRQ_loop != '-1':
-            if is_number_tryexcept(SGRQ_loop) == True:
-                SGRQ = str(SGRQ_loop)
-            else:
-                SGRQ = str(w2n.word_to_num(str(SGRQ_loop)))
-        else:
-            SGRQ = '-1'
-
-        out_ = [SGRQ, round(score, 3)]
-        return (out_)
-
-    except Exception as e:
-        print(e)
-        return (['-1', 0])
-        print('Warning! incorrect input in SGRQ_recognizer')
-
-
-# SGRQ_recognizer(AWS_M_entities)
-
-################################################# CAT ################################
-def CAT_recognizer(AWS_M_entities):
-    arr = ['copd assessment', 'cat score', 'cat']
-    CAT_loop = '-1'
-    score = 0
-
-    try:
-        for entity in AWS_M_entities:
-            string = str(entity['Text']).lower()
-            if any(c in string for c in arr):
-                score = entity['Score']
-
-                if checkKey(entity, 'Attributes') == 1:
-
-                    # print( entity['Attributes'][0]['Text'] )
-                    if checkKey(entity['Attributes'][0], 'Text') == 1:
-                        CAT_loop = entity['Attributes'][0]['Text']
-
-        if CAT_loop != '-1':
-            if is_number_tryexcept(CAT_loop) == True:
-                CAT = str(CAT_loop)
-            else:
-                CAT = str(w2n.word_to_num(str(CAT_loop)))
-
-        else:
-            CAT = '-1'
-
-        out_ = [CAT, round(score, 3)]
-
-        return (out_)
-
-    except Exception as e:
-        print(e)
-        return (['-1', 0])
-        print('Warning! incorrect input in CAT_recognizer')
-
-
-# CAT_recognizer(AWS_M_entities)
-
-
-#################################   FEV1 ###################################################
-
-def FEV1_recognizer(AWS_M_entities):
-    arr = ['fev1']
-    FEV1_loop = '-1'
-    score = 0
-    try:
-        for entity in AWS_M_entities:
-            string = str(entity['Text']).lower()
-            if any(c in string for c in arr):
-                score = entity['Score']
-
-                if checkKey(entity, 'Attributes') == 1:
-
-                    # print( entity['Attributes'][0]['Text'] )
-                    if checkKey(entity['Attributes'][0], 'Text') == 1:
-                        FEV1_loop = entity['Attributes'][0]['Text']
-
-        if FEV1_loop != '-1':
-            FEV1 = FEV1_loop
-        else:
-            FEV1 = '-1'
-
-        if FEV1_loop != '-1':
-            if is_number_tryexcept(FEV1_loop) == True:
-                FEV1 = str(FEV1_loop)
-            else:
-                FEV1 = str(w2n.word_to_num(str(FEV1_loop)))
-
-        else:
-            FEV1 = '-1'
-
-        out_ = [FEV1, round(score, 3)]
-
-        return (out_)
-
-        return (FEV1)
-
-    except Exception as e:
-        print(e)
-        return (['-1', 0])
-        print('there is not a correct input in FEV1_recognizer')
-
-
-# FEV1_recognizer(AWS_M_entities)
-
-###########################################################################################  Part 1 :Add Text
+#########################################  9-  Lambda functoin to export all the results into json
 
 
 def lambda_handler(text, event=None, context=None):
     originaltext = text
+    text = text.lower()
+
+    text = text.replace(',', ' , ')
+    text = text.replace('\n', ' , ')
+    text = text.replace('next', ' , ')
+
+    text = text2int(text)
+    text = text.replace('zero', '0')
+
+    pre_doc = nlp_reloaded(text)
+
+    for token in pre_doc:
+
+        if token.tag_ == 'NNS':
+            singular = lemmatizer(token.text, NOUN)[0]
+            print(token.text, token.tag_, singular)
+
+            # print(singular,token.text)
+            text = text.replace(token.text, singular)
+
+    doc_reloaded = nlp_reloaded(text)
 
     try:
         #############  Part 1: Analyse text with 4 NLP Models
@@ -713,45 +334,46 @@ def lambda_handler(text, event=None, context=None):
             return
         elif text != '':
 
-            fulldocument = text.replace(" and ", ". and ")
-            fulldocument = fulldocument.replace(" but ", ". but ")
-            fulldocument = fulldocument.replace(" ,but ", ". but ")
-            fulldocument = fulldocument.replace(",and ", ". and ")
-            text = fulldocument
-
-            AWS_M_result = AWS_M_client.detect_entities(Text=text)
-            AWS_M_entities = AWS_M_result['Entities']
-            # AWS_C_tokens=AWS_C_client.detect_syntax(Text=   text,LanguageCode='en')
-            doc_reloaded = nlp_reloaded(text)
-
             ###############  Part 2: Create output dictionary
             global_dict = {}
             global_dict['male'] = Gender_recognizer(doc_reloaded)
-            global_dict['Age'] = Age_recognizer(AWS_M_entities)
+            global_dict['Age'] = Relation_extractor_num(text, 'age')
             global_dict['smoker'] = Smoking_recognizer(doc_reloaded)
-            global_dict['FEV1'] = FEV1_recognizer(AWS_M_entities)
-            global_dict['SGRQ'] = SGRQ_recognizer(AWS_M_entities)
-            global_dict['CAT'] = CAT_recognizer(AWS_M_entities)
-            global_dict['BMI'] = BMI_recognizer(AWS_M_entities)
-            global_dict['oxygen'] = Boolean_recognizer(text, doc_reloaded, 'OXYGEN', AWS_M_entities,
-                                                       Oxygen_list)
-            global_dict['Statin'] = Boolean_recognizer(text, doc_reloaded, 'STATIN', AWS_M_entities, STATIN_list)
-            global_dict['LAMA'] = Boolean_recognizer(text, doc_reloaded, 'LAMA', AWS_M_entities, LAMA_list)
-            global_dict['LABA'] = Boolean_recognizer(text, doc_reloaded, 'LABA', AWS_M_entities, LABA_list)
-            global_dict['ICS'] = Boolean_recognizer(text, doc_reloaded, 'ICS', AWS_M_entities, ICS_list)
-            global_dict['LastYrExacCount'] = Number_Mild_exacerbation(doc_reloaded)
-            global_dict['LastYrSevExacCount'] = Number_Severe_exacerbation(text, doc_reloaded)
+            global_dict['FEV1'] = Relation_extractor_num(text, 'fev1')
+            global_dict['SGRQ'] = Relation_extractor_num(text, 'SGRQ')
+            global_dict['CAT'] = Relation_extractor_num(text, 'cat')
+            global_dict['BMI'] = Relation_extractor_num(text, 'bmi')
+            global_dict['oxygen'] = binary_finder(text, Oxygen_list)
+            global_dict['Statin'] = binary_finder(text, STATIN_list)
+            global_dict['LAMA'] = binary_finder(text, LAMA_list)
+            global_dict['LABA'] = binary_finder(text, LABA_list)
+            global_dict['ICS'] = binary_finder(text, ICS_list)
+            global_dict['LastYrExacCount'] = Relation_extractor_num(text, 'exacerbation')
+            global_dict['LastYrSevExacCount'] = Relation_extractor_num(text, 'hospitalization')
             global_dict['text'] = originaltext
 
             return {'statusCode': 200, 'body': global_dict}
 
 
-    except:
-        if len(text) < 5000:
-            print('file size has an issue')
-        else:
-            print('Warning! incorrect input in lambda_handler')
+    except Exception as e:
+        print(e)
 
+
+text = '''
+Age 87,
+sex Female,
+BMI 26,
+Smoking non smoker,
+Oxygen  No ,
+LAMA no,
+yes LABA ,
+ICS no,
+Statin no,,
+FEV1 41
+Number of exacerbations one
+Hospitalizations  one,
+SGRQ 20
+'''
 
 ############################### app.py - a minimal flask api using flask_restful
 from flask import Flask, request, jsonify, render_template
