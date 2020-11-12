@@ -32,9 +32,11 @@ STATIN_list = ['statin', 'atorvastatin', 'fluvastatin ', 'lovastatin', 'pravasta
                'lipitor', 'lescol',
                'pravachol', 'crestor', 'zocor']
 
-Oxygen_list = ['oxygen therapy', 'o2', 'oxygen', 'o2 therapy']
+Oxygen_list = ['oxygen therapy', 'o2', 'oxygen', 'o2 therapy', 'oxygen Therapy in the last year',
+               'oxygen in the last year'
+    , 'Oxygen last year', 'oxygen therapy last year', 'oxygen Therapy in last year', 'oxygen in last year']
 
-ExSmoker_list = ['ex smoker', 'ex-smoker', 'former smoker']
+ExSmoker_list = ['ex smoker', 'ex-smoker', 'former smoker', 'exsmoker']
 
 
 #########################################  1-  Convert all word numbers  to digits
@@ -99,15 +101,17 @@ def text2int(textnum, numwords={}):
 
 
 #########################################  2-  This is the internal function for binary finder ( negation)
+
+
 def Negative_finder(text, itemlist):
     NER_negatives = []
     for item in itemlist:
-        NER_negatives.append(item + ' ' + 'no')
-        NER_negatives.append('no' + ' ' + item)
+        NER_negatives.append(item.lower() + ' ' + 'no')
+        NER_negatives.append('no' + ' ' + item.lower())
 
     neg_result = -1
     for neg_item in NER_negatives:
-        if text.find(neg_item) > -1:
+        if text.lower().find(neg_item.lower()) > -1:
             neg_result = 0
 
     return (neg_result)
@@ -199,8 +203,54 @@ def Relation_extractor_num(text, entity):
     except Exception as e:
         print(e)
 
-    #########################################  7-  extracts the gender
+    #########################################  61-  extracts exacerbation
 
+
+def Relation_extractor_Lastyear(text, entity):
+    try:
+
+        number = -1
+        pattern = [{'LOWER': entity.lower()},
+                   {'LOWER': 'in', 'OP': '?'},
+                   {'LOWER': 'the', 'OP': '?'},
+                   {'LOWER': 'last', 'OP': '?'},
+                   {'LOWER': 'year', 'OP': '?'},
+                   {'LEMMA': 'be', 'OP': '?'},
+                   {'IS_DIGIT': True}]
+        pattern2 = [{'IS_DIGIT': True},
+                    {'LOWER': entity.lower()},
+                    {'LOWER': 'in', 'OP': '?'},
+                    {'LOWER': 'the', 'OP': '?'},
+                    {'LOWER': 'last', 'OP': '?'},
+                    {'LOWER': 'year', 'OP': '?'}]
+        matcher = Matcher(nlp_reloaded.vocab)
+        matcher.add('EntityFinder', None, pattern)
+        matcher.add('EntityFinder', None, pattern2)
+        doc_m = nlp_reloaded(text.lower())
+        matches = matcher(doc_m)
+        # matches
+        for matchid, start, end in matches:
+            print(matchid)
+
+            span = doc_m[start:end]
+            small_doc = nlp_reloaded(span.text)
+            print(small_doc)
+            for token in small_doc:
+
+                if token.pos_ == 'NUM':
+                    number = w2n.word_to_num(token.text)
+                else:
+                    pass
+
+        return ([str(number), 1])
+
+    except Exception as e:
+        print(e)
+
+    # Relation_extractor_Lastyear(text,'hospitalization')
+
+
+#########################################  7-  extracts the gender
 
 def Gender_recognizer(doc_reloaded):
     ind = 0
@@ -348,8 +398,8 @@ def lambda_handler(text, event=None, context=None):
             global_dict['LAMA'] = binary_finder(text, LAMA_list)
             global_dict['LABA'] = binary_finder(text, LABA_list)
             global_dict['ICS'] = binary_finder(text, ICS_list)
-            global_dict['LastYrExacCount'] = Relation_extractor_num(text, 'exacerbation')
-            global_dict['LastYrSevExacCount'] = Relation_extractor_num(text, 'hospitalization')
+            global_dict['LastYrExacCount'] = Relation_extractor_Lastyear(text, 'exacerbation')
+            global_dict['LastYrSevExacCount'] = Relation_extractor_Lastyear(text, 'hospitalization')
             global_dict['text'] = originaltext
 
             return {'statusCode': 200, 'body': global_dict}
@@ -360,21 +410,22 @@ def lambda_handler(text, event=None, context=None):
 
 
 text = '''
-Age 87,
-sex Female,
-BMI 26,
-Smoking non smoker,
-Oxygen  No ,
-LAMA no,
-yes LABA ,
-ICS no,
-Statin no,,
-FEV1 41
-Number of exacerbations one
-Hospitalizations  one,
+Age  87,
+sex  Female,
+BMI   26,
+Smoking is that is a   non smoker,
+Oxygen  no ,
+LAMA  no,
+yes   LABA ,
+ICS   no,
+Statin   no,,
+FEV1   41
+three   Exacerbations Last Year 
+zero Hospitalizations ,
 SGRQ 20
 '''
 
+# lambda_handler(text)
 ############################### app.py - a minimal flask api using flask_restful
 from flask import Flask, request, jsonify, render_template
 from flask_restful import Resource, Api
